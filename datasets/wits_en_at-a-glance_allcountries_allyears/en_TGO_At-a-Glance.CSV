@@ -1,0 +1,105 @@
+Reporter,Year,Partner,Product categories,Indicator Type,Indicator,Indicator Value
+Togo,2019,Burkina Faso,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,132.076357601725
+Togo,2019,Benin,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,110.294187820115
+Togo,2019,India,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,107.030495893675
+Togo,2019,Niger,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,81.8706733462288
+Togo,2019,Ghana,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,79.5315732097392
+Togo,2019,China,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,402.471075777375
+Togo,2019,France,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,149.992529070327
+Togo,2019,United States,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,121.309761727839
+Togo,2019,India,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,88.7680475397291
+Togo,2019,Netherlands,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,86.4289935909266
+Togo,2019,World,Animal,Export,Export(US$ Mil),24.2928174764704
+Togo,2019,World,Vegetable,Export,Export(US$ Mil),89.123330302544
+Togo,2019,World,Food Products,Export,Export(US$ Mil),68.4601989250981
+Togo,2019,World,Minerals,Export,Export(US$ Mil),175.447965598593
+Togo,2019,World,Fuels,Export,Export(US$ Mil),64.0664340252464
+Togo,2019,World,Chemicals,Export,Export(US$ Mil),87.1700974288144
+Togo,2019,World,Plastic or Rubber,Export,Export(US$ Mil),105.579306057467
+Togo,2019,World,Hides and Skins,Export,Export(US$ Mil),0.659234964168
+Togo,2019,World,Wood,Export,Export(US$ Mil),18.1731931639456
+Togo,2019,World,Textiles and Clothing,Export,Export(US$ Mil),144.690499129696
+Togo,2019,World,Footwear,Export,Export(US$ Mil),24.6483376784656
+Togo,2019,World,Stone and Glass,Export,Export(US$ Mil),0.291766634456
+Togo,2019,World,Metals,Export,Export(US$ Mil),20.6110174959216
+Togo,2019,World,Mach and Elec,Export,Export(US$ Mil),22.4618989954832
+Togo,2019,World,Transportation,Export,Export(US$ Mil),66.7586716981008
+Togo,2019,World,Miscellaneous,Export,Export(US$ Mil),4.64984362100526
+Togo,2019,World,Raw materials,Export,Export(US$ Mil),237.119209444717
+Togo,2019,World,Intermediate goods,Export,Export(US$ Mil),205.698312833583
+Togo,2019,World,Consumer goods,Export,Export(US$ Mil),392.59044663494
+Togo,2019,World,Capital goods,Export,Export(US$ Mil),81.6766442822352
+Togo,2019,World,Raw materials,Import,Import(US$ Mil),120.409618795649
+Togo,2019,World,Intermediate goods,Import,Import(US$ Mil),577.959430845944
+Togo,2019,World,Consumer goods,Import,Import(US$ Mil),775.711327976789
+Togo,2019,World,Capital goods,Import,Import(US$ Mil),370.292101766138
+Togo,2019,World,All Products,Export,Exports (in US$ Mil),917.084613195475
+Togo,2019,World,All Products,Import,Imports (in US$ Mil),1844.41671390292
+Togo,2019,World,All Products,Tariff,Duty Free Imports (US$ Thousand),300054.808295227
+Togo,2019,...,...,Development,Trade Balance (current US$ Mil),-633.114586
+Togo,2019,...,...,Development,GDP (current US$ Mil),5490.272413
+Togo,2019,...,...,Tariff,No. Of Tariff Agreement,2
+Togo,2019,...,...,Import,No. Of Import partners,136
+Togo,2019,...,...,Import,No. Of Import products,2449
+Togo,2019,...,...,Export,No. Of Export partners,94
+Togo,2019,...,...,Export,No. Of Export products,697
+Togo,2019,...,...,Others,Population,8082366
+Togo,2019,...,...,Others,Ease of Doing Business Rank,97
+Togo,2019,...,...,Others,Trading Across Borders Rank,131
+Togo,2019,...,...,Others,CPIA Trade Ratings,4
+Togo,2018,...,...,Others,LPI Rank,118
+Togo,2018,...,...,Others,LPI Score,2.45
+Togo,2014,...,...,Others,No Of NTM Affected Products (HS 6 Digit),5052
+Togo,2014,...,...,Others,No Of NTM Measures,34
+Togo,2009,...,...,Others,Overall Trade Restrictiveness Index -  Applied Tariff,0.1149931
+Togo,2009,...,...,Others,Overall Trade Restrictiveness Index - MFN Tariff,0.1194208
+Togo,2019,Burkina Faso,All Products,Export,Partner share(%)-Top 5 Export Partner,14.4018
+Togo,2019,Benin,All Products,Export,Partner share(%)-Top 5 Export Partner,12.0266
+Togo,2019,India,All Products,Export,Partner share(%)-Top 5 Export Partner,11.6707
+Togo,2019,Niger,All Products,Export,Partner share(%)-Top 5 Export Partner,8.9273
+Togo,2019,Ghana,All Products,Export,Partner share(%)-Top 5 Export Partner,8.6722
+Togo,2019,China,All Products,Import,Partner share(%)-Top 5 Import Partner,21.821
+Togo,2019,France,All Products,Import,Partner share(%)-Top 5 Import Partner,8.1322
+Togo,2019,United States,All Products,Import,Partner share(%)-Top 5 Import Partner,6.5771
+Togo,2019,India,All Products,Import,Partner share(%)-Top 5 Import Partner,4.8128
+Togo,2019,Netherlands,All Products,Import,Partner share(%)-Top 5 Import Partner,4.686
+Togo,2019,World,Animal,Export,Export Product share(%),2.6489
+Togo,2019,World,Vegetable,Export,Export Product share(%),9.7181
+Togo,2019,World,Food Products,Export,Export Product share(%),7.465
+Togo,2019,World,Minerals,Export,Export Product share(%),19.1311
+Togo,2019,World,Fuels,Export,Export Product share(%),6.9859
+Togo,2019,World,Chemicals,Export,Export Product share(%),9.5051
+Togo,2019,World,Plastic or Rubber,Export,Export Product share(%),11.5125
+Togo,2019,World,Hides and Skins,Export,Export Product share(%),0.0719
+Togo,2019,World,Wood,Export,Export Product share(%),1.9816
+Togo,2019,World,Textiles and Clothing,Export,Export Product share(%),15.7772
+Togo,2019,World,Footwear,Export,Export Product share(%),2.6877
+Togo,2019,World,Stone and Glass,Export,Export Product share(%),0.0318
+Togo,2019,World,Metals,Export,Export Product share(%),2.2474
+Togo,2019,World,Mach and Elec,Export,Export Product share(%),2.4493
+Togo,2019,World,Transportation,Export,Export Product share(%),7.2794
+Togo,2019,World,Miscellaneous,Export,Export Product share(%),0.507
+Togo,2019,World,Raw materials,Export,Export Product share(%),25.8558
+Togo,2019,World,Intermediate goods,Export,Export Product share(%),22.4296
+Togo,2019,World,Consumer goods,Export,Export Product share(%),42.8085
+Togo,2019,World,Capital goods,Export,Export Product share(%),8.9061
+Togo,2019,World,Raw materials,Import,Import Product share(%),6.5283
+Togo,2019,World,Intermediate goods,Import,Import Product share(%),31.3356
+Togo,2019,World,Consumer goods,Import,Import Product share(%),42.0573
+Togo,2019,World,Capital goods,Import,Import Product share(%),20.0764
+Togo,2019,World,Raw materials,Tariff,Weighted Average (%),11.9667532225471
+Togo,2019,World,Intermediate goods,Tariff,Weighted Average (%),9.37655850026457
+Togo,2019,World,Consumer goods,Tariff,Weighted Average (%),13.2895565148837
+Togo,2019,World,Capital goods,Tariff,Weighted Average (%),9.04922330978491
+Togo,2019,World,All Products,Trade Indicator,World Growth (%),-1.13475826045476
+Togo,2019,World,All Products,Trade Indicator,Country Growth (%),-18.1722566843278
+Togo,2019,World,All Products,Tariff,Simple Average (%),11.8345629436218
+Togo,2019,World,All Products,Tariff,Weighted Average (%),10.984645691808
+Togo,2019,World,All Products,Tariff,Maximum Rate (%),35
+Togo,2019,World,All Products,Tariff,Duty Free Tariff Lines Share (%),13.8019717102443
+Togo,2019,...,...,Trade Indicator,Index of export market penetration,1.68049351201872
+Togo,2019,...,...,Trade Indicator,HH Market concentration index,0.0773851356157198
+Togo,2019,...,...,Development,Trade Balance (% of GDP),-11.53156962
+Togo,2019,...,...,Development,Trade in services (% of GDP),
+Togo,2019,...,...,Development,Trade (% of GDP),71.65460451
+Togo,2019,...,...,Development,"GNI per capita, Atlas method (current US$)",690

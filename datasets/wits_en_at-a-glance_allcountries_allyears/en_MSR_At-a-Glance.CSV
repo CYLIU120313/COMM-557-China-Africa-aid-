@@ -1,0 +1,89 @@
+Reporter,Year,Partner,Product categories,Indicator Type,Indicator,Indicator Value
+Montserrat,2014,United States,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,0.978013
+Montserrat,2014,France,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,0.776724
+Montserrat,2014,St. Kitts and Nevis,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,0.751024
+Montserrat,2014,Trinidad and Tobago,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,0.326124
+Montserrat,2014,Anguila,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,0.184849
+Montserrat,2014,United States,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,30.522615
+Montserrat,2014,Trinidad and Tobago,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,2.506961
+Montserrat,2014,United Kingdom,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,1.723078
+Montserrat,2014,Japan,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,0.952461
+Montserrat,2014,Canada,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,0.90662
+Montserrat,2014,World,Animal,Export,Export(US$ Mil),0.001692
+Montserrat,2014,World,Vegetable,Export,Export(US$ Mil),0.000588
+Montserrat,2014,World,Food Products,Export,Export(US$ Mil),0.307342
+Montserrat,2014,World,Minerals,Export,Export(US$ Mil),1.970702
+Montserrat,2014,World,Fuels,Export,Export(US$ Mil),2.8E-05
+Montserrat,2014,World,Chemicals,Export,Export(US$ Mil),0.024041
+Montserrat,2014,World,Plastic or Rubber,Export,Export(US$ Mil),0.000439
+Montserrat,2014,World,Hides and Skins,Export,Export(US$ Mil),0.011957
+Montserrat,2014,World,Wood,Export,Export(US$ Mil),0.072971
+Montserrat,2014,World,Textiles and Clothing,Export,Export(US$ Mil),0.004242
+Montserrat,2014,World,Footwear,Export,Export(US$ Mil),0.000338
+Montserrat,2014,World,Stone and Glass,Export,Export(US$ Mil),0.000382
+Montserrat,2014,World,Metals,Export,Export(US$ Mil),0.079337
+Montserrat,2014,World,Mach and Elec,Export,Export(US$ Mil),0.823035
+Montserrat,2014,World,Transportation,Export,Export(US$ Mil),0.017613
+Montserrat,2014,World,Miscellaneous,Export,Export(US$ Mil),0.061251
+Montserrat,2014,World,Raw materials,Export,Export(US$ Mil),2.011986
+Montserrat,2014,World,Intermediate goods,Export,Export(US$ Mil),0.062078
+Montserrat,2014,World,Consumer goods,Export,Export(US$ Mil),0.39721
+Montserrat,2014,World,Capital goods,Export,Export(US$ Mil),0.849839
+Montserrat,2014,World,Raw materials,Import,Import(US$ Mil),1.977591
+Montserrat,2014,World,Intermediate goods,Import,Import(US$ Mil),4.984195
+Montserrat,2014,World,Consumer goods,Import,Import(US$ Mil),28.223002
+Montserrat,2014,World,Capital goods,Import,Import(US$ Mil),6.558862
+Montserrat,2014,World,All Products,Export,Exports (in US$ Mil),3.37596
+Montserrat,2014,World,All Products,Import,Imports (in US$ Mil),41.909444
+Montserrat,2013,World,All Products,Tariff,Duty Free Imports (US$ Thousand),4780.248
+Montserrat,2013,...,...,Tariff,No. Of Tariff Agreement,1
+Montserrat,2014,...,...,Import,No. Of Import partners,50
+Montserrat,2014,...,...,Import,No. Of Import products,2170
+Montserrat,2014,...,...,Export,No. Of Export partners,15
+Montserrat,2014,...,...,Export,No. Of Export products,150
+Montserrat,2014,United States,All Products,Export,Partner share(%)-Top 5 Export Partner,28.9699
+Montserrat,2014,France,All Products,Export,Partner share(%)-Top 5 Export Partner,23.0075
+Montserrat,2014,St. Kitts and Nevis,All Products,Export,Partner share(%)-Top 5 Export Partner,22.2462
+Montserrat,2014,Trinidad and Tobago,All Products,Export,Partner share(%)-Top 5 Export Partner,9.6602
+Montserrat,2014,Anguila,All Products,Export,Partner share(%)-Top 5 Export Partner,5.4754
+Montserrat,2014,United States,All Products,Import,Partner share(%)-Top 5 Import Partner,72.8299
+Montserrat,2014,Trinidad and Tobago,All Products,Import,Partner share(%)-Top 5 Import Partner,5.9819
+Montserrat,2014,United Kingdom,All Products,Import,Partner share(%)-Top 5 Import Partner,4.1114
+Montserrat,2014,Japan,All Products,Import,Partner share(%)-Top 5 Import Partner,2.2727
+Montserrat,2014,Canada,All Products,Import,Partner share(%)-Top 5 Import Partner,2.1633
+Montserrat,2014,World,Animal,Export,Export Product share(%),0.0501
+Montserrat,2014,World,Vegetable,Export,Export Product share(%),0.0174
+Montserrat,2014,World,Food Products,Export,Export Product share(%),9.1038
+Montserrat,2014,World,Minerals,Export,Export Product share(%),58.3746
+Montserrat,2014,World,Fuels,Export,Export Product share(%),0.0008
+Montserrat,2014,World,Chemicals,Export,Export Product share(%),0.7121
+Montserrat,2014,World,Plastic or Rubber,Export,Export Product share(%),0.013
+Montserrat,2014,World,Hides and Skins,Export,Export Product share(%),0.3542
+Montserrat,2014,World,Wood,Export,Export Product share(%),2.1615
+Montserrat,2014,World,Textiles and Clothing,Export,Export Product share(%),0.1257
+Montserrat,2014,World,Footwear,Export,Export Product share(%),0.01
+Montserrat,2014,World,Stone and Glass,Export,Export Product share(%),0.0113
+Montserrat,2014,World,Metals,Export,Export Product share(%),2.3501
+Montserrat,2014,World,Mach and Elec,Export,Export Product share(%),24.3793
+Montserrat,2014,World,Transportation,Export,Export Product share(%),0.5217
+Montserrat,2014,World,Miscellaneous,Export,Export Product share(%),1.8143
+Montserrat,2014,World,Raw materials,Export,Export Product share(%),59.5974
+Montserrat,2014,World,Intermediate goods,Export,Export Product share(%),1.8388
+Montserrat,2014,World,Consumer goods,Export,Export Product share(%),11.7658
+Montserrat,2014,World,Capital goods,Export,Export Product share(%),25.1733
+Montserrat,2014,World,Raw materials,Import,Import Product share(%),4.7187
+Montserrat,2014,World,Intermediate goods,Import,Import Product share(%),11.8928
+Montserrat,2014,World,Consumer goods,Import,Import Product share(%),67.3428
+Montserrat,2014,World,Capital goods,Import,Import Product share(%),15.6501
+Montserrat,2013,World,Raw materials,Tariff,Weighted Average (%),8.56782680364032
+Montserrat,2013,World,Intermediate goods,Tariff,Weighted Average (%),10.5301639494033
+Montserrat,2013,World,Consumer goods,Tariff,Weighted Average (%),11.8562216896935
+Montserrat,2013,World,Capital goods,Tariff,Weighted Average (%),8.82944759750373
+Montserrat,2014,World,All Products,Trade Indicator,World Growth (%),0.11950635286615
+Montserrat,2014,World,All Products,Trade Indicator,Country Growth (%),-16.606744889913
+Montserrat,2013,World,All Products,Tariff,Simple Average (%),15.4558092621657
+Montserrat,2013,World,All Products,Tariff,Weighted Average (%),10.97507191676
+Montserrat,2013,World,All Products,Tariff,Maximum Rate (%),65
+Montserrat,2013,World,All Products,Tariff,Duty Free Tariff Lines Share (%),13.5855035151995
+Montserrat,2014,...,...,Trade Indicator,Index of export market penetration,1.1590797502981
+Montserrat,2014,...,...,Trade Indicator,HH Market concentration index,0.08886534717441

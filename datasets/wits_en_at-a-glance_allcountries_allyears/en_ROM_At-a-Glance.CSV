@@ -1,0 +1,102 @@
+Reporter,Year,Partner,Product categories,Indicator Type,Indicator,Indicator Value
+Romania,2019,Germany,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,17343.31997827
+Romania,2019,Italy,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,8704.57847306999
+Romania,2019,France,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,5330.91966126
+Romania,2019,Hungary,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,3723.3087396
+Romania,2019,United Kingdom,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,2889.19325381
+Romania,2019,Germany,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,19506.52805757
+Romania,2019,Italy,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,8816.67772324001
+Romania,2019,Hungary,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,6808.33201209
+Romania,2019,Poland,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,5776.42404436
+Romania,2019,China,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,5094.57717422
+Romania,2019,World,Animal,Export,Export(US$ Mil),1051.59154283
+Romania,2019,World,Vegetable,Export,Export(US$ Mil),4591.47953296
+Romania,2019,World,Food Products,Export,Export(US$ Mil),2414.47121065
+Romania,2019,World,Minerals,Export,Export(US$ Mil),152.9999834
+Romania,2019,World,Fuels,Export,Export(US$ Mil),2924.93395175
+Romania,2019,World,Chemicals,Export,Export(US$ Mil),2590.64562617
+Romania,2019,World,Plastic or Rubber,Export,Export(US$ Mil),4421.68650777
+Romania,2019,World,Hides and Skins,Export,Export(US$ Mil),417.18049975
+Romania,2019,World,Wood,Export,Export(US$ Mil),2421.70706991
+Romania,2019,World,Textiles and Clothing,Export,Export(US$ Mil),4263.80909159
+Romania,2019,World,Footwear,Export,Export(US$ Mil),1355.90587099
+Romania,2019,World,Stone and Glass,Export,Export(US$ Mil),476.55558012
+Romania,2019,World,Metals,Export,Export(US$ Mil),6658.12743262
+Romania,2019,World,Mach and Elec,Export,Export(US$ Mil),22508.39470983
+Romania,2019,World,Transportation,Export,Export(US$ Mil),14188.52682941
+Romania,2019,World,Miscellaneous,Export,Export(US$ Mil),6860.73299769
+Romania,2019,World,Raw materials,Export,Export(US$ Mil),6051.77604942999
+Romania,2019,World,Intermediate goods,Export,Export(US$ Mil),12223.66016695
+Romania,2019,World,Consumer goods,Export,Export(US$ Mil),30321.86717443
+Romania,2019,World,Capital goods,Export,Export(US$ Mil),28014.76752682
+Romania,2019,World,Raw materials,Import,Import(US$ Mil),9665.60176999
+Romania,2019,World,Intermediate goods,Import,Import(US$ Mil),22102.98464266
+Romania,2019,World,Consumer goods,Import,Import(US$ Mil),33187.23648668
+Romania,2019,World,Capital goods,Import,Import(US$ Mil),31256.22036066
+Romania,2019,World,All Products,Export,Exports (in US$ Mil),77298.74843744
+Romania,2019,World,All Products,Import,Imports (in US$ Mil),96644.31870862
+Romania,2019,World,All Products,Tariff,Duty Free Imports (US$ Thousand),16690785.9164
+Romania,2019,...,...,Development,Trade Balance (current US$ Mil),-9647
+Romania,2019,...,...,Development,GDP (current US$ Mil),250077
+Romania,2019,...,...,Tariff,No. Of Tariff Agreement,
+Romania,2019,...,...,Import,No. Of Import partners,175
+Romania,2019,...,...,Import,No. Of Import products,4441
+Romania,2019,...,...,Export,No. Of Export partners,198
+Romania,2019,...,...,Export,No. Of Export products,4118
+Romania,2019,...,...,Others,Population,19366221
+Romania,2019,...,...,Others,Ease of Doing Business Rank,55
+Romania,2019,...,...,Others,Trading Across Borders Rank,1
+Romania,2019,...,...,Others,CPIA Trade Ratings,
+Romania,2018,...,...,Others,LPI Rank,48
+Romania,2018,...,...,Others,LPI Score,3.12
+Romania,,...,...,Others,Services Trade Restrictions Index - Over All,14.5
+Romania,2019,Germany,All Products,Export,Partner share(%)-Top 5 Export Partner,22.4367
+Romania,2019,Italy,All Products,Export,Partner share(%)-Top 5 Export Partner,11.261
+Romania,2019,France,All Products,Export,Partner share(%)-Top 5 Export Partner,6.8965
+Romania,2019,Hungary,All Products,Export,Partner share(%)-Top 5 Export Partner,4.8168
+Romania,2019,United Kingdom,All Products,Export,Partner share(%)-Top 5 Export Partner,3.7377
+Romania,2019,Germany,All Products,Import,Partner share(%)-Top 5 Import Partner,20.1838
+Romania,2019,Italy,All Products,Import,Partner share(%)-Top 5 Import Partner,9.1228
+Romania,2019,Hungary,All Products,Import,Partner share(%)-Top 5 Import Partner,7.0447
+Romania,2019,Poland,All Products,Import,Partner share(%)-Top 5 Import Partner,5.977
+Romania,2019,China,All Products,Import,Partner share(%)-Top 5 Import Partner,5.2715
+Romania,2019,World,Animal,Export,Export Product share(%),1.3604
+Romania,2019,World,Vegetable,Export,Export Product share(%),5.9399
+Romania,2019,World,Food Products,Export,Export Product share(%),3.1236
+Romania,2019,World,Minerals,Export,Export Product share(%),0.1979
+Romania,2019,World,Fuels,Export,Export Product share(%),3.7839
+Romania,2019,World,Chemicals,Export,Export Product share(%),3.3515
+Romania,2019,World,Plastic or Rubber,Export,Export Product share(%),5.7203
+Romania,2019,World,Hides and Skins,Export,Export Product share(%),0.5397
+Romania,2019,World,Wood,Export,Export Product share(%),3.1329
+Romania,2019,World,Textiles and Clothing,Export,Export Product share(%),5.516
+Romania,2019,World,Footwear,Export,Export Product share(%),1.7541
+Romania,2019,World,Stone and Glass,Export,Export Product share(%),0.6165
+Romania,2019,World,Metals,Export,Export Product share(%),8.6135
+Romania,2019,World,Mach and Elec,Export,Export Product share(%),29.1187
+Romania,2019,World,Transportation,Export,Export Product share(%),18.3554
+Romania,2019,World,Miscellaneous,Export,Export Product share(%),8.8756
+Romania,2019,World,Raw materials,Export,Export Product share(%),7.8291
+Romania,2019,World,Intermediate goods,Export,Export Product share(%),15.8135
+Romania,2019,World,Consumer goods,Export,Export Product share(%),39.2269
+Romania,2019,World,Capital goods,Export,Export Product share(%),36.2422
+Romania,2019,World,Raw materials,Import,Import Product share(%),10.0012
+Romania,2019,World,Intermediate goods,Import,Import Product share(%),22.8704
+Romania,2019,World,Consumer goods,Import,Import Product share(%),34.3396
+Romania,2019,World,Capital goods,Import,Import Product share(%),32.3415
+Romania,2019,World,Raw materials,Tariff,Weighted Average (%),0.328642309715967
+Romania,2019,World,Intermediate goods,Tariff,Weighted Average (%),1.20694590235729
+Romania,2019,World,Consumer goods,Tariff,Weighted Average (%),1.95201698968647
+Romania,2019,World,Capital goods,Tariff,Weighted Average (%),0.929624409740366
+Romania,2019,World,All Products,Trade Indicator,World Growth (%),-1.13475826045476
+Romania,2019,World,All Products,Trade Indicator,Country Growth (%),-2.28694905371797
+Romania,2019,World,All Products,Tariff,Simple Average (%),2.07613947125654
+Romania,2019,World,All Products,Tariff,Weighted Average (%),1.27969244759751
+Romania,2019,World,All Products,Tariff,Maximum Rate (%),131.262496948242
+Romania,2019,World,All Products,Tariff,Duty Free Tariff Lines Share (%),58.7220806418084
+Romania,2019,...,...,Trade Indicator,Index of export market penetration,10.9848941950051
+Romania,2019,...,...,Trade Indicator,HH Market concentration index,0.0738472873841138
+Romania,2019,...,...,Development,Trade Balance (% of GDP),-3.85733879
+Romania,2019,...,...,Development,Trade in services (% of GDP),20.34622577
+Romania,2019,...,...,Development,Trade (% of GDP),84.55986923
+Romania,2019,...,...,Development,"GNI per capita, Atlas method (current US$)",12620

@@ -1,0 +1,102 @@
+Reporter,Year,Partner,Product categories,Indicator Type,Indicator,Indicator Value
+"Korea, Rep.",2019,China,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,136202.533208
+"Korea, Rep.",2019,United States,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,73598.903629
+"Korea, Rep.",2019,Vietnam,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,48177.748735
+"Korea, Rep.",2019,"Hong Kong, China",All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,31905.989747
+"Korea, Rep.",2019,Japan,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,28420.167955
+"Korea, Rep.",2019,China,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,107228.162271
+"Korea, Rep.",2019,United States,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,62105.137072
+"Korea, Rep.",2019,Japan,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,47579.038346
+"Korea, Rep.",2019,Saudi Arabia,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,21840.580617
+"Korea, Rep.",2019,Vietnam,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,21071.556716
+"Korea, Rep.",2019,World,Animal,Export,Export(US$ Mil),1529.42658
+"Korea, Rep.",2019,World,Vegetable,Export,Export(US$ Mil),902.569724
+"Korea, Rep.",2019,World,Food Products,Export,Export(US$ Mil),6088.749076
+"Korea, Rep.",2019,World,Minerals,Export,Export(US$ Mil),1026.373166
+"Korea, Rep.",2019,World,Fuels,Export,Export(US$ Mil),42179.134817
+"Korea, Rep.",2019,World,Chemicals,Export,Export(US$ Mil),46462.840261
+"Korea, Rep.",2019,World,Plastic or Rubber,Export,Export(US$ Mil),39891.775099
+"Korea, Rep.",2019,World,Hides and Skins,Export,Export(US$ Mil),879.299539
+"Korea, Rep.",2019,World,Wood,Export,Export(US$ Mil),3438.286435
+"Korea, Rep.",2019,World,Textiles and Clothing,Export,Export(US$ Mil),12480.64902
+"Korea, Rep.",2019,World,Footwear,Export,Export(US$ Mil),672.505506
+"Korea, Rep.",2019,World,Stone and Glass,Export,Export(US$ Mil),5814.708893
+"Korea, Rep.",2019,World,Metals,Export,Export(US$ Mil),47160.678655
+"Korea, Rep.",2019,World,Mach and Elec,Export,Export(US$ Mil),222447.323449
+"Korea, Rep.",2019,World,Transportation,Export,Export(US$ Mil),84641.028617
+"Korea, Rep.",2019,World,Miscellaneous,Export,Export(US$ Mil),26556.420252
+"Korea, Rep.",2019,World,Raw materials,Export,Export(US$ Mil),3685.181653
+"Korea, Rep.",2019,World,Intermediate goods,Export,Export(US$ Mil),129608.963572
+"Korea, Rep.",2019,World,Consumer goods,Export,Export(US$ Mil),136687.463177
+"Korea, Rep.",2019,World,Capital goods,Export,Export(US$ Mil),272142.916443
+"Korea, Rep.",2019,World,Raw materials,Import,Import(US$ Mil),127249.566496
+"Korea, Rep.",2019,World,Intermediate goods,Import,Import(US$ Mil),92703.2170180001
+"Korea, Rep.",2019,World,Consumer goods,Import,Import(US$ Mil),125986.082217
+"Korea, Rep.",2019,World,Capital goods,Import,Import(US$ Mil),157251.800277
+"Korea, Rep.",2019,World,All Products,Export,Exports (in US$ Mil),542171.769089
+"Korea, Rep.",2019,World,All Products,Import,Imports (in US$ Mil),503262.910727
+"Korea, Rep.",2018,World,All Products,Tariff,Duty Free Imports (US$ Thousand),234335059.521999
+"Korea, Rep.",2018,...,...,Tariff,No. Of Tariff Agreement,27
+"Korea, Rep.",2019,...,...,Import,No. Of Import partners,226
+"Korea, Rep.",2019,...,...,Import,No. Of Import products,4472
+"Korea, Rep.",2019,...,...,Export,No. Of Export partners,221
+"Korea, Rep.",2019,...,...,Export,No. Of Export products,4300
+"Korea, Rep.",2019,...,...,Others,Population,51709098
+"Korea, Rep.",2019,...,...,Others,Ease of Doing Business Rank,5
+"Korea, Rep.",2019,...,...,Others,Trading Across Borders Rank,36
+"Korea, Rep.",2019,...,...,Others,CPIA Trade Ratings,
+"Korea, Rep.",2018,...,...,Others,LPI Rank,25
+"Korea, Rep.",2018,...,...,Others,LPI Score,3.61
+"Korea, Rep.",2013,...,...,Others,No Of NTM Affected Products (HS 6 Digit),30
+"Korea, Rep.",2013,...,...,Others,No Of NTM Measures,3
+"Korea, Rep.",2009,...,...,Others,Overall Trade Restrictiveness Index -  Applied Tariff,0.0900861
+"Korea, Rep.",2009,...,...,Others,Overall Trade Restrictiveness Index - MFN Tariff,0.0910329
+"Korea, Rep.",,...,...,Others,Services Trade Restrictions Index - Over All,23.1
+"Korea, Rep.",2013,...,...,Others,Temporary Trade Barriers in Effect - Simple Average,0.52305305
+"Korea, Rep.",2013,...,...,Others,Temporary Trade Barriers in Effect - Weighted Average,0.3962549865
+"Korea, Rep.",2019,China,All Products,Export,Partner share(%)-Top 5 Export Partner,25.1217
+"Korea, Rep.",2019,United States,All Products,Export,Partner share(%)-Top 5 Export Partner,13.5748
+"Korea, Rep.",2019,Vietnam,All Products,Export,Partner share(%)-Top 5 Export Partner,8.8861
+"Korea, Rep.",2019,"Hong Kong, China",All Products,Export,Partner share(%)-Top 5 Export Partner,5.8848
+"Korea, Rep.",2019,Japan,All Products,Export,Partner share(%)-Top 5 Export Partner,5.2419
+"Korea, Rep.",2019,China,All Products,Import,Partner share(%)-Top 5 Import Partner,21.3066
+"Korea, Rep.",2019,United States,All Products,Import,Partner share(%)-Top 5 Import Partner,12.3405
+"Korea, Rep.",2019,Japan,All Products,Import,Partner share(%)-Top 5 Import Partner,9.4541
+"Korea, Rep.",2019,Saudi Arabia,All Products,Import,Partner share(%)-Top 5 Import Partner,4.3398
+"Korea, Rep.",2019,Vietnam,All Products,Import,Partner share(%)-Top 5 Import Partner,4.187
+"Korea, Rep.",2019,World,Animal,Export,Export Product share(%),0.2821
+"Korea, Rep.",2019,World,Vegetable,Export,Export Product share(%),0.1665
+"Korea, Rep.",2019,World,Food Products,Export,Export Product share(%),1.123
+"Korea, Rep.",2019,World,Minerals,Export,Export Product share(%),0.1893
+"Korea, Rep.",2019,World,Fuels,Export,Export Product share(%),7.7797
+"Korea, Rep.",2019,World,Chemicals,Export,Export Product share(%),8.5698
+"Korea, Rep.",2019,World,Plastic or Rubber,Export,Export Product share(%),7.3578
+"Korea, Rep.",2019,World,Hides and Skins,Export,Export Product share(%),0.1622
+"Korea, Rep.",2019,World,Wood,Export,Export Product share(%),0.6342
+"Korea, Rep.",2019,World,Textiles and Clothing,Export,Export Product share(%),2.302
+"Korea, Rep.",2019,World,Footwear,Export,Export Product share(%),0.124
+"Korea, Rep.",2019,World,Stone and Glass,Export,Export Product share(%),1.0725
+"Korea, Rep.",2019,World,Metals,Export,Export Product share(%),8.6985
+"Korea, Rep.",2019,World,Mach and Elec,Export,Export Product share(%),41.0289
+"Korea, Rep.",2019,World,Transportation,Export,Export Product share(%),15.6115
+"Korea, Rep.",2019,World,Miscellaneous,Export,Export Product share(%),4.8982
+"Korea, Rep.",2019,World,Raw materials,Export,Export Product share(%),0.6797
+"Korea, Rep.",2019,World,Intermediate goods,Export,Export Product share(%),23.9055
+"Korea, Rep.",2019,World,Consumer goods,Export,Export Product share(%),25.2111
+"Korea, Rep.",2019,World,Capital goods,Export,Export Product share(%),50.195
+"Korea, Rep.",2019,World,Raw materials,Import,Import Product share(%),25.2849
+"Korea, Rep.",2019,World,Intermediate goods,Import,Import Product share(%),18.4204
+"Korea, Rep.",2019,World,Consumer goods,Import,Import Product share(%),25.0339
+"Korea, Rep.",2019,World,Capital goods,Import,Import Product share(%),31.2465
+"Korea, Rep.",2018,World,Raw materials,Tariff,Weighted Average (%),8.81014212079968
+"Korea, Rep.",2018,World,Intermediate goods,Tariff,Weighted Average (%),2.91217239985037
+"Korea, Rep.",2018,World,Consumer goods,Tariff,Weighted Average (%),3.63161669647241
+"Korea, Rep.",2018,World,Capital goods,Tariff,Weighted Average (%),2.10393585705529
+"Korea, Rep.",2019,World,All Products,Trade Indicator,World Growth (%),-1.13475826045476
+"Korea, Rep.",2019,World,All Products,Trade Indicator,Country Growth (%),-0.941386214533779
+"Korea, Rep.",2018,World,All Products,Tariff,Simple Average (%),5.22616243323763
+"Korea, Rep.",2018,World,All Products,Tariff,Weighted Average (%),4.82934759048871
+"Korea, Rep.",2018,World,All Products,Tariff,Maximum Rate (%),887.400024414063
+"Korea, Rep.",2018,World,All Products,Tariff,Duty Free Tariff Lines Share (%),68.5736114648207
+"Korea, Rep.",2019,...,...,Trade Indicator,Index of export market penetration,19.8196239341778
+"Korea, Rep.",2019,...,...,Trade Indicator,HH Market concentration index,0.115047862341011

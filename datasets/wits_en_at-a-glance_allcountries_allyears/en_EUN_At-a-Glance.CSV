@@ -1,0 +1,95 @@
+Reporter,Year,Partner,Product categories,Indicator Type,Indicator,Indicator Value
+European Union,2019,United States,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,494616.722633186
+European Union,2019,China,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,249537.607107812
+European Union,2019,Switzerland,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,180007.069380087
+European Union,2019,Russian Federation,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,100714.719541339
+European Union,2019,Turkey,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,82316.4814097368
+European Union,2019,China,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,470490.996333296
+European Union,2019,United States,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,327230.859040582
+European Union,2019,Russian Federation,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,162562.120073316
+European Union,2019,Switzerland,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,148036.382782526
+European Union,2019,Turkey,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,89434.9877246782
+European Union,2019,World,Animal,Export,Export(US$ Mil),37757.6748543166
+European Union,2019,World,Vegetable,Export,Export(US$ Mil),37149.8916484404
+European Union,2019,World,Food Products,Export,Export(US$ Mil),94390.4844375407
+European Union,2019,World,Minerals,Export,Export(US$ Mil),8886.54144559236
+European Union,2019,World,Fuels,Export,Export(US$ Mil),117012.946549942
+European Union,2019,World,Chemicals,Export,Export(US$ Mil),387920.73301597
+European Union,2019,World,Plastic or Rubber,Export,Export(US$ Mil),82995.512361516
+European Union,2019,World,Hides and Skins,Export,Export(US$ Mil),23024.60219443
+European Union,2019,World,Wood,Export,Export(US$ Mil),52614.8246152567
+European Union,2019,World,Textiles and Clothing,Export,Export(US$ Mil),59184.8340248304
+European Union,2019,World,Footwear,Export,Export(US$ Mil),13525.6566653444
+European Union,2019,World,Stone and Glass,Export,Export(US$ Mil),99709.8447352554
+European Union,2019,World,Metals,Export,Export(US$ Mil),124450.53623918
+European Union,2019,World,Mach and Elec,Export,Export(US$ Mil),570726.723644067
+European Union,2019,World,Transportation,Export,Export(US$ Mil),337678.838686225
+European Union,2019,World,Miscellaneous,Export,Export(US$ Mil),232491.649335306
+European Union,2019,World,Raw materials,Export,Export(US$ Mil),92999.807894246
+European Union,2019,World,Intermediate goods,Export,Export(US$ Mil),471871.790856147
+European Union,2019,World,Consumer goods,Export,Export(US$ Mil),797678.063749995
+European Union,2019,World,Capital goods,Export,Export(US$ Mil),833913.03608406
+European Union,2019,World,Raw materials,Import,Import(US$ Mil),413800.283422654
+European Union,2019,World,Intermediate goods,Import,Import(US$ Mil),466038.416036528
+European Union,2019,World,Consumer goods,Import,Import(US$ Mil),702833.016359682
+European Union,2019,World,Capital goods,Import,Import(US$ Mil),665105.821300453
+European Union,2019,World,All Products,Export,Exports (in US$ Mil),2279521.29445321
+European Union,2019,World,All Products,Import,Imports (in US$ Mil),2301483.91230347
+European Union,2019,World,All Products,Tariff,Duty Free Imports (US$ Thousand),1497189593.7809
+European Union,2019,...,...,Tariff,No. Of Tariff Agreement,52
+European Union,2019,...,...,Import,No. Of Import partners,208
+European Union,2019,...,...,Import,No. Of Import products,4553
+European Union,2019,...,...,Export,No. Of Export partners,209
+European Union,2019,...,...,Export,No. Of Export products,4556
+European Union,2015,...,...,Others,No Of NTM Affected Products (HS 6 Digit),4886
+European Union,2015,...,...,Others,No Of NTM Measures,60
+European Union,2009,...,...,Others,Overall Trade Restrictiveness Index -  Applied Tariff,0.0556304
+European Union,2009,...,...,Others,Overall Trade Restrictiveness Index - MFN Tariff,0.0967264
+European Union,2013,...,...,Others,Temporary Trade Barriers in Effect - Simple Average,2.983339787
+European Union,2013,...,...,Others,Temporary Trade Barriers in Effect - Weighted Average,1.910953403
+European Union,2019,United States,All Products,Export,Partner share(%)-Top 5 Export Partner,21.6983
+European Union,2019,China,All Products,Export,Partner share(%)-Top 5 Export Partner,10.9469
+European Union,2019,Switzerland,All Products,Export,Partner share(%)-Top 5 Export Partner,7.8967
+European Union,2019,Russian Federation,All Products,Export,Partner share(%)-Top 5 Export Partner,4.4182
+European Union,2019,Turkey,All Products,Export,Partner share(%)-Top 5 Export Partner,3.6111
+European Union,2019,China,All Products,Import,Partner share(%)-Top 5 Import Partner,20.4429
+European Union,2019,United States,All Products,Import,Partner share(%)-Top 5 Import Partner,14.2183
+European Union,2019,Russian Federation,All Products,Import,Partner share(%)-Top 5 Import Partner,7.0634
+European Union,2019,Switzerland,All Products,Import,Partner share(%)-Top 5 Import Partner,6.4322
+European Union,2019,Turkey,All Products,Import,Partner share(%)-Top 5 Import Partner,3.886
+European Union,2019,World,Animal,Export,Export Product share(%),1.6564
+European Union,2019,World,Vegetable,Export,Export Product share(%),1.6297
+European Union,2019,World,Food Products,Export,Export Product share(%),4.1408
+European Union,2019,World,Minerals,Export,Export Product share(%),0.3898
+European Union,2019,World,Fuels,Export,Export Product share(%),5.1332
+European Union,2019,World,Chemicals,Export,Export Product share(%),17.0176
+European Union,2019,World,Plastic or Rubber,Export,Export Product share(%),3.6409
+European Union,2019,World,Hides and Skins,Export,Export Product share(%),1.0101
+European Union,2019,World,Wood,Export,Export Product share(%),2.3082
+European Union,2019,World,Textiles and Clothing,Export,Export Product share(%),2.5964
+European Union,2019,World,Footwear,Export,Export Product share(%),0.5934
+European Union,2019,World,Stone and Glass,Export,Export Product share(%),4.3742
+European Union,2019,World,Metals,Export,Export Product share(%),5.4595
+European Union,2019,World,Mach and Elec,Export,Export Product share(%),25.0371
+European Union,2019,World,Transportation,Export,Export Product share(%),14.8136
+European Union,2019,World,Miscellaneous,Export,Export Product share(%),10.1991
+European Union,2019,World,Raw materials,Export,Export Product share(%),4.0798
+European Union,2019,World,Intermediate goods,Export,Export Product share(%),20.7005
+European Union,2019,World,Consumer goods,Export,Export Product share(%),34.9932
+European Union,2019,World,Capital goods,Export,Export Product share(%),36.5828
+European Union,2019,World,Raw materials,Import,Import Product share(%),17.9797
+European Union,2019,World,Intermediate goods,Import,Import Product share(%),20.2495
+European Union,2019,World,Consumer goods,Import,Import Product share(%),30.5383
+European Union,2019,World,Capital goods,Import,Import Product share(%),28.899
+European Union,2019,World,Raw materials,Tariff,Weighted Average (%),0.803132815683254
+European Union,2019,World,Intermediate goods,Tariff,Weighted Average (%),1.57150077594582
+European Union,2019,World,Consumer goods,Tariff,Weighted Average (%),3.37674921129201
+European Union,2019,World,Capital goods,Tariff,Weighted Average (%),0.756977220450128
+European Union,2019,World,All Products,Trade Indicator,World Growth (%),
+European Union,2019,World,All Products,Trade Indicator,Country Growth (%),
+European Union,2019,World,All Products,Tariff,Simple Average (%),2.55242691611316
+European Union,2019,World,All Products,Tariff,Weighted Average (%),1.84087037925147
+European Union,2019,World,All Products,Tariff,Maximum Rate (%),3000
+European Union,2019,World,All Products,Tariff,Duty Free Tariff Lines Share (%),61.021727207959
+European Union,2019,...,...,Trade Indicator,Index of export market penetration,
+European Union,2019,...,...,Trade Indicator,HH Market concentration index,

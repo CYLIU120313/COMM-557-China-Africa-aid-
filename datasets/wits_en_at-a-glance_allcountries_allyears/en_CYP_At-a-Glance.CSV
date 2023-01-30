@@ -1,0 +1,101 @@
+Reporter,Year,Partner,Product categories,Indicator Type,Indicator,Indicator Value
+Cyprus,2019,Netherlands,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,455.355177581799
+Cyprus,2019,Bunkers,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,375.108104483162
+Cyprus,2019,Libya,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,353.194845300063
+Cyprus,2019,Greece,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,257.16564406994
+Cyprus,2019,United Kingdom,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,209.927069241112
+Cyprus,2019,Greece,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,1855.62429659336
+Cyprus,2019,Italy,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,934.687205431976
+Cyprus,2019,United Kingdom,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,646.548909071212
+Cyprus,2019,Israel,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,552.703331231049
+Cyprus,2019,Germany,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,549.112582795713
+Cyprus,2019,World,Animal,Export,Export(US$ Mil),302.812862105936
+Cyprus,2019,World,Vegetable,Export,Export(US$ Mil),92.2996415708666
+Cyprus,2019,World,Food Products,Export,Export(US$ Mil),151.72968873571
+Cyprus,2019,World,Minerals,Export,Export(US$ Mil),17.6062705124537
+Cyprus,2019,World,Fuels,Export,Export(US$ Mil),729.533004692075
+Cyprus,2019,World,Chemicals,Export,Export(US$ Mil),450.751953146885
+Cyprus,2019,World,Plastic or Rubber,Export,Export(US$ Mil),27.8660802241769
+Cyprus,2019,World,Hides and Skins,Export,Export(US$ Mil),6.33908426315061
+Cyprus,2019,World,Wood,Export,Export(US$ Mil),6.9978655487583
+Cyprus,2019,World,Textiles and Clothing,Export,Export(US$ Mil),14.739935354915
+Cyprus,2019,World,Footwear,Export,Export(US$ Mil),13.4168083756127
+Cyprus,2019,World,Stone and Glass,Export,Export(US$ Mil),29.3845805016916
+Cyprus,2019,World,Metals,Export,Export(US$ Mil),105.574344473446
+Cyprus,2019,World,Mach and Elec,Export,Export(US$ Mil),263.373775225722
+Cyprus,2019,World,Transportation,Export,Export(US$ Mil),1148.83102533004
+Cyprus,2019,World,Miscellaneous,Export,Export(US$ Mil),159.642637006172
+Cyprus,2019,World,Raw materials,Export,Export(US$ Mil),192.094040688582
+Cyprus,2019,World,Intermediate goods,Export,Export(US$ Mil),155.774453834203
+Cyprus,2019,World,Consumer goods,Export,Export(US$ Mil),1577.80132617989
+Cyprus,2019,World,Capital goods,Export,Export(US$ Mil),1361.49555234066
+Cyprus,2019,World,Raw materials,Import,Import(US$ Mil),434.141425196801
+Cyprus,2019,World,Intermediate goods,Import,Import(US$ Mil),1130.04556108932
+Cyprus,2019,World,Consumer goods,Import,Import(US$ Mil),5086.00171491537
+Cyprus,2019,World,Capital goods,Import,Import(US$ Mil),2396.65262728941
+Cyprus,2019,World,All Products,Export,Exports (in US$ Mil),3520.89955706761
+Cyprus,2019,World,All Products,Import,Imports (in US$ Mil),9179.16281712472
+Cyprus,2019,World,All Products,Tariff,Duty Free Imports (US$ Thousand),1194176.2278036
+Cyprus,2019,...,...,Development,Trade Balance (current US$ Mil),-266.202843
+Cyprus,2019,...,...,Development,GDP (current US$ Mil),24948.935408
+Cyprus,2019,...,...,Tariff,No. Of Tariff Agreement,
+Cyprus,2019,...,...,Import,No. Of Import partners,163
+Cyprus,2019,...,...,Import,No. Of Import products,3838
+Cyprus,2019,...,...,Export,No. Of Export partners,194
+Cyprus,2019,...,...,Export,No. Of Export products,1807
+Cyprus,2019,...,...,Others,Population,1198575
+Cyprus,2019,...,...,Others,Ease of Doing Business Rank,54
+Cyprus,2019,...,...,Others,Trading Across Borders Rank,50
+Cyprus,2019,...,...,Others,CPIA Trade Ratings,
+Cyprus,2018,...,...,Others,LPI Rank,45
+Cyprus,2018,...,...,Others,LPI Score,3.15
+Cyprus,2019,Netherlands,All Products,Export,Partner share(%)-Top 5 Export Partner,12.9329
+Cyprus,2019,Bunkers,All Products,Export,Partner share(%)-Top 5 Export Partner,10.6538
+Cyprus,2019,Libya,All Products,Export,Partner share(%)-Top 5 Export Partner,10.0314
+Cyprus,2019,Greece,All Products,Export,Partner share(%)-Top 5 Export Partner,7.304
+Cyprus,2019,United Kingdom,All Products,Export,Partner share(%)-Top 5 Export Partner,5.9623
+Cyprus,2019,Greece,All Products,Import,Partner share(%)-Top 5 Import Partner,20.2156
+Cyprus,2019,Italy,All Products,Import,Partner share(%)-Top 5 Import Partner,10.1827
+Cyprus,2019,United Kingdom,All Products,Import,Partner share(%)-Top 5 Import Partner,7.0437
+Cyprus,2019,Israel,All Products,Import,Partner share(%)-Top 5 Import Partner,6.0213
+Cyprus,2019,Germany,All Products,Import,Partner share(%)-Top 5 Import Partner,5.9822
+Cyprus,2019,World,Animal,Export,Export Product share(%),8.6004
+Cyprus,2019,World,Vegetable,Export,Export Product share(%),2.6215
+Cyprus,2019,World,Food Products,Export,Export Product share(%),4.3094
+Cyprus,2019,World,Minerals,Export,Export Product share(%),0.5001
+Cyprus,2019,World,Fuels,Export,Export Product share(%),20.7201
+Cyprus,2019,World,Chemicals,Export,Export Product share(%),12.8022
+Cyprus,2019,World,Plastic or Rubber,Export,Export Product share(%),0.7914
+Cyprus,2019,World,Hides and Skins,Export,Export Product share(%),0.18
+Cyprus,2019,World,Wood,Export,Export Product share(%),0.1988
+Cyprus,2019,World,Textiles and Clothing,Export,Export Product share(%),0.4186
+Cyprus,2019,World,Footwear,Export,Export Product share(%),0.3811
+Cyprus,2019,World,Stone and Glass,Export,Export Product share(%),0.8346
+Cyprus,2019,World,Metals,Export,Export Product share(%),2.9985
+Cyprus,2019,World,Mach and Elec,Export,Export Product share(%),7.4803
+Cyprus,2019,World,Transportation,Export,Export Product share(%),32.6289
+Cyprus,2019,World,Miscellaneous,Export,Export Product share(%),4.5341
+Cyprus,2019,World,Raw materials,Export,Export Product share(%),5.4558
+Cyprus,2019,World,Intermediate goods,Export,Export Product share(%),4.4243
+Cyprus,2019,World,Consumer goods,Export,Export Product share(%),44.8124
+Cyprus,2019,World,Capital goods,Export,Export Product share(%),38.669
+Cyprus,2019,World,Raw materials,Import,Import Product share(%),4.7296
+Cyprus,2019,World,Intermediate goods,Import,Import Product share(%),12.311
+Cyprus,2019,World,Consumer goods,Import,Import Product share(%),55.4081
+Cyprus,2019,World,Capital goods,Import,Import Product share(%),26.1097
+Cyprus,2019,World,Raw materials,Tariff,Weighted Average (%),5.96314944937794
+Cyprus,2019,World,Intermediate goods,Tariff,Weighted Average (%),2.38065762943511
+Cyprus,2019,World,Consumer goods,Tariff,Weighted Average (%),5.59501683370828
+Cyprus,2019,World,Capital goods,Tariff,Weighted Average (%),0.621166773791847
+Cyprus,2019,World,All Products,Trade Indicator,World Growth (%),-1.13475826045476
+Cyprus,2019,World,All Products,Trade Indicator,Country Growth (%),2.67607880629623
+Cyprus,2019,World,All Products,Tariff,Simple Average (%),2.87907009839094
+Cyprus,2019,World,All Products,Tariff,Weighted Average (%),2.64447872007215
+Cyprus,2019,World,All Products,Tariff,Maximum Rate (%),131.262496948242
+Cyprus,2019,World,All Products,Tariff,Duty Free Tariff Lines Share (%),47.4053358192391
+Cyprus,2019,...,...,Trade Indicator,Index of export market penetration,3.30419422408202
+Cyprus,2019,...,...,Trade Indicator,HH Market concentration index,0.0462745092469085
+Cyprus,2019,...,...,Development,Trade Balance (% of GDP),-1.06699079000001
+Cyprus,2019,...,...,Development,Trade in services (% of GDP),96.07283468
+Cyprus,2019,...,...,Development,Trade (% of GDP),144.8161125
+Cyprus,2019,...,...,Development,"GNI per capita, Atlas method (current US$)",27710

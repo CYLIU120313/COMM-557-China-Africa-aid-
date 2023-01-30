@@ -1,0 +1,102 @@
+Reporter,Year,Partner,Product categories,Indicator Type,Indicator,Indicator Value
+Italy,2019,Germany,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,65509.5409858722
+Italy,2019,France,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,56604.0541286475
+Italy,2019,United States,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,50990.4147386246
+Italy,2019,Switzerland,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,29151.0238443995
+Italy,2019,United Kingdom,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,28248.7088911523
+Italy,2019,Germany,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,76778.9314121732
+Italy,2019,France,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,38992.5133102224
+Italy,2019,China,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,35449.4371445695
+Italy,2019,Spain,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,25745.6583418281
+Italy,2019,Netherlands,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,24906.1010399772
+Italy,2019,World,Animal,Export,Export(US$ Mil),7188.18160193203
+Italy,2019,World,Vegetable,Export,Export(US$ Mil),12742.3425627448
+Italy,2019,World,Food Products,Export,Export(US$ Mil),30580.3390376871
+Italy,2019,World,Minerals,Export,Export(US$ Mil),1289.69578639562
+Italy,2019,World,Fuels,Export,Export(US$ Mil),15733.5594385215
+Italy,2019,World,Chemicals,Export,Export(US$ Mil),61721.5882543424
+Italy,2019,World,Plastic or Rubber,Export,Export(US$ Mil),26594.4355033759
+Italy,2019,World,Hides and Skins,Export,Export(US$ Mil),16631.2006789349
+Italy,2019,World,Wood,Export,Export(US$ Mil),11500.4385148252
+Italy,2019,World,Textiles and Clothing,Export,Export(US$ Mil),36402.3071697248
+Italy,2019,World,Footwear,Export,Export(US$ Mil),13124.054537404
+Italy,2019,World,Stone and Glass,Export,Export(US$ Mil),26451.4952857042
+Italy,2019,World,Metals,Export,Export(US$ Mil),49050.7379322459
+Italy,2019,World,Mach and Elec,Export,Export(US$ Mil),133414.482870834
+Italy,2019,World,Transportation,Export,Export(US$ Mil),52898.5759997188
+Italy,2019,World,Miscellaneous,Export,Export(US$ Mil),42424.993643523
+Italy,2019,World,Raw materials,Export,Export(US$ Mil),13864.2307759742
+Italy,2019,World,Intermediate goods,Export,Export(US$ Mil),108094.427976598
+Italy,2019,World,Consumer goods,Export,Export(US$ Mil),237273.276823913
+Italy,2019,World,Capital goods,Export,Export(US$ Mil),163338.458225641
+Italy,2019,World,Raw materials,Import,Import(US$ Mil),65132.6859428047
+Italy,2019,World,Intermediate goods,Import,Import(US$ Mil),129619.225461371
+Italy,2019,World,Consumer goods,Import,Import(US$ Mil),171985.813069209
+Italy,2019,World,Capital goods,Import,Import(US$ Mil),102581.225544938
+Italy,2019,World,All Products,Export,Exports (in US$ Mil),537748.428817914
+Italy,2019,World,All Products,Import,Imports (in US$ Mil),474957.327527243
+Italy,2019,World,All Products,Tariff,Duty Free Imports (US$ Thousand),127119364.904329
+Italy,2019,...,...,Development,Trade Balance (current US$ Mil),61138
+Italy,2019,...,...,Development,GDP (current US$ Mil),2003580
+Italy,2019,...,...,Tariff,No. Of Tariff Agreement,
+Italy,2019,...,...,Import,No. Of Import partners,212
+Italy,2019,...,...,Import,No. Of Import products,4528
+Italy,2019,...,...,Export,No. Of Export partners,232
+Italy,2019,...,...,Export,No. Of Export products,4423
+Italy,2019,...,...,Others,Population,60302093
+Italy,2019,...,...,Others,Ease of Doing Business Rank,58
+Italy,2019,...,...,Others,Trading Across Borders Rank,1
+Italy,2019,...,...,Others,CPIA Trade Ratings,
+Italy,2018,...,...,Others,LPI Rank,19
+Italy,2018,...,...,Others,LPI Score,3.74
+Italy,,...,...,Others,Services Trade Restrictions Index - Over All,26.9
+Italy,2019,Germany,All Products,Export,Partner share(%)-Top 5 Export Partner,12.1822
+Italy,2019,France,All Products,Export,Partner share(%)-Top 5 Export Partner,10.5261
+Italy,2019,United States,All Products,Export,Partner share(%)-Top 5 Export Partner,9.4822
+Italy,2019,Switzerland,All Products,Export,Partner share(%)-Top 5 Export Partner,5.4209
+Italy,2019,United Kingdom,All Products,Export,Partner share(%)-Top 5 Export Partner,5.2531
+Italy,2019,Germany,All Products,Import,Partner share(%)-Top 5 Import Partner,16.1654
+Italy,2019,France,All Products,Import,Partner share(%)-Top 5 Import Partner,8.2097
+Italy,2019,China,All Products,Import,Partner share(%)-Top 5 Import Partner,7.4637
+Italy,2019,Spain,All Products,Import,Partner share(%)-Top 5 Import Partner,5.4206
+Italy,2019,Netherlands,All Products,Import,Partner share(%)-Top 5 Import Partner,5.2439
+Italy,2019,World,Animal,Export,Export Product share(%),1.3367
+Italy,2019,World,Vegetable,Export,Export Product share(%),2.3696
+Italy,2019,World,Food Products,Export,Export Product share(%),5.6867
+Italy,2019,World,Minerals,Export,Export Product share(%),0.2398
+Italy,2019,World,Fuels,Export,Export Product share(%),2.9258
+Italy,2019,World,Chemicals,Export,Export Product share(%),11.4778
+Italy,2019,World,Plastic or Rubber,Export,Export Product share(%),4.9455
+Italy,2019,World,Hides and Skins,Export,Export Product share(%),3.0927
+Italy,2019,World,Wood,Export,Export Product share(%),2.1386
+Italy,2019,World,Textiles and Clothing,Export,Export Product share(%),6.7694
+Italy,2019,World,Footwear,Export,Export Product share(%),2.4406
+Italy,2019,World,Stone and Glass,Export,Export Product share(%),4.9189
+Italy,2019,World,Metals,Export,Export Product share(%),9.1215
+Italy,2019,World,Mach and Elec,Export,Export Product share(%),24.8098
+Italy,2019,World,Transportation,Export,Export Product share(%),9.837
+Italy,2019,World,Miscellaneous,Export,Export Product share(%),7.8894
+Italy,2019,World,Raw materials,Export,Export Product share(%),2.5782
+Italy,2019,World,Intermediate goods,Export,Export Product share(%),20.1013
+Italy,2019,World,Consumer goods,Export,Export Product share(%),44.1235
+Italy,2019,World,Capital goods,Export,Export Product share(%),30.3745
+Italy,2019,World,Raw materials,Import,Import Product share(%),13.7134
+Italy,2019,World,Intermediate goods,Import,Import Product share(%),27.2907
+Italy,2019,World,Consumer goods,Import,Import Product share(%),36.2108
+Italy,2019,World,Capital goods,Import,Import Product share(%),21.598
+Italy,2019,World,Raw materials,Tariff,Weighted Average (%),0.75971749923411
+Italy,2019,World,Intermediate goods,Tariff,Weighted Average (%),1.39888291962457
+Italy,2019,World,Consumer goods,Tariff,Weighted Average (%),2.40277331766556
+Italy,2019,World,Capital goods,Tariff,Weighted Average (%),1.12904879672157
+Italy,2019,World,All Products,Trade Indicator,World Growth (%),-1.13475826045476
+Italy,2019,World,All Products,Trade Indicator,Country Growth (%),-1.42828357035425
+Italy,2019,World,All Products,Tariff,Simple Average (%),2.38512348529029
+Italy,2019,World,All Products,Tariff,Weighted Average (%),1.58341019645621
+Italy,2019,World,All Products,Tariff,Maximum Rate (%),237.638900756836
+Italy,2019,World,All Products,Tariff,Duty Free Tariff Lines Share (%),57.2709993813823
+Italy,2019,...,...,Trade Indicator,Index of export market penetration,34.7661802826323
+Italy,2019,...,...,Trade Indicator,HH Market concentration index,0.0441623652441189
+Italy,2019,...,...,Development,Trade Balance (% of GDP),3.0514257
+Italy,2019,...,...,Development,Trade in services (% of GDP),12.18614033
+Italy,2019,...,...,Development,Trade (% of GDP),59.9562955
+Italy,2019,...,...,Development,"GNI per capita, Atlas method (current US$)",34530

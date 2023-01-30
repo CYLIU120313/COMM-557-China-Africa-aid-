@@ -1,0 +1,102 @@
+Reporter,Year,Partner,Product categories,Indicator Type,Indicator,Indicator Value
+Ireland,2019,United States,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,52573.5415554664
+Ireland,2019,United Kingdom,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,17655.4837824497
+Ireland,2019,Belgium,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,17358.5792342069
+Ireland,2019,Germany,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,15221.0042890115
+Ireland,2019,Netherlands,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,9654.24717782847
+Ireland,2019,United Kingdom,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,22826.3768430933
+Ireland,2019,United States,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,15694.4662405651
+Ireland,2019,France,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,13773.3210719404
+Ireland,2019,Germany,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,8363.72034859232
+Ireland,2019,Unspecified,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,6800.172989489
+Ireland,2019,World,Animal,Export,Export(US$ Mil),7984.62136544707
+Ireland,2019,World,Vegetable,Export,Export(US$ Mil),454.824362625135
+Ireland,2019,World,Food Products,Export,Export(US$ Mil),6839.8386182953
+Ireland,2019,World,Minerals,Export,Export(US$ Mil),489.024086788047
+Ireland,2019,World,Fuels,Export,Export(US$ Mil),992.028729465363
+Ireland,2019,World,Chemicals,Export,Export(US$ Mil),103797.929488457
+Ireland,2019,World,Plastic or Rubber,Export,Export(US$ Mil),1925.96764036317
+Ireland,2019,World,Hides and Skins,Export,Export(US$ Mil),161.311798559795
+Ireland,2019,World,Wood,Export,Export(US$ Mil),942.422301129958
+Ireland,2019,World,Textiles and Clothing,Export,Export(US$ Mil),560.702518198816
+Ireland,2019,World,Footwear,Export,Export(US$ Mil),57.0369546537664
+Ireland,2019,World,Stone and Glass,Export,Export(US$ Mil),582.352591788983
+Ireland,2019,World,Metals,Export,Export(US$ Mil),1448.63949300213
+Ireland,2019,World,Mach and Elec,Export,Export(US$ Mil),21860.8592246954
+Ireland,2019,World,Transportation,Export,Export(US$ Mil),5500.7561995751
+Ireland,2019,World,Miscellaneous,Export,Export(US$ Mil),17145.0672631741
+Ireland,2019,World,Raw materials,Export,Export(US$ Mil),5476.75140457772
+Ireland,2019,World,Intermediate goods,Export,Export(US$ Mil),88032.4055689011
+Ireland,2019,World,Consumer goods,Export,Export(US$ Mil),40682.467932853
+Ireland,2019,World,Capital goods,Export,Export(US$ Mil),35463.1900487694
+Ireland,2019,World,Raw materials,Import,Import(US$ Mil),5247.57478895935
+Ireland,2019,World,Intermediate goods,Import,Import(US$ Mil),18375.8313275114
+Ireland,2019,World,Consumer goods,Import,Import(US$ Mil),31586.0539412627
+Ireland,2019,World,Capital goods,Import,Import(US$ Mil),43941.7670796762
+Ireland,2019,World,All Products,Export,Exports (in US$ Mil),170743.382636218
+Ireland,2019,World,All Products,Import,Imports (in US$ Mil),101473.369524191
+Ireland,2019,World,All Products,Tariff,Duty Free Imports (US$ Thousand),19221360.3174667
+Ireland,2019,...,...,Development,Trade Balance (current US$ Mil),55878
+Ireland,2019,...,...,Development,GDP (current US$ Mil),388699
+Ireland,2019,...,...,Tariff,No. Of Tariff Agreement,
+Ireland,2019,...,...,Import,No. Of Import partners,225
+Ireland,2019,...,...,Import,No. Of Import products,4365
+Ireland,2019,...,...,Export,No. Of Export partners,211
+Ireland,2019,...,...,Export,No. Of Export products,3702
+Ireland,2019,...,...,Others,Population,4934040
+Ireland,2019,...,...,Others,Ease of Doing Business Rank,24
+Ireland,2019,...,...,Others,Trading Across Borders Rank,52
+Ireland,2019,...,...,Others,CPIA Trade Ratings,
+Ireland,2018,...,...,Others,LPI Rank,29
+Ireland,2018,...,...,Others,LPI Score,3.51
+Ireland,,...,...,Others,Services Trade Restrictions Index - Over All,12.4
+Ireland,2019,United States,All Products,Export,Partner share(%)-Top 5 Export Partner,30.791
+Ireland,2019,United Kingdom,All Products,Export,Partner share(%)-Top 5 Export Partner,10.3404
+Ireland,2019,Belgium,All Products,Export,Partner share(%)-Top 5 Export Partner,10.1665
+Ireland,2019,Germany,All Products,Export,Partner share(%)-Top 5 Export Partner,8.9146
+Ireland,2019,Netherlands,All Products,Export,Partner share(%)-Top 5 Export Partner,5.6542
+Ireland,2019,United Kingdom,All Products,Import,Partner share(%)-Top 5 Import Partner,22.4949
+Ireland,2019,United States,All Products,Import,Partner share(%)-Top 5 Import Partner,15.4666
+Ireland,2019,France,All Products,Import,Partner share(%)-Top 5 Import Partner,13.5733
+Ireland,2019,Germany,All Products,Import,Partner share(%)-Top 5 Import Partner,8.2423
+Ireland,2019,Unspecified,All Products,Import,Partner share(%)-Top 5 Import Partner,6.7014
+Ireland,2019,World,Animal,Export,Export Product share(%),4.6764
+Ireland,2019,World,Vegetable,Export,Export Product share(%),0.2664
+Ireland,2019,World,Food Products,Export,Export Product share(%),4.0059
+Ireland,2019,World,Minerals,Export,Export Product share(%),0.2864
+Ireland,2019,World,Fuels,Export,Export Product share(%),0.581
+Ireland,2019,World,Chemicals,Export,Export Product share(%),60.7918
+Ireland,2019,World,Plastic or Rubber,Export,Export Product share(%),1.128
+Ireland,2019,World,Hides and Skins,Export,Export Product share(%),0.0945
+Ireland,2019,World,Wood,Export,Export Product share(%),0.552
+Ireland,2019,World,Textiles and Clothing,Export,Export Product share(%),0.3284
+Ireland,2019,World,Footwear,Export,Export Product share(%),0.0334
+Ireland,2019,World,Stone and Glass,Export,Export Product share(%),0.3411
+Ireland,2019,World,Metals,Export,Export Product share(%),0.8484
+Ireland,2019,World,Mach and Elec,Export,Export Product share(%),12.8033
+Ireland,2019,World,Transportation,Export,Export Product share(%),3.2217
+Ireland,2019,World,Miscellaneous,Export,Export Product share(%),10.0414
+Ireland,2019,World,Raw materials,Export,Export Product share(%),3.2076
+Ireland,2019,World,Intermediate goods,Export,Export Product share(%),51.5583
+Ireland,2019,World,Consumer goods,Export,Export Product share(%),23.8267
+Ireland,2019,World,Capital goods,Export,Export Product share(%),20.7699
+Ireland,2019,World,Raw materials,Import,Import Product share(%),5.1714
+Ireland,2019,World,Intermediate goods,Import,Import Product share(%),18.109
+Ireland,2019,World,Consumer goods,Import,Import Product share(%),31.1274
+Ireland,2019,World,Capital goods,Import,Import Product share(%),43.3037
+Ireland,2019,World,Raw materials,Tariff,Weighted Average (%),0.745914437253505
+Ireland,2019,World,Intermediate goods,Tariff,Weighted Average (%),2.16628228959587
+Ireland,2019,World,Consumer goods,Tariff,Weighted Average (%),3.63931122960207
+Ireland,2019,World,Capital goods,Tariff,Weighted Average (%),0.902778513554902
+Ireland,2019,World,All Products,Trade Indicator,World Growth (%),-1.13475826045476
+Ireland,2019,World,All Products,Trade Indicator,Country Growth (%),2.39204978181962
+Ireland,2019,World,All Products,Tariff,Simple Average (%),3.23643466463442
+Ireland,2019,World,All Products,Tariff,Weighted Average (%),1.77385868723302
+Ireland,2019,World,All Products,Tariff,Maximum Rate (%),3000
+Ireland,2019,World,All Products,Tariff,Duty Free Tariff Lines Share (%),50.5496725734184
+Ireland,2019,...,...,Trade Indicator,Index of export market penetration,9.18239231963979
+Ireland,2019,...,...,Trade Indicator,HH Market concentration index,0.119972985885812
+Ireland,2019,...,...,Development,Trade Balance (% of GDP),14.3757852
+Ireland,2019,...,...,Development,Trade in services (% of GDP),149.0445661
+Ireland,2019,...,...,Development,Trade (% of GDP),239.2150917
+Ireland,2019,...,...,Development,"GNI per capita, Atlas method (current US$)",64100

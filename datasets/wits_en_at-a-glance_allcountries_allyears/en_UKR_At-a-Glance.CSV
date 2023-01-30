@@ -1,0 +1,106 @@
+Reporter,Year,Partner,Product categories,Indicator Type,Indicator,Indicator Value
+Ukraine,2018,Russian Federation,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,3652.42849564
+Ukraine,2018,Poland,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,3257.23660637
+Ukraine,2018,Italy,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,2628.75712682
+Ukraine,2018,Turkey,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,2352.35260529
+Ukraine,2018,Germany,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,2208.34712469
+Ukraine,2018,Russian Federation,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,8090.39128112
+Ukraine,2018,China,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,7608.35553761
+Ukraine,2018,Germany,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,5983.33178143
+Ukraine,2018,Belarus,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,3786.92898082
+Ukraine,2018,Poland,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,3641.87616965
+Ukraine,2018,World,Animal,Export,Export(US$ Mil),1210.59278366
+Ukraine,2018,World,Vegetable,Export,Export(US$ Mil),14402.86481316
+Ukraine,2018,World,Food Products,Export,Export(US$ Mil),3018.35885651
+Ukraine,2018,World,Minerals,Export,Export(US$ Mil),3478.3079631
+Ukraine,2018,World,Fuels,Export,Export(US$ Mil),861.3124529
+Ukraine,2018,World,Chemicals,Export,Export(US$ Mil),1850.93389756
+Ukraine,2018,World,Plastic or Rubber,Export,Export(US$ Mil),694.36621597
+Ukraine,2018,World,Hides and Skins,Export,Export(US$ Mil),165.35399862
+Ukraine,2018,World,Wood,Export,Export(US$ Mil),2123.2876982
+Ukraine,2018,World,Textiles and Clothing,Export,Export(US$ Mil),846.56623494
+Ukraine,2018,World,Footwear,Export,Export(US$ Mil),208.24574787
+Ukraine,2018,World,Stone and Glass,Export,Export(US$ Mil),464.436137
+Ukraine,2018,World,Metals,Export,Export(US$ Mil),11632.69174529
+Ukraine,2018,World,Mach and Elec,Export,Export(US$ Mil),4654.55063777
+Ukraine,2018,World,Transportation,Export,Export(US$ Mil),669.33035498
+Ukraine,2018,World,Miscellaneous,Export,Export(US$ Mil),1053.48031624
+Ukraine,2018,World,Raw materials,Export,Export(US$ Mil),14517.48058798
+Ukraine,2018,World,Intermediate goods,Export,Export(US$ Mil),21151.11403519
+Ukraine,2018,World,Consumer goods,Export,Export(US$ Mil),8155.81188541
+Ukraine,2018,World,Capital goods,Export,Export(US$ Mil),3352.50241028
+Ukraine,2018,World,Raw materials,Import,Import(US$ Mil),6821.22773207
+Ukraine,2018,World,Intermediate goods,Import,Import(US$ Mil),12301.48342267
+Ukraine,2018,World,Consumer goods,Import,Import(US$ Mil),24079.73121626
+Ukraine,2018,World,Capital goods,Import,Import(US$ Mil),13445.43225964
+Ukraine,2018,World,All Products,Export,Exports (in US$ Mil),47334.67985377
+Ukraine,2018,World,All Products,Import,Imports (in US$ Mil),57187.09342957
+Ukraine,2018,World,All Products,Tariff,Duty Free Imports (US$ Thousand),36498343.08489
+Ukraine,2019,...,...,Development,Trade Balance (current US$ Mil),-12040.076454
+Ukraine,2019,...,...,Development,GDP (current US$ Mil),153781
+Ukraine,2018,...,...,Tariff,No. Of Tariff Agreement,10
+Ukraine,2018,...,...,Import,No. Of Import partners,202
+Ukraine,2018,...,...,Import,No. Of Import products,4293
+Ukraine,2018,...,...,Export,No. Of Export partners,193
+Ukraine,2018,...,...,Export,No. Of Export products,3706
+Ukraine,2019,...,...,Others,Population,44386203
+Ukraine,2019,...,...,Others,Ease of Doing Business Rank,64
+Ukraine,2019,...,...,Others,Trading Across Borders Rank,74
+Ukraine,2019,...,...,Others,CPIA Trade Ratings,
+Ukraine,2018,...,...,Others,LPI Rank,66
+Ukraine,2018,...,...,Others,LPI Score,2.83
+Ukraine,2013,...,...,Others,No Of NTM Affected Products (HS 6 Digit),23
+Ukraine,2013,...,...,Others,No Of NTM Measures,3
+Ukraine,2009,...,...,Others,Overall Trade Restrictiveness Index -  Applied Tariff,0.1947729
+Ukraine,2009,...,...,Others,Overall Trade Restrictiveness Index - MFN Tariff,0.2042678
+Ukraine,,...,...,Others,Services Trade Restrictions Index - Over All,27.2
+Ukraine,2018,Russian Federation,All Products,Export,Partner share(%)-Top 5 Export Partner,7.7162
+Ukraine,2018,Poland,All Products,Export,Partner share(%)-Top 5 Export Partner,6.8813
+Ukraine,2018,Italy,All Products,Export,Partner share(%)-Top 5 Export Partner,5.5536
+Ukraine,2018,Turkey,All Products,Export,Partner share(%)-Top 5 Export Partner,4.9696
+Ukraine,2018,Germany,All Products,Export,Partner share(%)-Top 5 Export Partner,4.6654
+Ukraine,2018,Russian Federation,All Products,Import,Partner share(%)-Top 5 Import Partner,14.1472
+Ukraine,2018,China,All Products,Import,Partner share(%)-Top 5 Import Partner,13.3043
+Ukraine,2018,Germany,All Products,Import,Partner share(%)-Top 5 Import Partner,10.4627
+Ukraine,2018,Belarus,All Products,Import,Partner share(%)-Top 5 Import Partner,6.622
+Ukraine,2018,Poland,All Products,Import,Partner share(%)-Top 5 Import Partner,6.3684
+Ukraine,2018,World,Animal,Export,Export Product share(%),2.5575
+Ukraine,2018,World,Vegetable,Export,Export Product share(%),30.4277
+Ukraine,2018,World,Food Products,Export,Export Product share(%),6.3766
+Ukraine,2018,World,Minerals,Export,Export Product share(%),7.3483
+Ukraine,2018,World,Fuels,Export,Export Product share(%),1.8196
+Ukraine,2018,World,Chemicals,Export,Export Product share(%),3.9103
+Ukraine,2018,World,Plastic or Rubber,Export,Export Product share(%),1.4669
+Ukraine,2018,World,Hides and Skins,Export,Export Product share(%),0.3493
+Ukraine,2018,World,Wood,Export,Export Product share(%),4.4857
+Ukraine,2018,World,Textiles and Clothing,Export,Export Product share(%),1.7885
+Ukraine,2018,World,Footwear,Export,Export Product share(%),0.4399
+Ukraine,2018,World,Stone and Glass,Export,Export Product share(%),0.9812
+Ukraine,2018,World,Metals,Export,Export Product share(%),24.5754
+Ukraine,2018,World,Mach and Elec,Export,Export Product share(%),9.8333
+Ukraine,2018,World,Transportation,Export,Export Product share(%),1.414
+Ukraine,2018,World,Miscellaneous,Export,Export Product share(%),2.2256
+Ukraine,2018,World,Raw materials,Export,Export Product share(%),30.6699
+Ukraine,2018,World,Intermediate goods,Export,Export Product share(%),44.6842
+Ukraine,2018,World,Consumer goods,Export,Export Product share(%),17.2301
+Ukraine,2018,World,Capital goods,Export,Export Product share(%),7.0826
+Ukraine,2018,World,Raw materials,Import,Import Product share(%),11.9279
+Ukraine,2018,World,Intermediate goods,Import,Import Product share(%),21.5109
+Ukraine,2018,World,Consumer goods,Import,Import Product share(%),42.1069
+Ukraine,2018,World,Capital goods,Import,Import Product share(%),23.5113
+Ukraine,2018,World,Raw materials,Tariff,Weighted Average (%),0.970456913548354
+Ukraine,2018,World,Intermediate goods,Tariff,Weighted Average (%),1.06505654302289
+Ukraine,2018,World,Consumer goods,Tariff,Weighted Average (%),2.3578187649955
+Ukraine,2018,World,Capital goods,Tariff,Weighted Average (%),0.937284353939022
+Ukraine,2018,World,All Products,Trade Indicator,World Growth (%),3.49929022901836
+Ukraine,2018,World,All Products,Trade Indicator,Country Growth (%),3.98774191596356
+Ukraine,2018,World,All Products,Tariff,Simple Average (%),2.30355832398824
+Ukraine,2018,World,All Products,Tariff,Weighted Average (%),1.55869650194822
+Ukraine,2018,World,All Products,Tariff,Maximum Rate (%),50
+Ukraine,2018,World,All Products,Tariff,Duty Free Tariff Lines Share (%),62.3913221784777
+Ukraine,2018,...,...,Trade Indicator,Index of export market penetration,8.43492834180143
+Ukraine,2018,...,...,Trade Indicator,HH Market concentration index,0.031292088819364
+Ukraine,2019,...,...,Development,Trade Balance (% of GDP),-7.82936191
+Ukraine,2019,...,...,Development,Trade in services (% of GDP),21.5761278
+Ukraine,2019,...,...,Development,Trade (% of GDP),90.17379013
+Ukraine,2019,...,...,Development,"GNI per capita, Atlas method (current US$)",3370

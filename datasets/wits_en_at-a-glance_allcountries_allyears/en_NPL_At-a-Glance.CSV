@@ -1,0 +1,106 @@
+Reporter,Year,Partner,Product categories,Indicator Type,Indicator,Indicator Value
+Nepal,2017,India,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,420.179764996102
+Nepal,2017,United States,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,82.6048349469453
+Nepal,2017,Turkey,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,47.5322670059426
+Nepal,2017,Germany,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,29.098208773442
+Nepal,2017,United Kingdom,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,25.3585749134039
+Nepal,2017,India,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,6519.70225933822
+Nepal,2017,China,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,1267.43196282585
+Nepal,2017,Unspecified,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,207.25949370107
+Nepal,2017,United Arab Emirates,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,175.087743335721
+Nepal,2017,France,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,155.336096683593
+Nepal,2017,World,Animal,Export,Export(US$ Mil),9.62119906208744
+Nepal,2017,World,Vegetable,Export,Export(US$ Mil),109.082865346561
+Nepal,2017,World,Food Products,Export,Export(US$ Mil),92.6256881282198
+Nepal,2017,World,Minerals,Export,Export(US$ Mil),0.040633913533824
+Nepal,2017,World,Fuels,Export,Export(US$ Mil),0.028479939132096
+Nepal,2017,World,Chemicals,Export,Export(US$ Mil),43.9299299134374
+Nepal,2017,World,Plastic or Rubber,Export,Export(US$ Mil),8.44935841364109
+Nepal,2017,World,Hides and Skins,Export,Export(US$ Mil),10.6608384748547
+Nepal,2017,World,Wood,Export,Export(US$ Mil),14.144323284708
+Nepal,2017,World,Textiles and Clothing,Export,Export(US$ Mil),328.432127538238
+Nepal,2017,World,Footwear,Export,Export(US$ Mil),18.5196453525522
+Nepal,2017,World,Stone and Glass,Export,Export(US$ Mil),9.7502483526851
+Nepal,2017,World,Metals,Export,Export(US$ Mil),73.5080741028932
+Nepal,2017,World,Mach and Elec,Export,Export(US$ Mil),7.53331509376034
+Nepal,2017,World,Transportation,Export,Export(US$ Mil),1.01158895602214
+Nepal,2017,World,Miscellaneous,Export,Export(US$ Mil),13.4045985438974
+Nepal,2017,World,Raw materials,Export,Export(US$ Mil),43.8559850253429
+Nepal,2017,World,Intermediate goods,Export,Export(US$ Mil),273.24312651804
+Nepal,2017,World,Consumer goods,Export,Export(US$ Mil),409.383034451363
+Nepal,2017,World,Capital goods,Export,Export(US$ Mil),14.2276082977265
+Nepal,2017,World,Raw materials,Import,Import(US$ Mil),945.208069721123
+Nepal,2017,World,Intermediate goods,Import,Import(US$ Mil),3496.62787902861
+Nepal,2017,World,Consumer goods,Import,Import(US$ Mil),3258.56094607866
+Nepal,2017,World,Capital goods,Import,Import(US$ Mil),2298.63795284127
+Nepal,2017,World,All Products,Export,Exports (in US$ Mil),740.742914416223
+Nepal,2017,World,All Products,Import,Imports (in US$ Mil),10037.8401719067
+Nepal,2016,World,All Products,Tariff,Duty Free Imports (US$ Thousand),495959.529
+Nepal,2019,...,...,Development,Trade Balance (current US$ Mil),-11517.8873
+Nepal,2019,...,...,Development,GDP (current US$ Mil),30641.380604
+Nepal,2016,...,...,Tariff,No. Of Tariff Agreement,3
+Nepal,2017,...,...,Import,No. Of Import partners,147
+Nepal,2017,...,...,Import,No. Of Import products,4146
+Nepal,2017,...,...,Export,No. Of Export partners,124
+Nepal,2017,...,...,Export,No. Of Export products,1093
+Nepal,2019,...,...,Others,Population,28608710
+Nepal,2019,...,...,Others,Ease of Doing Business Rank,94
+Nepal,2019,...,...,Others,Trading Across Borders Rank,60
+Nepal,2019,...,...,Others,CPIA Trade Ratings,3.5
+Nepal,2018,...,...,Others,LPI Rank,114
+Nepal,2018,...,...,Others,LPI Score,2.51
+Nepal,2012,...,...,Others,No Of NTM Affected Products (HS 6 Digit),5052
+Nepal,2012,...,...,Others,No Of NTM Measures,47
+Nepal,2009,...,...,Others,Overall Trade Restrictiveness Index -  Applied Tariff,0.126297
+Nepal,2009,...,...,Others,Overall Trade Restrictiveness Index - MFN Tariff,0.1403964
+Nepal,,...,...,Others,Services Trade Restrictions Index - Over All,42.9
+Nepal,2017,India,All Products,Export,Partner share(%)-Top 5 Export Partner,56.7241
+Nepal,2017,United States,All Products,Export,Partner share(%)-Top 5 Export Partner,11.1516
+Nepal,2017,Turkey,All Products,Export,Partner share(%)-Top 5 Export Partner,6.4168
+Nepal,2017,Germany,All Products,Export,Partner share(%)-Top 5 Export Partner,3.9282
+Nepal,2017,United Kingdom,All Products,Export,Partner share(%)-Top 5 Export Partner,3.4234
+Nepal,2017,India,All Products,Import,Partner share(%)-Top 5 Import Partner,64.9512
+Nepal,2017,China,All Products,Import,Partner share(%)-Top 5 Import Partner,12.6265
+Nepal,2017,Unspecified,All Products,Import,Partner share(%)-Top 5 Import Partner,2.0648
+Nepal,2017,United Arab Emirates,All Products,Import,Partner share(%)-Top 5 Import Partner,1.7443
+Nepal,2017,France,All Products,Import,Partner share(%)-Top 5 Import Partner,1.5475
+Nepal,2017,World,Animal,Export,Export Product share(%),1.2989
+Nepal,2017,World,Vegetable,Export,Export Product share(%),14.7261
+Nepal,2017,World,Food Products,Export,Export Product share(%),12.5044
+Nepal,2017,World,Minerals,Export,Export Product share(%),0.0055
+Nepal,2017,World,Fuels,Export,Export Product share(%),0.0038
+Nepal,2017,World,Chemicals,Export,Export Product share(%),5.9305
+Nepal,2017,World,Plastic or Rubber,Export,Export Product share(%),1.1407
+Nepal,2017,World,Hides and Skins,Export,Export Product share(%),1.4392
+Nepal,2017,World,Wood,Export,Export Product share(%),1.9095
+Nepal,2017,World,Textiles and Clothing,Export,Export Product share(%),44.3382
+Nepal,2017,World,Footwear,Export,Export Product share(%),2.5001
+Nepal,2017,World,Stone and Glass,Export,Export Product share(%),1.3163
+Nepal,2017,World,Metals,Export,Export Product share(%),9.9236
+Nepal,2017,World,Mach and Elec,Export,Export Product share(%),1.017
+Nepal,2017,World,Transportation,Export,Export Product share(%),0.1366
+Nepal,2017,World,Miscellaneous,Export,Export Product share(%),1.8096
+Nepal,2017,World,Raw materials,Export,Export Product share(%),5.9205
+Nepal,2017,World,Intermediate goods,Export,Export Product share(%),36.8877
+Nepal,2017,World,Consumer goods,Export,Export Product share(%),55.2665
+Nepal,2017,World,Capital goods,Export,Export Product share(%),1.9207
+Nepal,2017,World,Raw materials,Import,Import Product share(%),9.4164
+Nepal,2017,World,Intermediate goods,Import,Import Product share(%),34.8345
+Nepal,2017,World,Consumer goods,Import,Import Product share(%),32.4628
+Nepal,2017,World,Capital goods,Import,Import Product share(%),22.8997
+Nepal,2016,World,Raw materials,Tariff,Weighted Average (%),8.44658737087683
+Nepal,2016,World,Intermediate goods,Tariff,Weighted Average (%),9.29536272509595
+Nepal,2016,World,Consumer goods,Tariff,Weighted Average (%),17.7085408420001
+Nepal,2016,World,Capital goods,Tariff,Weighted Average (%),10.5877220492404
+Nepal,2017,World,All Products,Trade Indicator,World Growth (%),5.68172199138237
+Nepal,2017,World,All Products,Trade Indicator,Country Growth (%),3.65919826586751
+Nepal,2016,World,All Products,Tariff,Simple Average (%),12.6546247136881
+Nepal,2016,World,All Products,Tariff,Weighted Average (%),12.349969313242
+Nepal,2016,World,All Products,Tariff,Maximum Rate (%),259.301300048828
+Nepal,2016,World,All Products,Tariff,Duty Free Tariff Lines Share (%),7.29031447594322
+Nepal,2017,...,...,Trade Indicator,Index of export market penetration,3.54678140555134
+Nepal,2017,...,...,Trade Indicator,HH Market concentration index,0.31299225775246
+Nepal,2019,...,...,Development,Trade Balance (% of GDP),-37.589322261
+Nepal,2019,...,...,Development,Trade in services (% of GDP),10.86119223
+Nepal,2019,...,...,Development,Trade (% of GDP),54.92592114
+Nepal,2019,...,...,Development,"GNI per capita, Atlas method (current US$)",1090

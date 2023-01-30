@@ -1,0 +1,102 @@
+Reporter,Year,Partner,Product categories,Indicator Type,Indicator,Indicator Value
+Sweden,2019,Norway,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,16985.9875253069
+Sweden,2019,Germany,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,16429.9378743649
+Sweden,2019,United States,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,12246.8843635338
+Sweden,2019,Finland,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,11446.3041835144
+Sweden,2019,Denmark,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,11069.4193234022
+Sweden,2019,Germany,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,28256.0427887831
+Sweden,2019,Netherlands,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,15020.0500072115
+Sweden,2019,Norway,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,14637.2907275857
+Sweden,2019,Denmark,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,10494.800369438
+Sweden,2019,China,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,8229.67219572037
+Sweden,2019,World,Animal,Export,Export(US$ Mil),4896.4020339701
+Sweden,2019,World,Vegetable,Export,Export(US$ Mil),1500.99673306718
+Sweden,2019,World,Food Products,Export,Export(US$ Mil),4070.18369211044
+Sweden,2019,World,Minerals,Export,Export(US$ Mil),3468.96536533798
+Sweden,2019,World,Fuels,Export,Export(US$ Mil),10216.7860787542
+Sweden,2019,World,Chemicals,Export,Export(US$ Mil),16826.0039529805
+Sweden,2019,World,Plastic or Rubber,Export,Export(US$ Mil),6443.26539933582
+Sweden,2019,World,Hides and Skins,Export,Export(US$ Mil),346.56890942266
+Sweden,2019,World,Wood,Export,Export(US$ Mil),15937.7606520822
+Sweden,2019,World,Textiles and Clothing,Export,Export(US$ Mil),3073.23494033292
+Sweden,2019,World,Footwear,Export,Export(US$ Mil),646.1765581528
+Sweden,2019,World,Stone and Glass,Export,Export(US$ Mil),1937.08924035982
+Sweden,2019,World,Metals,Export,Export(US$ Mil),14671.9663656487
+Sweden,2019,World,Mach and Elec,Export,Export(US$ Mil),38369.2561472033
+Sweden,2019,World,Transportation,Export,Export(US$ Mil),24178.7503052751
+Sweden,2019,World,Miscellaneous,Export,Export(US$ Mil),13984.7016389797
+Sweden,2019,World,Raw materials,Export,Export(US$ Mil),9616.69410566973
+Sweden,2019,World,Intermediate goods,Export,Export(US$ Mil),39047.8098483968
+Sweden,2019,World,Consumer goods,Export,Export(US$ Mil),55520.7503012691
+Sweden,2019,World,Capital goods,Export,Export(US$ Mil),50255.0471272154
+Sweden,2019,World,Raw materials,Import,Import(US$ Mil),19674.8811782785
+Sweden,2019,World,Intermediate goods,Import,Import(US$ Mil),25905.9571327388
+Sweden,2019,World,Consumer goods,Import,Import(US$ Mil),57522.6094908634
+Sweden,2019,World,Capital goods,Import,Import(US$ Mil),48926.2650372743
+Sweden,2019,World,All Products,Export,Exports (in US$ Mil),160568.108013014
+Sweden,2019,World,All Products,Import,Imports (in US$ Mil),158958.869495315
+Sweden,2019,World,All Products,Tariff,Duty Free Imports (US$ Thousand),26188319.3475447
+Sweden,2019,...,...,Development,Trade Balance (current US$ Mil),18866
+Sweden,2019,...,...,Development,GDP (current US$ Mil),530884
+Sweden,2019,...,...,Tariff,No. Of Tariff Agreement,
+Sweden,2019,...,...,Import,No. Of Import partners,213
+Sweden,2019,...,...,Import,No. Of Import products,4453
+Sweden,2019,...,...,Export,No. Of Export partners,224
+Sweden,2019,...,...,Export,No. Of Export products,4314
+Sweden,2019,...,...,Others,Population,10278887
+Sweden,2019,...,...,Others,Ease of Doing Business Rank,10
+Sweden,2019,...,...,Others,Trading Across Borders Rank,18
+Sweden,2019,...,...,Others,CPIA Trade Ratings,
+Sweden,2018,...,...,Others,LPI Rank,2
+Sweden,2018,...,...,Others,LPI Score,4.05
+Sweden,,...,...,Others,Services Trade Restrictions Index - Over All,15.5
+Sweden,2019,Norway,All Products,Export,Partner share(%)-Top 5 Export Partner,10.5787
+Sweden,2019,Germany,All Products,Export,Partner share(%)-Top 5 Export Partner,10.2324
+Sweden,2019,United States,All Products,Export,Partner share(%)-Top 5 Export Partner,7.6272
+Sweden,2019,Finland,All Products,Export,Partner share(%)-Top 5 Export Partner,7.1286
+Sweden,2019,Denmark,All Products,Export,Partner share(%)-Top 5 Export Partner,6.8939
+Sweden,2019,Germany,All Products,Import,Partner share(%)-Top 5 Import Partner,17.7757
+Sweden,2019,Netherlands,All Products,Import,Partner share(%)-Top 5 Import Partner,9.449
+Sweden,2019,Norway,All Products,Import,Partner share(%)-Top 5 Import Partner,9.2082
+Sweden,2019,Denmark,All Products,Import,Partner share(%)-Top 5 Import Partner,6.6022
+Sweden,2019,China,All Products,Import,Partner share(%)-Top 5 Import Partner,5.1772
+Sweden,2019,World,Animal,Export,Export Product share(%),3.0494
+Sweden,2019,World,Vegetable,Export,Export Product share(%),0.9348
+Sweden,2019,World,Food Products,Export,Export Product share(%),2.5349
+Sweden,2019,World,Minerals,Export,Export Product share(%),2.1604
+Sweden,2019,World,Fuels,Export,Export Product share(%),6.3629
+Sweden,2019,World,Chemicals,Export,Export Product share(%),10.479
+Sweden,2019,World,Plastic or Rubber,Export,Export Product share(%),4.0128
+Sweden,2019,World,Hides and Skins,Export,Export Product share(%),0.2158
+Sweden,2019,World,Wood,Export,Export Product share(%),9.9259
+Sweden,2019,World,Textiles and Clothing,Export,Export Product share(%),1.914
+Sweden,2019,World,Footwear,Export,Export Product share(%),0.4024
+Sweden,2019,World,Stone and Glass,Export,Export Product share(%),1.2064
+Sweden,2019,World,Metals,Export,Export Product share(%),9.1375
+Sweden,2019,World,Mach and Elec,Export,Export Product share(%),23.8959
+Sweden,2019,World,Transportation,Export,Export Product share(%),15.0583
+Sweden,2019,World,Miscellaneous,Export,Export Product share(%),8.7095
+Sweden,2019,World,Raw materials,Export,Export Product share(%),5.9892
+Sweden,2019,World,Intermediate goods,Export,Export Product share(%),24.3185
+Sweden,2019,World,Consumer goods,Export,Export Product share(%),34.5777
+Sweden,2019,World,Capital goods,Export,Export Product share(%),31.2983
+Sweden,2019,World,Raw materials,Import,Import Product share(%),12.3773
+Sweden,2019,World,Intermediate goods,Import,Import Product share(%),16.2973
+Sweden,2019,World,Consumer goods,Import,Import Product share(%),36.1871
+Sweden,2019,World,Capital goods,Import,Import Product share(%),30.7792
+Sweden,2019,World,Raw materials,Tariff,Weighted Average (%),0.366584674022253
+Sweden,2019,World,Intermediate goods,Tariff,Weighted Average (%),1.11783234385902
+Sweden,2019,World,Consumer goods,Tariff,Weighted Average (%),3.6570230531122
+Sweden,2019,World,Capital goods,Tariff,Weighted Average (%),0.796044608897107
+Sweden,2019,World,All Products,Trade Indicator,World Growth (%),-1.13475826045476
+Sweden,2019,World,All Products,Trade Indicator,Country Growth (%),-2.65588182169582
+Sweden,2019,World,All Products,Tariff,Simple Average (%),2.87355413150851
+Sweden,2019,World,All Products,Tariff,Weighted Average (%),1.74673824608736
+Sweden,2019,World,All Products,Tariff,Maximum Rate (%),3000
+Sweden,2019,World,All Products,Tariff,Duty Free Tariff Lines Share (%),54.0315605262099
+Sweden,2019,...,...,Trade Indicator,Index of export market penetration,16.8821737772371
+Sweden,2019,...,...,Trade Indicator,HH Market concentration index,0.0433846619342544
+Sweden,2019,...,...,Development,Trade Balance (% of GDP),3.55363218
+Sweden,2019,...,...,Development,Trade in services (% of GDP),28.2661828
+Sweden,2019,...,...,Development,Trade (% of GDP),90.48488584
+Sweden,2019,...,...,Development,"GNI per capita, Atlas method (current US$)",55820

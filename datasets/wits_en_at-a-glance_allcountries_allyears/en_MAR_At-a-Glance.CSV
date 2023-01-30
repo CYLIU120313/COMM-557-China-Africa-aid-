@@ -1,0 +1,106 @@
+Reporter,Year,Partner,Product categories,Indicator Type,Indicator,Indicator Value
+Morocco,2019,Spain,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,7065.97295617745
+Morocco,2019,France,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,6340.6011529863
+Morocco,2019,Italy,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,1365.7335225924
+Morocco,2019,United States,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,1160.24437492426
+Morocco,2019,Germany,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,941.325825675671
+Morocco,2019,Spain,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,7944.99298948841
+Morocco,2019,France,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,6243.00747785183
+Morocco,2019,China,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,5183.96464889197
+Morocco,2019,United States,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,3782.56442957174
+Morocco,2019,Italy,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,2739.40073503389
+Morocco,2019,World,Animal,Export,Export(US$ Mil),945.33109538678
+Morocco,2019,World,Vegetable,Export,Export(US$ Mil),3252.1390579769
+Morocco,2019,World,Food Products,Export,Export(US$ Mil),2202.2682222473
+Morocco,2019,World,Minerals,Export,Export(US$ Mil),1262.85412955015
+Morocco,2019,World,Fuels,Export,Export(US$ Mil),446.316836302159
+Morocco,2019,World,Chemicals,Export,Export(US$ Mil),4663.12500977462
+Morocco,2019,World,Plastic or Rubber,Export,Export(US$ Mil),330.16616599746
+Morocco,2019,World,Hides and Skins,Export,Export(US$ Mil),118.455458481015
+Morocco,2019,World,Wood,Export,Export(US$ Mil),169.334266403475
+Morocco,2019,World,Textiles and Clothing,Export,Export(US$ Mil),3642.67250332393
+Morocco,2019,World,Footwear,Export,Export(US$ Mil),309.636714342496
+Morocco,2019,World,Stone and Glass,Export,Export(US$ Mil),357.539407607685
+Morocco,2019,World,Metals,Export,Export(US$ Mil),660.072453211454
+Morocco,2019,World,Mach and Elec,Export,Export(US$ Mil),5762.96989482137
+Morocco,2019,World,Transportation,Export,Export(US$ Mil),4700.77081321558
+Morocco,2019,World,Miscellaneous,Export,Export(US$ Mil),504.13954504929
+Morocco,2019,World,Raw materials,Export,Export(US$ Mil),4965.21749147482
+Morocco,2019,World,Intermediate goods,Export,Export(US$ Mil),7132.82570976524
+Morocco,2019,World,Consumer goods,Export,Export(US$ Mil),14537.8783417411
+Morocco,2019,World,Capital goods,Export,Export(US$ Mil),2691.87003071053
+Morocco,2019,World,Raw materials,Import,Import(US$ Mil),4789.47496603346
+Morocco,2019,World,Intermediate goods,Import,Import(US$ Mil),14007.9556394566
+Morocco,2019,World,Consumer goods,Import,Import(US$ Mil),18824.6819950939
+Morocco,2019,World,Capital goods,Import,Import(US$ Mil),13226.8685758942
+Morocco,2019,World,All Products,Export,Exports (in US$ Mil),29327.7915736917
+Morocco,2019,World,All Products,Import,Imports (in US$ Mil),51074.8498089293
+Morocco,2019,World,All Products,Tariff,Duty Free Imports (US$ Thousand),29087179.6715503
+Morocco,2019,...,...,Development,Trade Balance (current US$ Mil),-10680.974515
+Morocco,2019,...,...,Development,GDP (current US$ Mil),119700
+Morocco,2019,...,...,Tariff,No. Of Tariff Agreement,19
+Morocco,2019,...,...,Import,No. Of Import partners,186
+Morocco,2019,...,...,Import,No. Of Import products,4221
+Morocco,2019,...,...,Export,No. Of Export partners,182
+Morocco,2019,...,...,Export,No. Of Export products,3133
+Morocco,2019,...,...,Others,Population,36471769
+Morocco,2019,...,...,Others,Ease of Doing Business Rank,53
+Morocco,2019,...,...,Others,Trading Across Borders Rank,58
+Morocco,2019,...,...,Others,CPIA Trade Ratings,
+Morocco,2018,...,...,Others,LPI Rank,109
+Morocco,2018,...,...,Others,LPI Score,2.54
+Morocco,2013,...,...,Others,No Of NTM Affected Products (HS 6 Digit),11
+Morocco,2013,...,...,Others,No Of NTM Measures,2
+Morocco,2009,...,...,Others,Overall Trade Restrictiveness Index -  Applied Tariff,0.1545955
+Morocco,2009,...,...,Others,Overall Trade Restrictiveness Index - MFN Tariff,0.2304282
+Morocco,,...,...,Others,Services Trade Restrictions Index - Over All,21
+Morocco,2019,Spain,All Products,Export,Partner share(%)-Top 5 Export Partner,24.0931
+Morocco,2019,France,All Products,Export,Partner share(%)-Top 5 Export Partner,21.6198
+Morocco,2019,Italy,All Products,Export,Partner share(%)-Top 5 Export Partner,4.6568
+Morocco,2019,United States,All Products,Export,Partner share(%)-Top 5 Export Partner,3.9561
+Morocco,2019,Germany,All Products,Export,Partner share(%)-Top 5 Export Partner,3.2097
+Morocco,2019,Spain,All Products,Import,Partner share(%)-Top 5 Import Partner,15.5556
+Morocco,2019,France,All Products,Import,Partner share(%)-Top 5 Import Partner,12.2233
+Morocco,2019,China,All Products,Import,Partner share(%)-Top 5 Import Partner,10.1497
+Morocco,2019,United States,All Products,Import,Partner share(%)-Top 5 Import Partner,7.4059
+Morocco,2019,Italy,All Products,Import,Partner share(%)-Top 5 Import Partner,5.3635
+Morocco,2019,World,Animal,Export,Export Product share(%),3.2233
+Morocco,2019,World,Vegetable,Export,Export Product share(%),11.0889
+Morocco,2019,World,Food Products,Export,Export Product share(%),7.5092
+Morocco,2019,World,Minerals,Export,Export Product share(%),4.306
+Morocco,2019,World,Fuels,Export,Export Product share(%),1.5218
+Morocco,2019,World,Chemicals,Export,Export Product share(%),15.9
+Morocco,2019,World,Plastic or Rubber,Export,Export Product share(%),1.1258
+Morocco,2019,World,Hides and Skins,Export,Export Product share(%),0.4039
+Morocco,2019,World,Wood,Export,Export Product share(%),0.5774
+Morocco,2019,World,Textiles and Clothing,Export,Export Product share(%),12.4205
+Morocco,2019,World,Footwear,Export,Export Product share(%),1.0558
+Morocco,2019,World,Stone and Glass,Export,Export Product share(%),1.2191
+Morocco,2019,World,Metals,Export,Export Product share(%),2.2507
+Morocco,2019,World,Mach and Elec,Export,Export Product share(%),19.6502
+Morocco,2019,World,Transportation,Export,Export Product share(%),16.0284
+Morocco,2019,World,Miscellaneous,Export,Export Product share(%),1.719
+Morocco,2019,World,Raw materials,Export,Export Product share(%),16.9301
+Morocco,2019,World,Intermediate goods,Export,Export Product share(%),24.321
+Morocco,2019,World,Consumer goods,Export,Export Product share(%),49.5703
+Morocco,2019,World,Capital goods,Export,Export Product share(%),9.1786
+Morocco,2019,World,Raw materials,Import,Import Product share(%),9.3774
+Morocco,2019,World,Intermediate goods,Import,Import Product share(%),27.4263
+Morocco,2019,World,Consumer goods,Import,Import Product share(%),36.857
+Morocco,2019,World,Capital goods,Import,Import Product share(%),25.897
+Morocco,2019,World,Raw materials,Tariff,Weighted Average (%),3.23835123578294
+Morocco,2019,World,Intermediate goods,Tariff,Weighted Average (%),1.45731575571419
+Morocco,2019,World,Consumer goods,Tariff,Weighted Average (%),3.78206866940148
+Morocco,2019,World,Capital goods,Tariff,Weighted Average (%),1.69646211956141
+Morocco,2019,World,All Products,Trade Indicator,World Growth (%),-1.13475826045476
+Morocco,2019,World,All Products,Trade Indicator,Country Growth (%),-0.654198761905134
+Morocco,2019,World,All Products,Tariff,Simple Average (%),4.32544106979161
+Morocco,2019,World,All Products,Tariff,Weighted Average (%),3.59891074237104
+Morocco,2019,World,All Products,Tariff,Maximum Rate (%),200
+Morocco,2019,World,All Products,Tariff,Duty Free Tariff Lines Share (%),63.9105833755443
+Morocco,2019,...,...,Trade Indicator,Index of export market penetration,6.65766355970116
+Morocco,2019,...,...,Trade Indicator,HH Market concentration index,0.110943129414886
+Morocco,2019,...,...,Development,Trade Balance (% of GDP),-8.92309564
+Morocco,2019,...,...,Development,Trade in services (% of GDP),24.69068676
+Morocco,2019,...,...,Development,Trade (% of GDP),87.14160376
+Morocco,2019,...,...,Development,"GNI per capita, Atlas method (current US$)",3190

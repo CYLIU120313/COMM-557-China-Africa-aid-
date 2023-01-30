@@ -1,0 +1,97 @@
+Reporter,Year,Partner,Product categories,Indicator Type,Indicator,Indicator Value
+Bermuda,2019,United States,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,21.01090383
+Bermuda,2019,Denmark,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,1.86536336
+Bermuda,2019,Canada,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,1.42493892
+Bermuda,2019,United Kingdom,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,1.08458499
+Bermuda,2019,Antigua and Barbuda,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,0.63889378
+Bermuda,2019,United States,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,794.97696937
+Bermuda,2019,Canada,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,97.72139758
+Bermuda,2019,United Kingdom,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,42.26908661
+Bermuda,2019,Denmark,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,35.40260815
+Bermuda,2019,China,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,25.09270513
+Bermuda,2019,World,Animal,Export,Export(US$ Mil),0.19097896
+Bermuda,2019,World,Vegetable,Export,Export(US$ Mil),0.03446846
+Bermuda,2019,World,Food Products,Export,Export(US$ Mil),3.65917654
+Bermuda,2019,World,Minerals,Export,Export(US$ Mil),0.00050255
+Bermuda,2019,World,Fuels,Export,Export(US$ Mil),0.00283029
+Bermuda,2019,World,Chemicals,Export,Export(US$ Mil),0.04523468
+Bermuda,2019,World,Plastic or Rubber,Export,Export(US$ Mil),0.19160283
+Bermuda,2019,World,Hides and Skins,Export,Export(US$ Mil),0.0152063
+Bermuda,2019,World,Wood,Export,Export(US$ Mil),0.07919896
+Bermuda,2019,World,Textiles and Clothing,Export,Export(US$ Mil),1.65449861
+Bermuda,2019,World,Footwear,Export,Export(US$ Mil),0.00882911
+Bermuda,2019,World,Stone and Glass,Export,Export(US$ Mil),0.87778683
+Bermuda,2019,World,Metals,Export,Export(US$ Mil),0.59455993
+Bermuda,2019,World,Mach and Elec,Export,Export(US$ Mil),3.0831309
+Bermuda,2019,World,Transportation,Export,Export(US$ Mil),14.54105903
+Bermuda,2019,World,Miscellaneous,Export,Export(US$ Mil),1.85348829
+Bermuda,2019,World,Raw materials,Export,Export(US$ Mil),0.20395459
+Bermuda,2019,World,Intermediate goods,Export,Export(US$ Mil),1.33665308
+Bermuda,2019,World,Consumer goods,Export,Export(US$ Mil),8.47876101
+Bermuda,2019,World,Capital goods,Export,Export(US$ Mil),16.50645774
+Bermuda,2019,World,Raw materials,Import,Import(US$ Mil),73.31194164
+Bermuda,2019,World,Intermediate goods,Import,Import(US$ Mil),63.13315952
+Bermuda,2019,World,Consumer goods,Import,Import(US$ Mil),630.910176359999
+Bermuda,2019,World,Capital goods,Import,Import(US$ Mil),222.4286607
+Bermuda,2019,World,All Products,Export,Exports (in US$ Mil),26.83255227
+Bermuda,2019,World,All Products,Import,Imports (in US$ Mil),1117.76447554
+Bermuda,2019,World,All Products,Tariff,Duty Free Imports (US$ Thousand),104068.16457
+Bermuda,2019,...,...,Development,Trade Balance (current US$ Mil),1842.335
+Bermuda,2019,...,...,Development,GDP (current US$ Mil),7484.113
+Bermuda,2019,...,...,Tariff,No. Of Tariff Agreement,1
+Bermuda,2019,...,...,Import,No. Of Import partners,177
+Bermuda,2019,...,...,Import,No. Of Import products,3394
+Bermuda,2019,...,...,Export,No. Of Export partners,39
+Bermuda,2019,...,...,Export,No. Of Export products,677
+Bermuda,2019,...,...,Others,Population,64027
+Bermuda,2019,...,...,Others,CPIA Trade Ratings,
+Bermuda,2019,United States,All Products,Export,Partner share(%)-Top 5 Export Partner,78.3038
+Bermuda,2019,Denmark,All Products,Export,Partner share(%)-Top 5 Export Partner,6.9519
+Bermuda,2019,Canada,All Products,Export,Partner share(%)-Top 5 Export Partner,5.3105
+Bermuda,2019,United Kingdom,All Products,Export,Partner share(%)-Top 5 Export Partner,4.042
+Bermuda,2019,Antigua and Barbuda,All Products,Export,Partner share(%)-Top 5 Export Partner,2.381
+Bermuda,2019,United States,All Products,Import,Partner share(%)-Top 5 Import Partner,71.122
+Bermuda,2019,Canada,All Products,Import,Partner share(%)-Top 5 Import Partner,8.7426
+Bermuda,2019,United Kingdom,All Products,Import,Partner share(%)-Top 5 Import Partner,3.7816
+Bermuda,2019,Denmark,All Products,Import,Partner share(%)-Top 5 Import Partner,3.1673
+Bermuda,2019,China,All Products,Import,Partner share(%)-Top 5 Import Partner,2.2449
+Bermuda,2019,World,Animal,Export,Export Product share(%),0.7117
+Bermuda,2019,World,Vegetable,Export,Export Product share(%),0.1285
+Bermuda,2019,World,Food Products,Export,Export Product share(%),13.6371
+Bermuda,2019,World,Minerals,Export,Export Product share(%),0.0019
+Bermuda,2019,World,Fuels,Export,Export Product share(%),0.0105
+Bermuda,2019,World,Chemicals,Export,Export Product share(%),0.1686
+Bermuda,2019,World,Plastic or Rubber,Export,Export Product share(%),0.7141
+Bermuda,2019,World,Hides and Skins,Export,Export Product share(%),0.0567
+Bermuda,2019,World,Wood,Export,Export Product share(%),0.2952
+Bermuda,2019,World,Textiles and Clothing,Export,Export Product share(%),6.166
+Bermuda,2019,World,Footwear,Export,Export Product share(%),0.0329
+Bermuda,2019,World,Stone and Glass,Export,Export Product share(%),3.2714
+Bermuda,2019,World,Metals,Export,Export Product share(%),2.2158
+Bermuda,2019,World,Mach and Elec,Export,Export Product share(%),11.4903
+Bermuda,2019,World,Transportation,Export,Export Product share(%),54.1919
+Bermuda,2019,World,Miscellaneous,Export,Export Product share(%),6.9076
+Bermuda,2019,World,Raw materials,Export,Export Product share(%),0.7601
+Bermuda,2019,World,Intermediate goods,Export,Export Product share(%),4.9815
+Bermuda,2019,World,Consumer goods,Export,Export Product share(%),31.5988
+Bermuda,2019,World,Capital goods,Export,Export Product share(%),61.5165
+Bermuda,2019,World,Raw materials,Import,Import Product share(%),6.5588
+Bermuda,2019,World,Intermediate goods,Import,Import Product share(%),5.6482
+Bermuda,2019,World,Consumer goods,Import,Import Product share(%),56.4439
+Bermuda,2019,World,Capital goods,Import,Import Product share(%),19.8994
+Bermuda,2019,World,Raw materials,Tariff,Weighted Average (%),5.36524425713937
+Bermuda,2019,World,Intermediate goods,Tariff,Weighted Average (%),18.3917975362352
+Bermuda,2019,World,Consumer goods,Tariff,Weighted Average (%),146.254724971293
+Bermuda,2019,World,Capital goods,Tariff,Weighted Average (%),26.5002841888267
+Bermuda,2019,World,All Products,Trade Indicator,World Growth (%),-1.13475826045476
+Bermuda,2019,World,All Products,Trade Indicator,Country Growth (%),50.6499915450211
+Bermuda,2019,World,All Products,Tariff,Simple Average (%),39.9613201556621
+Bermuda,2019,World,All Products,Tariff,Weighted Average (%),103.171484565075
+Bermuda,2019,World,All Products,Tariff,Maximum Rate (%),3000
+Bermuda,2019,World,All Products,Tariff,Duty Free Tariff Lines Share (%),6.60377358490566
+Bermuda,2019,...,...,Trade Indicator,Index of export market penetration,1.28836473987389
+Bermuda,2019,...,...,Trade Indicator,HH Market concentration index,0.581217906293638
+Bermuda,2019,...,...,Development,Trade Balance (% of GDP),24.61661122
+Bermuda,2019,...,...,Development,Trade in services (% of GDP),35.37816072
+Bermuda,2019,...,...,Development,Trade (% of GDP),75.86105394
+Bermuda,2019,...,...,Development,"GNI per capita, Atlas method (current US$)",117530

@@ -1,0 +1,104 @@
+Reporter,Year,Partner,Product categories,Indicator Type,Indicator,Indicator Value
+Cambodia,2019,United States,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,4414.28416572
+Cambodia,2019,Japan,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,1140.01250421
+Cambodia,2019,Germany,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,1081.79343529
+Cambodia,2019,China,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,1012.14786467
+Cambodia,2019,United Kingdom,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,979.86827695
+Cambodia,2019,China,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,7585.74807824
+Cambodia,2019,Thailand,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,3234.43157175
+Cambodia,2019,Vietnam,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,2724.84635202
+Cambodia,2019,Japan,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,887.66147154
+Cambodia,2019,"Other Asia, nes",All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,800.757963360001
+Cambodia,2019,World,Animal,Export,Export(US$ Mil),5.26012431
+Cambodia,2019,World,Vegetable,Export,Export(US$ Mil),557.69639378
+Cambodia,2019,World,Food Products,Export,Export(US$ Mil),157.19423129
+Cambodia,2019,World,Minerals,Export,Export(US$ Mil),7.03527893
+Cambodia,2019,World,Fuels,Export,Export(US$ Mil),0.00101669
+Cambodia,2019,World,Chemicals,Export,Export(US$ Mil),28.93997009
+Cambodia,2019,World,Plastic or Rubber,Export,Export(US$ Mil),464.11207745
+Cambodia,2019,World,Hides and Skins,Export,Export(US$ Mil),1404.96686242
+Cambodia,2019,World,Wood,Export,Export(US$ Mil),170.20104281
+Cambodia,2019,World,Textiles and Clothing,Export,Export(US$ Mil),8489.60626376
+Cambodia,2019,World,Footwear,Export,Export(US$ Mil),1332.19075973
+Cambodia,2019,World,Stone and Glass,Export,Export(US$ Mil),439.34881643
+Cambodia,2019,World,Metals,Export,Export(US$ Mil),134.6746237
+Cambodia,2019,World,Mach and Elec,Export,Export(US$ Mil),693.79512915
+Cambodia,2019,World,Transportation,Export,Export(US$ Mil),443.35540049
+Cambodia,2019,World,Miscellaneous,Export,Export(US$ Mil),496.34430224
+Cambodia,2019,World,Raw materials,Export,Export(US$ Mil),383.51178457
+Cambodia,2019,World,Intermediate goods,Export,Export(US$ Mil),1134.27724778
+Cambodia,2019,World,Consumer goods,Export,Export(US$ Mil),12833.7714012
+Cambodia,2019,World,Capital goods,Export,Export(US$ Mil),470.35928129
+Cambodia,2019,World,Raw materials,Import,Import(US$ Mil),987.97051149
+Cambodia,2019,World,Intermediate goods,Import,Import(US$ Mil),8970.10066270001
+Cambodia,2019,World,Consumer goods,Import,Import(US$ Mil),6754.25691763001
+Cambodia,2019,World,Capital goods,Import,Import(US$ Mil),3563.93123781
+Cambodia,2019,World,All Products,Export,Exports (in US$ Mil),14824.72229327
+Cambodia,2019,World,All Products,Import,Imports (in US$ Mil),20278.818286
+Cambodia,2016,World,All Products,Tariff,Duty Free Imports (US$ Thousand),1671548.909
+Cambodia,2019,...,...,Development,Trade Balance (current US$ Mil),-372.189449
+Cambodia,2019,...,...,Development,GDP (current US$ Mil),27089.389787
+Cambodia,2016,...,...,Tariff,No. Of Tariff Agreement,1
+Cambodia,2019,...,...,Import,No. Of Import partners,156
+Cambodia,2019,...,...,Import,No. Of Import products,3582
+Cambodia,2019,...,...,Export,No. Of Export partners,159
+Cambodia,2019,...,...,Export,No. Of Export products,1288
+Cambodia,2019,...,...,Others,Population,16486542
+Cambodia,2019,...,...,Others,Ease of Doing Business Rank,144
+Cambodia,2019,...,...,Others,Trading Across Borders Rank,118
+Cambodia,2019,...,...,Others,CPIA Trade Ratings,4.5
+Cambodia,2018,...,...,Others,LPI Rank,98
+Cambodia,2018,...,...,Others,LPI Score,2.58
+Cambodia,2015,...,...,Others,No Of NTM Affected Products (HS 6 Digit),5205
+Cambodia,2015,...,...,Others,No Of NTM Measures,49
+Cambodia,,...,...,Others,Services Trade Restrictions Index - Over All,23.7
+Cambodia,2019,United States,All Products,Export,Partner share(%)-Top 5 Export Partner,29.7765
+Cambodia,2019,Japan,All Products,Export,Partner share(%)-Top 5 Export Partner,7.6899
+Cambodia,2019,Germany,All Products,Export,Partner share(%)-Top 5 Export Partner,7.2972
+Cambodia,2019,China,All Products,Export,Partner share(%)-Top 5 Export Partner,6.8274
+Cambodia,2019,United Kingdom,All Products,Export,Partner share(%)-Top 5 Export Partner,6.6097
+Cambodia,2019,China,All Products,Import,Partner share(%)-Top 5 Import Partner,37.4072
+Cambodia,2019,Thailand,All Products,Import,Partner share(%)-Top 5 Import Partner,15.9498
+Cambodia,2019,Vietnam,All Products,Import,Partner share(%)-Top 5 Import Partner,13.4369
+Cambodia,2019,Japan,All Products,Import,Partner share(%)-Top 5 Import Partner,4.3773
+Cambodia,2019,"Other Asia, nes",All Products,Import,Partner share(%)-Top 5 Import Partner,3.9487
+Cambodia,2019,World,Animal,Export,Export Product share(%),0.0355
+Cambodia,2019,World,Vegetable,Export,Export Product share(%),3.7619
+Cambodia,2019,World,Food Products,Export,Export Product share(%),1.0604
+Cambodia,2019,World,Minerals,Export,Export Product share(%),0.0475
+Cambodia,2019,World,Fuels,Export,Export Product share(%),0
+Cambodia,2019,World,Chemicals,Export,Export Product share(%),0.1952
+Cambodia,2019,World,Plastic or Rubber,Export,Export Product share(%),3.1307
+Cambodia,2019,World,Hides and Skins,Export,Export Product share(%),9.4772
+Cambodia,2019,World,Wood,Export,Export Product share(%),1.1481
+Cambodia,2019,World,Textiles and Clothing,Export,Export Product share(%),57.2665
+Cambodia,2019,World,Footwear,Export,Export Product share(%),8.9863
+Cambodia,2019,World,Stone and Glass,Export,Export Product share(%),2.9636
+Cambodia,2019,World,Metals,Export,Export Product share(%),0.9084
+Cambodia,2019,World,Mach and Elec,Export,Export Product share(%),4.68
+Cambodia,2019,World,Transportation,Export,Export Product share(%),2.9906
+Cambodia,2019,World,Miscellaneous,Export,Export Product share(%),3.3481
+Cambodia,2019,World,Raw materials,Export,Export Product share(%),2.587
+Cambodia,2019,World,Intermediate goods,Export,Export Product share(%),7.6513
+Cambodia,2019,World,Consumer goods,Export,Export Product share(%),86.5701
+Cambodia,2019,World,Capital goods,Export,Export Product share(%),3.1728
+Cambodia,2019,World,Raw materials,Import,Import Product share(%),4.8719
+Cambodia,2019,World,Intermediate goods,Import,Import Product share(%),44.2338
+Cambodia,2019,World,Consumer goods,Import,Import Product share(%),33.307
+Cambodia,2019,World,Capital goods,Import,Import Product share(%),17.5746
+Cambodia,2016,World,Raw materials,Tariff,Weighted Average (%),7.80673749313593
+Cambodia,2016,World,Intermediate goods,Tariff,Weighted Average (%),6.26366585995294
+Cambodia,2016,World,Consumer goods,Tariff,Weighted Average (%),13.1161637283699
+Cambodia,2016,World,Capital goods,Tariff,Weighted Average (%),14.003916386642
+Cambodia,2019,World,All Products,Trade Indicator,World Growth (%),-1.13475826045476
+Cambodia,2019,World,All Products,Trade Indicator,Country Growth (%),15.1344492360057
+Cambodia,2016,World,All Products,Tariff,Simple Average (%),12.4522133451978
+Cambodia,2016,World,All Products,Tariff,Weighted Average (%),9.76955639185119
+Cambodia,2016,World,All Products,Tariff,Maximum Rate (%),35
+Cambodia,2016,World,All Products,Tariff,Duty Free Tariff Lines Share (%),11.3989991289347
+Cambodia,2019,...,...,Trade Indicator,Index of export market penetration,6.05616268530769
+Cambodia,2019,...,...,Trade Indicator,HH Market concentration index,0.0733702839029804
+Cambodia,2019,...,...,Development,Trade Balance (% of GDP),-1.37393073
+Cambodia,2019,...,...,Development,Trade in services (% of GDP),34.55308503
+Cambodia,2019,...,...,Development,Trade (% of GDP),123.5565238
+Cambodia,2019,...,...,Development,"GNI per capita, Atlas method (current US$)",1530

@@ -1,0 +1,106 @@
+Reporter,Year,Partner,Product categories,Indicator Type,Indicator,Indicator Value
+Bolivia,2019,Brazil,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,1533.26140109
+Bolivia,2019,Argentina,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,1376.77975386
+Bolivia,2019,United Arab Emirates,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,851.72625581
+Bolivia,2019,India,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,742.0289722
+Bolivia,2019,Japan,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,720.92978649
+Bolivia,2019,China,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,2126.48071559
+Bolivia,2019,Brazil,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,1571.50192977
+Bolivia,2019,Argentina,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,1091.16516463
+Bolivia,2019,Peru,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,670.70984194
+Bolivia,2019,United States,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,617.82409277
+Bolivia,2019,World,Animal,Export,Export(US$ Mil),33.73393874
+Bolivia,2019,World,Vegetable,Export,Export(US$ Mil),669.62975127
+Bolivia,2019,World,Food Products,Export,Export(US$ Mil),616.476571
+Bolivia,2019,World,Minerals,Export,Export(US$ Mil),2104.72782069
+Bolivia,2019,World,Fuels,Export,Export(US$ Mil),2823.65490529
+Bolivia,2019,World,Chemicals,Export,Export(US$ Mil),119.09499149
+Bolivia,2019,World,Plastic or Rubber,Export,Export(US$ Mil),4.14165954
+Bolivia,2019,World,Hides and Skins,Export,Export(US$ Mil),16.82539016
+Bolivia,2019,World,Wood,Export,Export(US$ Mil),55.71991194
+Bolivia,2019,World,Textiles and Clothing,Export,Export(US$ Mil),19.46991983
+Bolivia,2019,World,Footwear,Export,Export(US$ Mil),9.8978282
+Bolivia,2019,World,Stone and Glass,Export,Export(US$ Mil),1983.01426249
+Bolivia,2019,World,Metals,Export,Export(US$ Mil),334.90291869
+Bolivia,2019,World,Mach and Elec,Export,Export(US$ Mil),74.49506006
+Bolivia,2019,World,Transportation,Export,Export(US$ Mil),38.81322144
+Bolivia,2019,World,Miscellaneous,Export,Export(US$ Mil),19.79963987
+Bolivia,2019,World,Raw materials,Export,Export(US$ Mil),2516.07696328
+Bolivia,2019,World,Intermediate goods,Export,Export(US$ Mil),3155.9444952
+Bolivia,2019,World,Consumer goods,Export,Export(US$ Mil),3129.15883306
+Bolivia,2019,World,Capital goods,Export,Export(US$ Mil),121.00985109
+Bolivia,2019,World,Raw materials,Import,Import(US$ Mil),143.41805175
+Bolivia,2019,World,Intermediate goods,Import,Import(US$ Mil),2309.1895722
+Bolivia,2019,World,Consumer goods,Import,Import(US$ Mil),4440.59201319
+Bolivia,2019,World,Capital goods,Import,Import(US$ Mil),2885.43542493
+Bolivia,2019,World,All Products,Export,Exports (in US$ Mil),8924.3977907
+Bolivia,2019,World,All Products,Import,Imports (in US$ Mil),9784.56318614
+Bolivia,2019,World,All Products,Tariff,Duty Free Imports (US$ Thousand),4388861.38086
+Bolivia,2019,...,...,Development,Trade Balance (current US$ Mil),-2642.97563
+Bolivia,2019,...,...,Development,GDP (current US$ Mil),40895.322844
+Bolivia,2019,...,...,Tariff,No. Of Tariff Agreement,46
+Bolivia,2019,...,...,Import,No. Of Import partners,186
+Bolivia,2019,...,...,Import,No. Of Import products,3906
+Bolivia,2019,...,...,Export,No. Of Export partners,120
+Bolivia,2019,...,...,Export,No. Of Export products,1353
+Bolivia,2019,...,...,Others,Population,11513100
+Bolivia,2019,...,...,Others,Ease of Doing Business Rank,150
+Bolivia,2019,...,...,Others,Trading Across Borders Rank,100
+Bolivia,2019,...,...,Others,CPIA Trade Ratings,
+Bolivia,2018,...,...,Others,LPI Rank,131
+Bolivia,2018,...,...,Others,LPI Score,2.36
+Bolivia,2014,...,...,Others,No Of NTM Affected Products (HS 6 Digit),1577
+Bolivia,2014,...,...,Others,No Of NTM Measures,31
+Bolivia,2009,...,...,Others,Overall Trade Restrictiveness Index -  Applied Tariff,0.1073379
+Bolivia,2009,...,...,Others,Overall Trade Restrictiveness Index - MFN Tariff,0.154539
+Bolivia,,...,...,Others,Services Trade Restrictions Index - Over All,13.8
+Bolivia,2019,Brazil,All Products,Export,Partner share(%)-Top 5 Export Partner,17.1806
+Bolivia,2019,Argentina,All Products,Export,Partner share(%)-Top 5 Export Partner,15.4271
+Bolivia,2019,United Arab Emirates,All Products,Export,Partner share(%)-Top 5 Export Partner,9.5438
+Bolivia,2019,India,All Products,Export,Partner share(%)-Top 5 Export Partner,8.3146
+Bolivia,2019,Japan,All Products,Export,Partner share(%)-Top 5 Export Partner,8.0782
+Bolivia,2019,China,All Products,Import,Partner share(%)-Top 5 Import Partner,21.733
+Bolivia,2019,Brazil,All Products,Import,Partner share(%)-Top 5 Import Partner,16.061
+Bolivia,2019,Argentina,All Products,Import,Partner share(%)-Top 5 Import Partner,11.1519
+Bolivia,2019,Peru,All Products,Import,Partner share(%)-Top 5 Import Partner,6.8548
+Bolivia,2019,United States,All Products,Import,Partner share(%)-Top 5 Import Partner,6.3143
+Bolivia,2019,World,Animal,Export,Export Product share(%),0.378
+Bolivia,2019,World,Vegetable,Export,Export Product share(%),7.5034
+Bolivia,2019,World,Food Products,Export,Export Product share(%),6.9078
+Bolivia,2019,World,Minerals,Export,Export Product share(%),23.584
+Bolivia,2019,World,Fuels,Export,Export Product share(%),31.6397
+Bolivia,2019,World,Chemicals,Export,Export Product share(%),1.3345
+Bolivia,2019,World,Plastic or Rubber,Export,Export Product share(%),0.0464
+Bolivia,2019,World,Hides and Skins,Export,Export Product share(%),0.1885
+Bolivia,2019,World,Wood,Export,Export Product share(%),0.6244
+Bolivia,2019,World,Textiles and Clothing,Export,Export Product share(%),0.2182
+Bolivia,2019,World,Footwear,Export,Export Product share(%),0.1109
+Bolivia,2019,World,Stone and Glass,Export,Export Product share(%),22.2201
+Bolivia,2019,World,Metals,Export,Export Product share(%),3.7527
+Bolivia,2019,World,Mach and Elec,Export,Export Product share(%),0.8347
+Bolivia,2019,World,Transportation,Export,Export Product share(%),0.4349
+Bolivia,2019,World,Miscellaneous,Export,Export Product share(%),0.2219
+Bolivia,2019,World,Raw materials,Export,Export Product share(%),28.1932
+Bolivia,2019,World,Intermediate goods,Export,Export Product share(%),35.3631
+Bolivia,2019,World,Consumer goods,Export,Export Product share(%),35.063
+Bolivia,2019,World,Capital goods,Export,Export Product share(%),1.3559
+Bolivia,2019,World,Raw materials,Import,Import Product share(%),1.4658
+Bolivia,2019,World,Intermediate goods,Import,Import Product share(%),23.6003
+Bolivia,2019,World,Consumer goods,Import,Import Product share(%),45.3837
+Bolivia,2019,World,Capital goods,Import,Import Product share(%),29.4897
+Bolivia,2019,World,Raw materials,Tariff,Weighted Average (%),2.20607840267583
+Bolivia,2019,World,Intermediate goods,Tariff,Weighted Average (%),3.5294289781956
+Bolivia,2019,World,Consumer goods,Tariff,Weighted Average (%),6.95699301764101
+Bolivia,2019,World,Capital goods,Tariff,Weighted Average (%),3.86689688592977
+Bolivia,2019,World,All Products,Trade Indicator,World Growth (%),-1.13475826045476
+Bolivia,2019,World,All Products,Trade Indicator,Country Growth (%),-1.0032107784977
+Bolivia,2019,World,All Products,Tariff,Simple Average (%),9.95134022183902
+Bolivia,2019,World,All Products,Tariff,Weighted Average (%),4.73176312251371
+Bolivia,2019,World,All Products,Tariff,Maximum Rate (%),40
+Bolivia,2019,World,All Products,Tariff,Duty Free Tariff Lines Share (%),27.9272364431823
+Bolivia,2019,...,...,Trade Indicator,Index of export market penetration,2.20658328037437
+Bolivia,2019,...,...,Trade Indicator,HH Market concentration index,0.0795906586996844
+Bolivia,2019,...,...,Development,Trade Balance (% of GDP),-6.46278216
+Bolivia,2019,...,...,Development,Trade in services (% of GDP),10.49635829
+Bolivia,2019,...,...,Development,Trade (% of GDP),56.39730673
+Bolivia,2019,...,...,Development,"GNI per capita, Atlas method (current US$)",3520

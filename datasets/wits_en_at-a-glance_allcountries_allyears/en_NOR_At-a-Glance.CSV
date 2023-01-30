@@ -1,0 +1,103 @@
+Reporter,Year,Partner,Product categories,Indicator Type,Indicator,Indicator Value
+Norway,2019,United Kingdom,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,20949.4936868838
+Norway,2019,Germany,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,15056.5888036983
+Norway,2019,Netherlands,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,11548.8833051372
+Norway,2019,Sweden,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,7988.39105746581
+Norway,2019,France,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,6179.48590111518
+Norway,2019,Sweden,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,10111.2158087117
+Norway,2019,Germany,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,9293.00225362542
+Norway,2019,China,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,8751.03270839225
+Norway,2019,United States,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,6815.78581279102
+Norway,2019,Denmark,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,4840.58752745959
+Norway,2019,World,Animal,Export,Export(US$ Mil),11755.0685956384
+Norway,2019,World,Vegetable,Export,Export(US$ Mil),269.32741392624
+Norway,2019,World,Food Products,Export,Export(US$ Mil),1013.69159237515
+Norway,2019,World,Minerals,Export,Export(US$ Mil),690.138992721857
+Norway,2019,World,Fuels,Export,Export(US$ Mil),58243.9030977886
+Norway,2019,World,Chemicals,Export,Export(US$ Mil),3739.65746707655
+Norway,2019,World,Plastic or Rubber,Export,Export(US$ Mil),553.938410486685
+Norway,2019,World,Hides and Skins,Export,Export(US$ Mil),96.806970203676
+Norway,2019,World,Wood,Export,Export(US$ Mil),1415.38075383766
+Norway,2019,World,Textiles and Clothing,Export,Export(US$ Mil),264.679767483447
+Norway,2019,World,Footwear,Export,Export(US$ Mil),29.6525425448493
+Norway,2019,World,Stone and Glass,Export,Export(US$ Mil),741.311931152782
+Norway,2019,World,Metals,Export,Export(US$ Mil),8086.57345575825
+Norway,2019,World,Mach and Elec,Export,Export(US$ Mil),7352.43191520816
+Norway,2019,World,Transportation,Export,Export(US$ Mil),2929.03505077715
+Norway,2019,World,Miscellaneous,Export,Export(US$ Mil),6848.28351103166
+Norway,2019,World,Raw materials,Export,Export(US$ Mil),41586.1797087673
+Norway,2019,World,Intermediate goods,Export,Export(US$ Mil),13638.890986262
+Norway,2019,World,Consumer goods,Export,Export(US$ Mil),33850.2903157034
+Norway,2019,World,Capital goods,Export,Export(US$ Mil),10568.9210945342
+Norway,2019,World,Raw materials,Import,Import(US$ Mil),5815.56534540583
+Norway,2019,World,Intermediate goods,Import,Import(US$ Mil),17620.5597815216
+Norway,2019,World,Consumer goods,Import,Import(US$ Mil),33461.5667889563
+Norway,2019,World,Capital goods,Import,Import(US$ Mil),28409.8924477076
+Norway,2019,World,All Products,Export,Exports (in US$ Mil),104029.881468011
+Norway,2019,World,All Products,Import,Imports (in US$ Mil),86144.982447514
+Norway,2019,World,All Products,Tariff,Duty Free Imports (US$ Thousand),70484574.3579001
+Norway,2019,...,...,Development,Trade Balance (current US$ Mil),7073
+Norway,2019,...,...,Development,GDP (current US$ Mil),403336
+Norway,2019,...,...,Tariff,No. Of Tariff Agreement,37
+Norway,2019,...,...,Import,No. Of Import partners,194
+Norway,2019,...,...,Import,No. Of Import products,4356
+Norway,2019,...,...,Export,No. Of Export partners,211
+Norway,2019,...,...,Export,No. Of Export products,3630
+Norway,2019,...,...,Others,Population,5347896
+Norway,2019,...,...,Others,Ease of Doing Business Rank,9
+Norway,2019,...,...,Others,Trading Across Borders Rank,22
+Norway,2019,...,...,Others,CPIA Trade Ratings,
+Norway,2018,...,...,Others,LPI Rank,21
+Norway,2018,...,...,Others,LPI Score,3.7
+Norway,2009,...,...,Others,Overall Trade Restrictiveness Index -  Applied Tariff,0.0889198
+Norway,2009,...,...,Others,Overall Trade Restrictiveness Index - MFN Tariff,0.0941554
+Norway,2019,United Kingdom,All Products,Export,Partner share(%)-Top 5 Export Partner,20.138
+Norway,2019,Germany,All Products,Export,Partner share(%)-Top 5 Export Partner,14.4733
+Norway,2019,Netherlands,All Products,Export,Partner share(%)-Top 5 Export Partner,11.1015
+Norway,2019,Sweden,All Products,Export,Partner share(%)-Top 5 Export Partner,7.6789
+Norway,2019,France,All Products,Export,Partner share(%)-Top 5 Export Partner,5.9401
+Norway,2019,Sweden,All Products,Import,Partner share(%)-Top 5 Import Partner,11.7374
+Norway,2019,Germany,All Products,Import,Partner share(%)-Top 5 Import Partner,10.7876
+Norway,2019,China,All Products,Import,Partner share(%)-Top 5 Import Partner,10.1585
+Norway,2019,United States,All Products,Import,Partner share(%)-Top 5 Import Partner,7.912
+Norway,2019,Denmark,All Products,Import,Partner share(%)-Top 5 Import Partner,5.6191
+Norway,2019,World,Animal,Export,Export Product share(%),11.2997
+Norway,2019,World,Vegetable,Export,Export Product share(%),0.2589
+Norway,2019,World,Food Products,Export,Export Product share(%),0.9744
+Norway,2019,World,Minerals,Export,Export Product share(%),0.6634
+Norway,2019,World,Fuels,Export,Export Product share(%),55.9877
+Norway,2019,World,Chemicals,Export,Export Product share(%),3.5948
+Norway,2019,World,Plastic or Rubber,Export,Export Product share(%),0.5325
+Norway,2019,World,Hides and Skins,Export,Export Product share(%),0.0931
+Norway,2019,World,Wood,Export,Export Product share(%),1.3606
+Norway,2019,World,Textiles and Clothing,Export,Export Product share(%),0.2544
+Norway,2019,World,Footwear,Export,Export Product share(%),0.0285
+Norway,2019,World,Stone and Glass,Export,Export Product share(%),0.7126
+Norway,2019,World,Metals,Export,Export Product share(%),7.7733
+Norway,2019,World,Mach and Elec,Export,Export Product share(%),7.0676
+Norway,2019,World,Transportation,Export,Export Product share(%),2.8156
+Norway,2019,World,Miscellaneous,Export,Export Product share(%),6.583
+Norway,2019,World,Raw materials,Export,Export Product share(%),39.9752
+Norway,2019,World,Intermediate goods,Export,Export Product share(%),13.1106
+Norway,2019,World,Consumer goods,Export,Export Product share(%),32.539
+Norway,2019,World,Capital goods,Export,Export Product share(%),10.1595
+Norway,2019,World,Raw materials,Import,Import Product share(%),6.7509
+Norway,2019,World,Intermediate goods,Import,Import Product share(%),20.4545
+Norway,2019,World,Consumer goods,Import,Import Product share(%),38.8433
+Norway,2019,World,Capital goods,Import,Import Product share(%),32.9792
+Norway,2019,World,Raw materials,Tariff,Weighted Average (%),10.4625404389844
+Norway,2019,World,Intermediate goods,Tariff,Weighted Average (%),1.39488839046966
+Norway,2019,World,Consumer goods,Tariff,Weighted Average (%),3.31401278679721
+Norway,2019,World,Capital goods,Tariff,Weighted Average (%),0
+Norway,2019,World,All Products,Trade Indicator,World Growth (%),-1.13475826045476
+Norway,2019,World,All Products,Trade Indicator,Country Growth (%),-4.1379374846648
+Norway,2019,World,All Products,Tariff,Simple Average (%),3.23682357908628
+Norway,2019,World,All Products,Tariff,Weighted Average (%),2.61663090916724
+Norway,2019,World,All Products,Tariff,Maximum Rate (%),3000
+Norway,2019,World,All Products,Tariff,Duty Free Tariff Lines Share (%),90.8934536072164
+Norway,2019,...,...,Trade Indicator,Index of export market penetration,8.6580339865401
+Norway,2019,...,...,Trade Indicator,HH Market concentration index,0.0850184986232208
+Norway,2019,...,...,Development,Trade Balance (% of GDP),1.7534147
+Norway,2019,...,...,Development,Trade in services (% of GDP),23.79017812
+Norway,2019,...,...,Development,Trade (% of GDP),72.14649965
+Norway,2019,...,...,Development,"GNI per capita, Atlas method (current US$)",82500

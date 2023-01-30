@@ -1,0 +1,101 @@
+Reporter,Year,Partner,Product categories,Indicator Type,Indicator,Indicator Value
+Azerbaijan,2019,Italy,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,5638.64182009
+Azerbaijan,2019,Turkey,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,2862.68802957
+Azerbaijan,2019,Israel,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,1331.61618765
+Azerbaijan,2019,India,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,955.86562203
+Azerbaijan,2019,Germany,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,931.61750485
+Azerbaijan,2019,Russian Federation,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,2287.17655152
+Azerbaijan,2019,Turkey,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,1646.67795242
+Azerbaijan,2019,China,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,1432.151452
+Azerbaijan,2019,Switzerland,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,1206.78560675
+Azerbaijan,2019,United States,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,768.55830805
+Azerbaijan,2019,World,Animal,Export,Export(US$ Mil),23.23130954
+Azerbaijan,2019,World,Vegetable,Export,Export(US$ Mil),644.4785648
+Azerbaijan,2019,World,Food Products,Export,Export(US$ Mil),104.62381436
+Azerbaijan,2019,World,Minerals,Export,Export(US$ Mil),52.49646983
+Azerbaijan,2019,World,Fuels,Export,Export(US$ Mil),17800.17063937
+Azerbaijan,2019,World,Chemicals,Export,Export(US$ Mil),102.74513531
+Azerbaijan,2019,World,Plastic or Rubber,Export,Export(US$ Mil),180.04855207
+Azerbaijan,2019,World,Hides and Skins,Export,Export(US$ Mil),11.85758818
+Azerbaijan,2019,World,Wood,Export,Export(US$ Mil),7.76783823
+Azerbaijan,2019,World,Textiles and Clothing,Export,Export(US$ Mil),185.4350529
+Azerbaijan,2019,World,Footwear,Export,Export(US$ Mil),0.84858931
+Azerbaijan,2019,World,Stone and Glass,Export,Export(US$ Mil),177.60450313
+Azerbaijan,2019,World,Metals,Export,Export(US$ Mil),231.96870952
+Azerbaijan,2019,World,Mach and Elec,Export,Export(US$ Mil),77.71688418
+Azerbaijan,2019,World,Transportation,Export,Export(US$ Mil),10.94660394
+Azerbaijan,2019,World,Miscellaneous,Export,Export(US$ Mil),23.26234606
+Azerbaijan,2019,World,Raw materials,Export,Export(US$ Mil),15607.84094675
+Azerbaijan,2019,World,Intermediate goods,Export,Export(US$ Mil),895.50781092
+Azerbaijan,2019,World,Consumer goods,Export,Export(US$ Mil),3034.70905197
+Azerbaijan,2019,World,Capital goods,Export,Export(US$ Mil),95.0735246100001
+Azerbaijan,2019,World,Raw materials,Import,Import(US$ Mil),1034.67289112
+Azerbaijan,2019,World,Intermediate goods,Import,Import(US$ Mil),4682.26047076
+Azerbaijan,2019,World,Consumer goods,Import,Import(US$ Mil),4550.30822857
+Azerbaijan,2019,World,Capital goods,Import,Import(US$ Mil),3322.11529318
+Azerbaijan,2019,World,All Products,Export,Exports (in US$ Mil),19635.20260073
+Azerbaijan,2019,World,All Products,Import,Imports (in US$ Mil),13649.50647613
+Azerbaijan,2019,World,All Products,Tariff,Duty Free Imports (US$ Thousand),4819978.97687
+Azerbaijan,2019,...,...,Development,Trade Balance (current US$ Mil),5917.235294
+Azerbaijan,2019,...,...,Development,GDP (current US$ Mil),48047.647059
+Azerbaijan,2019,...,...,Tariff,No. Of Tariff Agreement,4
+Azerbaijan,2019,...,...,Import,No. Of Import partners,178
+Azerbaijan,2019,...,...,Import,No. Of Import products,3982
+Azerbaijan,2019,...,...,Export,No. Of Export partners,119
+Azerbaijan,2019,...,...,Export,No. Of Export products,1686
+Azerbaijan,2019,...,...,Others,Population,10024283
+Azerbaijan,2019,...,...,Others,Ease of Doing Business Rank,34
+Azerbaijan,2019,...,...,Others,Trading Across Borders Rank,83
+Azerbaijan,2019,...,...,Others,CPIA Trade Ratings,
+Azerbaijan,2009,...,...,Others,Overall Trade Restrictiveness Index -  Applied Tariff,0.0344225
+Azerbaijan,2009,...,...,Others,Overall Trade Restrictiveness Index - MFN Tariff,0.0482686
+Azerbaijan,2019,Italy,All Products,Export,Partner share(%)-Top 5 Export Partner,28.717
+Azerbaijan,2019,Turkey,All Products,Export,Partner share(%)-Top 5 Export Partner,14.5794
+Azerbaijan,2019,Israel,All Products,Export,Partner share(%)-Top 5 Export Partner,6.7818
+Azerbaijan,2019,India,All Products,Export,Partner share(%)-Top 5 Export Partner,4.8681
+Azerbaijan,2019,Germany,All Products,Export,Partner share(%)-Top 5 Export Partner,4.7446
+Azerbaijan,2019,Russian Federation,All Products,Import,Partner share(%)-Top 5 Import Partner,16.7565
+Azerbaijan,2019,Turkey,All Products,Import,Partner share(%)-Top 5 Import Partner,12.064
+Azerbaijan,2019,China,All Products,Import,Partner share(%)-Top 5 Import Partner,10.4923
+Azerbaijan,2019,Switzerland,All Products,Import,Partner share(%)-Top 5 Import Partner,8.8412
+Azerbaijan,2019,United States,All Products,Import,Partner share(%)-Top 5 Import Partner,5.6307
+Azerbaijan,2019,World,Animal,Export,Export Product share(%),0.1183
+Azerbaijan,2019,World,Vegetable,Export,Export Product share(%),3.2823
+Azerbaijan,2019,World,Food Products,Export,Export Product share(%),0.5328
+Azerbaijan,2019,World,Minerals,Export,Export Product share(%),0.2674
+Azerbaijan,2019,World,Fuels,Export,Export Product share(%),90.6544
+Azerbaijan,2019,World,Chemicals,Export,Export Product share(%),0.5233
+Azerbaijan,2019,World,Plastic or Rubber,Export,Export Product share(%),0.917
+Azerbaijan,2019,World,Hides and Skins,Export,Export Product share(%),0.0604
+Azerbaijan,2019,World,Wood,Export,Export Product share(%),0.0396
+Azerbaijan,2019,World,Textiles and Clothing,Export,Export Product share(%),0.9444
+Azerbaijan,2019,World,Footwear,Export,Export Product share(%),0.0043
+Azerbaijan,2019,World,Stone and Glass,Export,Export Product share(%),0.9045
+Azerbaijan,2019,World,Metals,Export,Export Product share(%),1.1814
+Azerbaijan,2019,World,Mach and Elec,Export,Export Product share(%),0.3958
+Azerbaijan,2019,World,Transportation,Export,Export Product share(%),0.0557
+Azerbaijan,2019,World,Miscellaneous,Export,Export Product share(%),0.1185
+Azerbaijan,2019,World,Raw materials,Export,Export Product share(%),79.4891
+Azerbaijan,2019,World,Intermediate goods,Export,Export Product share(%),4.5607
+Azerbaijan,2019,World,Consumer goods,Export,Export Product share(%),15.4555
+Azerbaijan,2019,World,Capital goods,Export,Export Product share(%),0.4842
+Azerbaijan,2019,World,Raw materials,Import,Import Product share(%),7.5803
+Azerbaijan,2019,World,Intermediate goods,Import,Import Product share(%),34.3035
+Azerbaijan,2019,World,Consumer goods,Import,Import Product share(%),33.3368
+Azerbaijan,2019,World,Capital goods,Import,Import Product share(%),24.3387
+Azerbaijan,2019,World,Raw materials,Tariff,Weighted Average (%),3.81757189419151
+Azerbaijan,2019,World,Intermediate goods,Tariff,Weighted Average (%),9.41349051712847
+Azerbaijan,2019,World,Consumer goods,Tariff,Weighted Average (%),23.3476340149848
+Azerbaijan,2019,World,Capital goods,Tariff,Weighted Average (%),4.45734260750352
+Azerbaijan,2019,World,All Products,Trade Indicator,World Growth (%),-1.13475826045476
+Azerbaijan,2019,World,All Products,Trade Indicator,Country Growth (%),-9.54041921725762
+Azerbaijan,2019,World,All Products,Tariff,Simple Average (%),15.3223385598932
+Azerbaijan,2019,World,All Products,Tariff,Weighted Average (%),11.9837629386043
+Azerbaijan,2019,World,All Products,Tariff,Maximum Rate (%),3000
+Azerbaijan,2019,World,All Products,Tariff,Duty Free Tariff Lines Share (%),28.4530727240711
+Azerbaijan,2019,...,...,Trade Indicator,Index of export market penetration,1.77751983208136
+Azerbaijan,2019,...,...,Trade Indicator,HH Market concentration index,0.131431806403266
+Azerbaijan,2019,...,...,Development,Trade Balance (% of GDP),12.31534873
+Azerbaijan,2019,...,...,Development,Trade in services (% of GDP),21.10118597
+Azerbaijan,2019,...,...,Development,Trade (% of GDP),86.04387801
+Azerbaijan,2019,...,...,Development,"GNI per capita, Atlas method (current US$)",4480

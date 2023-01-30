@@ -1,0 +1,103 @@
+Reporter,Year,Partner,Product categories,Indicator Type,Indicator,Indicator Value
+Myanmar,2019,China,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,5753.61547636698
+Myanmar,2019,Thailand,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,3256.79329250322
+Myanmar,2019,Japan,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,1435.52566291
+Myanmar,2019,United States,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,835.15707352
+Myanmar,2019,Germany,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,641.72414201
+Myanmar,2019,China,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,6447.0687202514
+Myanmar,2019,Singapore,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,3391.6957468209
+Myanmar,2019,Thailand,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,2195.89394019358
+Myanmar,2019,Malaysia,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,944.69330046463
+Myanmar,2019,Indonesia,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,906.443216859879
+Myanmar,2019,World,Animal,Export,Export(US$ Mil),940.22100471023
+Myanmar,2019,World,Vegetable,Export,Export(US$ Mil),3137.53277012909
+Myanmar,2019,World,Food Products,Export,Export(US$ Mil),283.49086470091
+Myanmar,2019,World,Minerals,Export,Export(US$ Mil),73.45805035001
+Myanmar,2019,World,Fuels,Export,Export(US$ Mil),4469.9028321578
+Myanmar,2019,World,Chemicals,Export,Export(US$ Mil),20.97697925931
+Myanmar,2019,World,Plastic or Rubber,Export,Export(US$ Mil),327.6427379912
+Myanmar,2019,World,Hides and Skins,Export,Export(US$ Mil),377.38028354
+Myanmar,2019,World,Wood,Export,Export(US$ Mil),190.76222549232
+Myanmar,2019,World,Textiles and Clothing,Export,Export(US$ Mil),5095.42751382807
+Myanmar,2019,World,Footwear,Export,Export(US$ Mil),517.42385338785
+Myanmar,2019,World,Stone and Glass,Export,Export(US$ Mil),830.21605194532
+Myanmar,2019,World,Metals,Export,Export(US$ Mil),1124.46057958805
+Myanmar,2019,World,Mach and Elec,Export,Export(US$ Mil),354.36394108374
+Myanmar,2019,World,Transportation,Export,Export(US$ Mil),199.64385627
+Myanmar,2019,World,Miscellaneous,Export,Export(US$ Mil),162.98230657266
+Myanmar,2019,World,Raw materials,Export,Export(US$ Mil),3249.38958868355
+Myanmar,2019,World,Intermediate goods,Export,Export(US$ Mil),3233.77065508446
+Myanmar,2019,World,Consumer goods,Export,Export(US$ Mil),11079.8857409085
+Myanmar,2019,World,Capital goods,Export,Export(US$ Mil),540.53509126005
+Myanmar,2019,World,Raw materials,Import,Import(US$ Mil),595.57506426451
+Myanmar,2019,World,Intermediate goods,Import,Import(US$ Mil),6137.39545310828
+Myanmar,2019,World,Consumer goods,Import,Import(US$ Mil),7626.37585337196
+Myanmar,2019,World,Capital goods,Import,Import(US$ Mil),4250.89585925062
+Myanmar,2019,World,All Products,Export,Exports (in US$ Mil),18105.8858510066
+Myanmar,2019,World,All Products,Import,Imports (in US$ Mil),18610.8924953754
+Myanmar,2019,World,All Products,Tariff,Duty Free Imports (US$ Thousand),7158335.46047095
+Myanmar,2019,...,...,Development,Trade Balance (current US$ Mil),
+Myanmar,2019,...,...,Development,GDP (current US$ Mil),76085.852617
+Myanmar,2019,...,...,Tariff,No. Of Tariff Agreement,8
+Myanmar,2019,...,...,Import,No. Of Import partners,160
+Myanmar,2019,...,...,Import,No. Of Import products,3818
+Myanmar,2019,...,...,Export,No. Of Export partners,149
+Myanmar,2019,...,...,Export,No. Of Export products,1617
+Myanmar,2019,...,...,Others,Population,54045420
+Myanmar,2019,...,...,Others,Ease of Doing Business Rank,165
+Myanmar,2019,...,...,Others,Trading Across Borders Rank,168
+Myanmar,2019,...,...,Others,CPIA Trade Ratings,3.5
+Myanmar,2018,...,...,Others,LPI Rank,137
+Myanmar,2018,...,...,Others,LPI Score,2.3
+Myanmar,2015,...,...,Others,No Of NTM Affected Products (HS 6 Digit),2502
+Myanmar,2015,...,...,Others,No Of NTM Measures,48
+Myanmar,2019,China,All Products,Export,Partner share(%)-Top 5 Export Partner,31.7776
+Myanmar,2019,Thailand,All Products,Export,Partner share(%)-Top 5 Export Partner,17.9875
+Myanmar,2019,Japan,All Products,Export,Partner share(%)-Top 5 Export Partner,7.9285
+Myanmar,2019,United States,All Products,Export,Partner share(%)-Top 5 Export Partner,4.6126
+Myanmar,2019,Germany,All Products,Export,Partner share(%)-Top 5 Export Partner,3.5443
+Myanmar,2019,China,All Products,Import,Partner share(%)-Top 5 Import Partner,34.6414
+Myanmar,2019,Singapore,All Products,Import,Partner share(%)-Top 5 Import Partner,18.2243
+Myanmar,2019,Thailand,All Products,Import,Partner share(%)-Top 5 Import Partner,11.799
+Myanmar,2019,Malaysia,All Products,Import,Partner share(%)-Top 5 Import Partner,5.076
+Myanmar,2019,Indonesia,All Products,Import,Partner share(%)-Top 5 Import Partner,4.8705
+Myanmar,2019,World,Animal,Export,Export Product share(%),5.1929
+Myanmar,2019,World,Vegetable,Export,Export Product share(%),17.3288
+Myanmar,2019,World,Food Products,Export,Export Product share(%),1.5657
+Myanmar,2019,World,Minerals,Export,Export Product share(%),0.4057
+Myanmar,2019,World,Fuels,Export,Export Product share(%),24.6876
+Myanmar,2019,World,Chemicals,Export,Export Product share(%),0.1159
+Myanmar,2019,World,Plastic or Rubber,Export,Export Product share(%),1.8096
+Myanmar,2019,World,Hides and Skins,Export,Export Product share(%),2.0843
+Myanmar,2019,World,Wood,Export,Export Product share(%),1.0536
+Myanmar,2019,World,Textiles and Clothing,Export,Export Product share(%),28.1424
+Myanmar,2019,World,Footwear,Export,Export Product share(%),2.8578
+Myanmar,2019,World,Stone and Glass,Export,Export Product share(%),4.5853
+Myanmar,2019,World,Metals,Export,Export Product share(%),6.2105
+Myanmar,2019,World,Mach and Elec,Export,Export Product share(%),1.9572
+Myanmar,2019,World,Transportation,Export,Export Product share(%),1.1026
+Myanmar,2019,World,Miscellaneous,Export,Export Product share(%),0.9002
+Myanmar,2019,World,Raw materials,Export,Export Product share(%),17.9466
+Myanmar,2019,World,Intermediate goods,Export,Export Product share(%),17.8603
+Myanmar,2019,World,Consumer goods,Export,Export Product share(%),61.1949
+Myanmar,2019,World,Capital goods,Export,Export Product share(%),2.9854
+Myanmar,2019,World,Raw materials,Import,Import Product share(%),3.2001
+Myanmar,2019,World,Intermediate goods,Import,Import Product share(%),32.9774
+Myanmar,2019,World,Consumer goods,Import,Import Product share(%),40.978
+Myanmar,2019,World,Capital goods,Import,Import Product share(%),22.8409
+Myanmar,2019,World,Raw materials,Tariff,Weighted Average (%),1.42518819325724
+Myanmar,2019,World,Intermediate goods,Tariff,Weighted Average (%),1.33035111122096
+Myanmar,2019,World,Consumer goods,Tariff,Weighted Average (%),2.79511515463109
+Myanmar,2019,World,Capital goods,Tariff,Weighted Average (%),1.25535350340963
+Myanmar,2019,World,All Products,Trade Indicator,World Growth (%),-1.13475826045476
+Myanmar,2019,World,All Products,Trade Indicator,Country Growth (%),10.9744033495364
+Myanmar,2019,World,All Products,Tariff,Simple Average (%),3.68194732343732
+Myanmar,2019,World,All Products,Tariff,Weighted Average (%),1.8086835967927
+Myanmar,2019,World,All Products,Tariff,Maximum Rate (%),40
+Myanmar,2019,World,All Products,Tariff,Duty Free Tariff Lines Share (%),32.0211586901763
+Myanmar,2019,...,...,Trade Indicator,Index of export market penetration,4.90007226928233
+Myanmar,2019,...,...,Trade Indicator,HH Market concentration index,0.141025555531936
+Myanmar,2019,...,...,Development,Trade Balance (% of GDP),
+Myanmar,2019,...,...,Development,Trade in services (% of GDP),13.59977309
+Myanmar,2019,...,...,Development,Trade (% of GDP),
+Myanmar,2019,...,...,Development,"GNI per capita, Atlas method (current US$)",1390

@@ -1,0 +1,102 @@
+Reporter,Year,Partner,Product categories,Indicator Type,Indicator,Indicator Value
+Austria,2019,Germany,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,50107.8110722597
+Austria,2019,United States,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,11366.1691091373
+Austria,2019,Italy,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,10808.2794460534
+Austria,2019,Switzerland,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,8603.52689941817
+Austria,2019,France,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,7501.37162894943
+Austria,2019,Germany,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,61220.1388898827
+Austria,2019,Italy,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,11593.276924645
+Austria,2019,China,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,10998.3014633252
+Austria,2019,United States,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,7896.71437583499
+Austria,2019,Czech Republic,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,7407.31441678319
+Austria,2019,World,Animal,Export,Export(US$ Mil),3031.85354894392
+Austria,2019,World,Vegetable,Export,Export(US$ Mil),2208.81980828727
+Austria,2019,World,Food Products,Export,Export(US$ Mil),8507.14318259346
+Austria,2019,World,Minerals,Export,Export(US$ Mil),446.77676771641
+Austria,2019,World,Fuels,Export,Export(US$ Mil),3826.04286315373
+Austria,2019,World,Chemicals,Export,Export(US$ Mil),17762.629891316
+Austria,2019,World,Plastic or Rubber,Export,Export(US$ Mil),8249.00609148981
+Austria,2019,World,Hides and Skins,Export,Export(US$ Mil),684.279824014593
+Austria,2019,World,Wood,Export,Export(US$ Mil),10646.8817690516
+Austria,2019,World,Textiles and Clothing,Export,Export(US$ Mil),6055.96615844745
+Austria,2019,World,Footwear,Export,Export(US$ Mil),1288.24074515219
+Austria,2019,World,Stone and Glass,Export,Export(US$ Mil),4024.07765750778
+Austria,2019,World,Metals,Export,Export(US$ Mil),22995.8889510443
+Austria,2019,World,Mach and Elec,Export,Export(US$ Mil),45243.3745635187
+Austria,2019,World,Transportation,Export,Export(US$ Mil),22849.0473431287
+Austria,2019,World,Miscellaneous,Export,Export(US$ Mil),13712.0257969478
+Austria,2019,World,Raw materials,Export,Export(US$ Mil),5348.89133449195
+Austria,2019,World,Intermediate goods,Export,Export(US$ Mil),41335.8332617608
+Austria,2019,World,Consumer goods,Export,Export(US$ Mil),57075.6947999158
+Austria,2019,World,Capital goods,Export,Export(US$ Mil),59207.8494232426
+Austria,2019,World,Raw materials,Import,Import(US$ Mil),13844.4902270104
+Austria,2019,World,Intermediate goods,Import,Import(US$ Mil),38129.9884322873
+Austria,2019,World,Consumer goods,Import,Import(US$ Mil),69659.8055939902
+Austria,2019,World,Capital goods,Import,Import(US$ Mil),52840.3637259399
+Austria,2019,World,All Products,Export,Exports (in US$ Mil),171532.054962314
+Austria,2019,World,All Products,Import,Imports (in US$ Mil),176596.131348864
+Austria,2019,World,All Products,Tariff,Duty Free Imports (US$ Thousand),33079928.6308598
+Austria,2019,...,...,Development,Trade Balance (current US$ Mil),15005
+Austria,2019,...,...,Development,GDP (current US$ Mil),445075
+Austria,2019,...,...,Tariff,No. Of Tariff Agreement,
+Austria,2019,...,...,Import,No. Of Import partners,217
+Austria,2019,...,...,Import,No. Of Import products,4443
+Austria,2019,...,...,Export,No. Of Export partners,218
+Austria,2019,...,...,Export,No. Of Export products,4262
+Austria,2019,...,...,Others,Population,8879920
+Austria,2019,...,...,Others,Ease of Doing Business Rank,27
+Austria,2019,...,...,Others,Trading Across Borders Rank,1
+Austria,2019,...,...,Others,CPIA Trade Ratings,
+Austria,2018,...,...,Others,LPI Rank,4
+Austria,2018,...,...,Others,LPI Score,4.03
+Austria,,...,...,Others,Services Trade Restrictions Index - Over All,17.8
+Austria,2019,Germany,All Products,Export,Partner share(%)-Top 5 Export Partner,29.2119
+Austria,2019,United States,All Products,Export,Partner share(%)-Top 5 Export Partner,6.6263
+Austria,2019,Italy,All Products,Export,Partner share(%)-Top 5 Export Partner,6.301
+Austria,2019,Switzerland,All Products,Export,Partner share(%)-Top 5 Export Partner,5.0157
+Austria,2019,France,All Products,Export,Partner share(%)-Top 5 Export Partner,4.3732
+Austria,2019,Germany,All Products,Import,Partner share(%)-Top 5 Import Partner,34.6667
+Austria,2019,Italy,All Products,Import,Partner share(%)-Top 5 Import Partner,6.5649
+Austria,2019,China,All Products,Import,Partner share(%)-Top 5 Import Partner,6.2279
+Austria,2019,United States,All Products,Import,Partner share(%)-Top 5 Import Partner,4.4716
+Austria,2019,Czech Republic,All Products,Import,Partner share(%)-Top 5 Import Partner,4.1945
+Austria,2019,World,Animal,Export,Export Product share(%),1.7675
+Austria,2019,World,Vegetable,Export,Export Product share(%),1.2877
+Austria,2019,World,Food Products,Export,Export Product share(%),4.9595
+Austria,2019,World,Minerals,Export,Export Product share(%),0.2605
+Austria,2019,World,Fuels,Export,Export Product share(%),2.2305
+Austria,2019,World,Chemicals,Export,Export Product share(%),10.3553
+Austria,2019,World,Plastic or Rubber,Export,Export Product share(%),4.809
+Austria,2019,World,Hides and Skins,Export,Export Product share(%),0.3989
+Austria,2019,World,Wood,Export,Export Product share(%),6.2069
+Austria,2019,World,Textiles and Clothing,Export,Export Product share(%),3.5305
+Austria,2019,World,Footwear,Export,Export Product share(%),0.751
+Austria,2019,World,Stone and Glass,Export,Export Product share(%),2.346
+Austria,2019,World,Metals,Export,Export Product share(%),13.4062
+Austria,2019,World,Mach and Elec,Export,Export Product share(%),26.376
+Austria,2019,World,Transportation,Export,Export Product share(%),13.3206
+Austria,2019,World,Miscellaneous,Export,Export Product share(%),7.9939
+Austria,2019,World,Raw materials,Export,Export Product share(%),3.1183
+Austria,2019,World,Intermediate goods,Export,Export Product share(%),24.098
+Austria,2019,World,Consumer goods,Export,Export Product share(%),33.2741
+Austria,2019,World,Capital goods,Export,Export Product share(%),34.5171
+Austria,2019,World,Raw materials,Import,Import Product share(%),7.8396
+Austria,2019,World,Intermediate goods,Import,Import Product share(%),21.5916
+Austria,2019,World,Consumer goods,Import,Import Product share(%),39.4458
+Austria,2019,World,Capital goods,Import,Import Product share(%),29.9216
+Austria,2019,World,Raw materials,Tariff,Weighted Average (%),1.04464293370012
+Austria,2019,World,Intermediate goods,Tariff,Weighted Average (%),1.29878630231368
+Austria,2019,World,Consumer goods,Tariff,Weighted Average (%),3.43674780033241
+Austria,2019,World,Capital goods,Tariff,Weighted Average (%),0.776669651242228
+Austria,2019,World,All Products,Trade Indicator,World Growth (%),-1.13475826045476
+Austria,2019,World,All Products,Trade Indicator,Country Growth (%),-1.46399216638551
+Austria,2019,World,All Products,Tariff,Simple Average (%),2.67207102125663
+Austria,2019,World,All Products,Tariff,Weighted Average (%),1.99614163560729
+Austria,2019,World,All Products,Tariff,Maximum Rate (%),3000
+Austria,2019,World,All Products,Tariff,Duty Free Tariff Lines Share (%),57.0137461609997
+Austria,2019,...,...,Trade Indicator,Index of export market penetration,18.1721470908463
+Austria,2019,...,...,Trade Indicator,HH Market concentration index,0.0933359797238659
+Austria,2019,...,...,Development,Trade Balance (% of GDP),3.3714244
+Austria,2019,...,...,Development,Trade in services (% of GDP),31.83031898
+Austria,2019,...,...,Development,Trade (% of GDP),107.779782
+Austria,2019,...,...,Development,"GNI per capita, Atlas method (current US$)",51440

@@ -1,0 +1,106 @@
+Reporter,Year,Partner,Product categories,Indicator Type,Indicator,Indicator Value
+Paraguay,2019,Brazil,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,2527.204679
+Paraguay,2019,Argentina,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,1742.462422
+Paraguay,2019,Chile,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,619.337698
+Paraguay,2019,Russian Federation,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,605.341481
+Paraguay,2019,India,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,170.675822
+Paraguay,2019,Brazil,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,2635.2006
+Paraguay,2019,United States,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,2346.905678
+Paraguay,2019,Argentina,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,2266.530526
+Paraguay,2019,China,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,1923.749483
+Paraguay,2019,Chile,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,416.971079
+Paraguay,2019,World,Animal,Export,Export(US$ Mil),1171.500718
+Paraguay,2019,World,Vegetable,Export,Export(US$ Mil),2881.821022
+Paraguay,2019,World,Food Products,Export,Export(US$ Mil),921.224568
+Paraguay,2019,World,Minerals,Export,Export(US$ Mil),0.577779
+Paraguay,2019,World,Fuels,Export,Export(US$ Mil),1568.866593
+Paraguay,2019,World,Chemicals,Export,Export(US$ Mil),132.829301
+Paraguay,2019,World,Plastic or Rubber,Export,Export(US$ Mil),108.904155
+Paraguay,2019,World,Hides and Skins,Export,Export(US$ Mil),78.843453
+Paraguay,2019,World,Wood,Export,Export(US$ Mil),101.328454
+Paraguay,2019,World,Textiles and Clothing,Export,Export(US$ Mil),208.563321
+Paraguay,2019,World,Footwear,Export,Export(US$ Mil),15.354033
+Paraguay,2019,World,Stone and Glass,Export,Export(US$ Mil),19.792447
+Paraguay,2019,World,Metals,Export,Export(US$ Mil),89.131002
+Paraguay,2019,World,Mach and Elec,Export,Export(US$ Mil),301.502124
+Paraguay,2019,World,Transportation,Export,Export(US$ Mil),12.96909
+Paraguay,2019,World,Miscellaneous,Export,Export(US$ Mil),38.827414
+Paraguay,2019,World,Raw materials,Export,Export(US$ Mil),3522.077031
+Paraguay,2019,World,Intermediate goods,Export,Export(US$ Mil),3167.388325
+Paraguay,2019,World,Consumer goods,Export,Export(US$ Mil),901.743873000001
+Paraguay,2019,World,Capital goods,Export,Export(US$ Mil),60.82603
+Paraguay,2019,World,Raw materials,Import,Import(US$ Mil),324.182556
+Paraguay,2019,World,Intermediate goods,Import,Import(US$ Mil),2540.45947
+Paraguay,2019,World,Consumer goods,Import,Import(US$ Mil),5189.579872
+Paraguay,2019,World,Capital goods,Import,Import(US$ Mil),4132.1815
+Paraguay,2019,World,All Products,Export,Exports (in US$ Mil),7652.035474
+Paraguay,2019,World,All Products,Import,Imports (in US$ Mil),12187.394825
+Paraguay,2019,World,All Products,Tariff,Duty Free Imports (US$ Thousand),4689411.479
+Paraguay,2019,...,...,Development,Trade Balance (current US$ Mil),72.191252
+Paraguay,2019,...,...,Development,GDP (current US$ Mil),38145.28894
+Paraguay,2019,...,...,Tariff,No. Of Tariff Agreement,48
+Paraguay,2019,...,...,Import,No. Of Import partners,124
+Paraguay,2019,...,...,Import,No. Of Import products,3685
+Paraguay,2019,...,...,Export,No. Of Export partners,132
+Paraguay,2019,...,...,Export,No. Of Export products,1445
+Paraguay,2019,...,...,Others,Population,7044636
+Paraguay,2019,...,...,Others,Ease of Doing Business Rank,125
+Paraguay,2019,...,...,Others,Trading Across Borders Rank,128
+Paraguay,2019,...,...,Others,CPIA Trade Ratings,
+Paraguay,2018,...,...,Others,LPI Rank,74
+Paraguay,2018,...,...,Others,LPI Score,2.78
+Paraguay,2014,...,...,Others,No Of NTM Affected Products (HS 6 Digit),1727
+Paraguay,2014,...,...,Others,No Of NTM Measures,35
+Paraguay,2009,...,...,Others,Overall Trade Restrictiveness Index -  Applied Tariff,0.0944392
+Paraguay,2009,...,...,Others,Overall Trade Restrictiveness Index - MFN Tariff,0.1261258
+Paraguay,,...,...,Others,Services Trade Restrictions Index - Over All,15.9
+Paraguay,2019,Brazil,All Products,Export,Partner share(%)-Top 5 Export Partner,33.0266
+Paraguay,2019,Argentina,All Products,Export,Partner share(%)-Top 5 Export Partner,22.7712
+Paraguay,2019,Chile,All Products,Export,Partner share(%)-Top 5 Export Partner,8.0938
+Paraguay,2019,Russian Federation,All Products,Export,Partner share(%)-Top 5 Export Partner,7.9109
+Paraguay,2019,India,All Products,Export,Partner share(%)-Top 5 Export Partner,2.2305
+Paraguay,2019,Brazil,All Products,Import,Partner share(%)-Top 5 Import Partner,21.6223
+Paraguay,2019,United States,All Products,Import,Partner share(%)-Top 5 Import Partner,19.2568
+Paraguay,2019,Argentina,All Products,Import,Partner share(%)-Top 5 Import Partner,18.5973
+Paraguay,2019,China,All Products,Import,Partner share(%)-Top 5 Import Partner,15.7847
+Paraguay,2019,Chile,All Products,Import,Partner share(%)-Top 5 Import Partner,3.4213
+Paraguay,2019,World,Animal,Export,Export Product share(%),15.3097
+Paraguay,2019,World,Vegetable,Export,Export Product share(%),37.6608
+Paraguay,2019,World,Food Products,Export,Export Product share(%),12.0389
+Paraguay,2019,World,Minerals,Export,Export Product share(%),0.0076
+Paraguay,2019,World,Fuels,Export,Export Product share(%),20.5026
+Paraguay,2019,World,Chemicals,Export,Export Product share(%),1.7359
+Paraguay,2019,World,Plastic or Rubber,Export,Export Product share(%),1.4232
+Paraguay,2019,World,Hides and Skins,Export,Export Product share(%),1.0304
+Paraguay,2019,World,Wood,Export,Export Product share(%),1.3242
+Paraguay,2019,World,Textiles and Clothing,Export,Export Product share(%),2.7256
+Paraguay,2019,World,Footwear,Export,Export Product share(%),0.2007
+Paraguay,2019,World,Stone and Glass,Export,Export Product share(%),0.2587
+Paraguay,2019,World,Metals,Export,Export Product share(%),1.1648
+Paraguay,2019,World,Mach and Elec,Export,Export Product share(%),3.9402
+Paraguay,2019,World,Transportation,Export,Export Product share(%),0.1695
+Paraguay,2019,World,Miscellaneous,Export,Export Product share(%),0.5074
+Paraguay,2019,World,Raw materials,Export,Export Product share(%),46.028
+Paraguay,2019,World,Intermediate goods,Export,Export Product share(%),41.3928
+Paraguay,2019,World,Consumer goods,Export,Export Product share(%),11.7844
+Paraguay,2019,World,Capital goods,Export,Export Product share(%),0.7949
+Paraguay,2019,World,Raw materials,Import,Import Product share(%),2.66
+Paraguay,2019,World,Intermediate goods,Import,Import Product share(%),20.845
+Paraguay,2019,World,Consumer goods,Import,Import Product share(%),42.5815
+Paraguay,2019,World,Capital goods,Import,Import Product share(%),33.9054
+Paraguay,2019,World,Raw materials,Tariff,Weighted Average (%),0.970936570644929
+Paraguay,2019,World,Intermediate goods,Tariff,Weighted Average (%),3.76171694816411
+Paraguay,2019,World,Consumer goods,Tariff,Weighted Average (%),7.11271856005134
+Paraguay,2019,World,Capital goods,Tariff,Weighted Average (%),3.90218052861705
+Paraguay,2019,World,All Products,Trade Indicator,World Growth (%),-1.13475826045476
+Paraguay,2019,World,All Products,Trade Indicator,Country Growth (%),-6.28404518620298
+Paraguay,2019,World,All Products,Tariff,Simple Average (%),8.13706881535177
+Paraguay,2019,World,All Products,Tariff,Weighted Average (%),4.97541469849713
+Paraguay,2019,World,All Products,Tariff,Maximum Rate (%),35
+Paraguay,2019,World,All Products,Tariff,Duty Free Tariff Lines Share (%),37.8238226900741
+Paraguay,2019,...,...,Trade Indicator,Index of export market penetration,2.03557932804227
+Paraguay,2019,...,...,Trade Indicator,HH Market concentration index,0.129030660134721
+Paraguay,2019,...,...,Development,Trade Balance (% of GDP),0.189253389999998
+Paraguay,2019,...,...,Development,Trade in services (% of GDP),6.301809863
+Paraguay,2019,...,...,Development,Trade (% of GDP),69.15760135
+Paraguay,2019,...,...,Development,"GNI per capita, Atlas method (current US$)",5520

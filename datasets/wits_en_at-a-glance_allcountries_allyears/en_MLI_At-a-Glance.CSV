@@ -1,0 +1,106 @@
+Reporter,Year,Partner,Product categories,Indicator Type,Indicator,Indicator Value
+Mali,2017,South Africa,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,780.215266490958
+Mali,2017,Switzerland,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,407.78784191484
+Mali,2017,Burkina Faso,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,116.718319090743
+Mali,2017,Bangladesh,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,111.205931546844
+Mali,2017,Cote d'Ivoire,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,93.859532572251
+Mali,2017,Senegal,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,889.780946147085
+Mali,2017,China,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,660.057779848559
+Mali,2017,Cote d'Ivoire,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,419.299400607545
+Mali,2017,France,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,341.727537952986
+Mali,2017,Germany,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,155.962222752072
+Mali,2017,World,Animal,Export,Export(US$ Mil),195.075315554583
+Mali,2017,World,Vegetable,Export,Export(US$ Mil),37.075940382894
+Mali,2017,World,Food Products,Export,Export(US$ Mil),26.496791932686
+Mali,2017,World,Minerals,Export,Export(US$ Mil),0.242612282625
+Mali,2017,World,Fuels,Export,Export(US$ Mil),0.413561347581
+Mali,2017,World,Chemicals,Export,Export(US$ Mil),105.054656753766
+Mali,2017,World,Plastic or Rubber,Export,Export(US$ Mil),7.150445769018
+Mali,2017,World,Hides and Skins,Export,Export(US$ Mil),10.196867913474
+Mali,2017,World,Wood,Export,Export(US$ Mil),9.302377818066
+Mali,2017,World,Textiles and Clothing,Export,Export(US$ Mil),139.026988841535
+Mali,2017,World,Footwear,Export,Export(US$ Mil),0.157311999
+Mali,2017,World,Stone and Glass,Export,Export(US$ Mil),1254.19564913564
+Mali,2017,World,Metals,Export,Export(US$ Mil),15.379495143852
+Mali,2017,World,Mach and Elec,Export,Export(US$ Mil),28.036384076784
+Mali,2017,World,Transportation,Export,Export(US$ Mil),69.405987206565
+Mali,2017,World,Miscellaneous,Export,Export(US$ Mil),5.519687256279
+Mali,2017,World,Raw materials,Export,Export(US$ Mil),153.975301317774
+Mali,2017,World,Intermediate goods,Export,Export(US$ Mil),1573.0946869922
+Mali,2017,World,Consumer goods,Export,Export(US$ Mil),43.384245084687
+Mali,2017,World,Capital goods,Export,Export(US$ Mil),132.275840019693
+Mali,2017,World,Raw materials,Import,Import(US$ Mil),229.192281697057
+Mali,2017,World,Intermediate goods,Import,Import(US$ Mil),916.955926455191
+Mali,2017,World,Consumer goods,Import,Import(US$ Mil),2261.52677677718
+Mali,2017,World,Capital goods,Import,Import(US$ Mil),928.89029672138
+Mali,2017,World,All Products,Export,Exports (in US$ Mil),1902.73007341435
+Mali,2017,World,All Products,Import,Imports (in US$ Mil),4336.5652816508
+Mali,2017,World,All Products,Tariff,Duty Free Imports (US$ Thousand),91917.6414150794
+Mali,2019,...,...,Development,Trade Balance (current US$ Mil),-1953.61703
+Mali,2019,...,...,Development,GDP (current US$ Mil),17279.566719
+Mali,2017,...,...,Tariff,No. Of Tariff Agreement,2
+Mali,2017,...,...,Import,No. Of Import partners,148
+Mali,2017,...,...,Import,No. Of Import products,3057
+Mali,2017,...,...,Export,No. Of Export partners,89
+Mali,2017,...,...,Export,No. Of Export products,892
+Mali,2019,...,...,Others,Population,19658031
+Mali,2019,...,...,Others,Ease of Doing Business Rank,148
+Mali,2019,...,...,Others,Trading Across Borders Rank,95
+Mali,2019,...,...,Others,CPIA Trade Ratings,4
+Mali,2018,...,...,Others,LPI Rank,96
+Mali,2018,...,...,Others,LPI Score,2.59
+Mali,2014,...,...,Others,No Of NTM Affected Products (HS 6 Digit),5052
+Mali,2014,...,...,Others,No Of NTM Measures,52
+Mali,2009,...,...,Others,Overall Trade Restrictiveness Index -  Applied Tariff,0.1273263
+Mali,2009,...,...,Others,Overall Trade Restrictiveness Index - MFN Tariff,0.145132
+Mali,,...,...,Others,Services Trade Restrictions Index - Over All,28.6
+Mali,2017,South Africa,All Products,Export,Partner share(%)-Top 5 Export Partner,41.005
+Mali,2017,Switzerland,All Products,Export,Partner share(%)-Top 5 Export Partner,21.4317
+Mali,2017,Burkina Faso,All Products,Export,Partner share(%)-Top 5 Export Partner,6.1343
+Mali,2017,Bangladesh,All Products,Export,Partner share(%)-Top 5 Export Partner,5.8445
+Mali,2017,Cote d'Ivoire,All Products,Export,Partner share(%)-Top 5 Export Partner,4.9329
+Mali,2017,Senegal,All Products,Import,Partner share(%)-Top 5 Import Partner,20.5181
+Mali,2017,China,All Products,Import,Partner share(%)-Top 5 Import Partner,15.2208
+Mali,2017,Cote d'Ivoire,All Products,Import,Partner share(%)-Top 5 Import Partner,9.6689
+Mali,2017,France,All Products,Import,Partner share(%)-Top 5 Import Partner,7.8801
+Mali,2017,Germany,All Products,Import,Partner share(%)-Top 5 Import Partner,3.5964
+Mali,2017,World,Animal,Export,Export Product share(%),10.2524
+Mali,2017,World,Vegetable,Export,Export Product share(%),1.9486
+Mali,2017,World,Food Products,Export,Export Product share(%),1.3926
+Mali,2017,World,Minerals,Export,Export Product share(%),0.0128
+Mali,2017,World,Fuels,Export,Export Product share(%),0.0217
+Mali,2017,World,Chemicals,Export,Export Product share(%),5.5213
+Mali,2017,World,Plastic or Rubber,Export,Export Product share(%),0.3758
+Mali,2017,World,Hides and Skins,Export,Export Product share(%),0.5359
+Mali,2017,World,Wood,Export,Export Product share(%),0.4889
+Mali,2017,World,Textiles and Clothing,Export,Export Product share(%),7.3067
+Mali,2017,World,Footwear,Export,Export Product share(%),0.0083
+Mali,2017,World,Stone and Glass,Export,Export Product share(%),65.9156
+Mali,2017,World,Metals,Export,Export Product share(%),0.8083
+Mali,2017,World,Mach and Elec,Export,Export Product share(%),1.4735
+Mali,2017,World,Transportation,Export,Export Product share(%),3.6477
+Mali,2017,World,Miscellaneous,Export,Export Product share(%),0.2901
+Mali,2017,World,Raw materials,Export,Export Product share(%),8.0923
+Mali,2017,World,Intermediate goods,Export,Export Product share(%),82.6757
+Mali,2017,World,Consumer goods,Export,Export Product share(%),2.2801
+Mali,2017,World,Capital goods,Export,Export Product share(%),6.9519
+Mali,2017,World,Raw materials,Import,Import Product share(%),5.2851
+Mali,2017,World,Intermediate goods,Import,Import Product share(%),21.1448
+Mali,2017,World,Consumer goods,Import,Import Product share(%),52.1502
+Mali,2017,World,Capital goods,Import,Import Product share(%),21.42
+Mali,2017,World,Raw materials,Tariff,Weighted Average (%),15.7757643670061
+Mali,2017,World,Intermediate goods,Tariff,Weighted Average (%),9.24274807340732
+Mali,2017,World,Consumer goods,Tariff,Weighted Average (%),14.339748028637
+Mali,2017,World,Capital goods,Tariff,Weighted Average (%),6.97881608412718
+Mali,2017,World,All Products,Trade Indicator,World Growth (%),5.68172199138237
+Mali,2017,World,All Products,Trade Indicator,Country Growth (%),-26.4072137457767
+Mali,2017,World,All Products,Tariff,Simple Average (%),12.8164937737077
+Mali,2017,World,All Products,Tariff,Weighted Average (%),10.0424860454762
+Mali,2017,World,All Products,Tariff,Maximum Rate (%),35
+Mali,2017,World,All Products,Tariff,Duty Free Tariff Lines Share (%),2.17878884972765
+Mali,2017,...,...,Trade Indicator,Index of export market penetration,1.63305262923698
+Mali,2017,...,...,Trade Indicator,HH Market concentration index,0.234889873774549
+Mali,2019,...,...,Development,Trade Balance (% of GDP),-11.3059376
+Mali,2019,...,...,Development,Trade in services (% of GDP),
+Mali,2019,...,...,Development,Trade (% of GDP),57.95211376
+Mali,2019,...,...,Development,"GNI per capita, Atlas method (current US$)",870

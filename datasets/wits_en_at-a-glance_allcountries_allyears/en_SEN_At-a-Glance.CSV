@@ -1,0 +1,106 @@
+Reporter,Year,Partner,Product categories,Indicator Type,Indicator,Indicator Value
+Senegal,2019,Mali,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,959.120118513477
+Senegal,2019,Switzerland,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,612.937206485404
+Senegal,2019,India,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,361.56978772774
+Senegal,2019,China,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,276.225209909252
+Senegal,2019,Bunkers,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,187.729345111757
+Senegal,2019,France,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,1366.49592176584
+Senegal,2019,China,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,870.572395124719
+Senegal,2019,Belgium,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,563.102007858975
+Senegal,2019,Netherlands,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,550.633826098591
+Senegal,2019,Nigeria,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,418.873296157356
+Senegal,2019,World,Animal,Export,Export(US$ Mil),496.853626861166
+Senegal,2019,World,Vegetable,Export,Export(US$ Mil),508.235163353314
+Senegal,2019,World,Food Products,Export,Export(US$ Mil),366.750780416173
+Senegal,2019,World,Minerals,Export,Export(US$ Mil),390.560201205724
+Senegal,2019,World,Fuels,Export,Export(US$ Mil),831.091747266451
+Senegal,2019,World,Chemicals,Export,Export(US$ Mil),518.576799800715
+Senegal,2019,World,Plastic or Rubber,Export,Export(US$ Mil),38.9457427458936
+Senegal,2019,World,Hides and Skins,Export,Export(US$ Mil),6.7776407975014
+Senegal,2019,World,Wood,Export,Export(US$ Mil),26.1546605877806
+Senegal,2019,World,Textiles and Clothing,Export,Export(US$ Mil),47.5999242503984
+Senegal,2019,World,Footwear,Export,Export(US$ Mil),41.6323869381988
+Senegal,2019,World,Stone and Glass,Export,Export(US$ Mil),644.576525777445
+Senegal,2019,World,Metals,Export,Export(US$ Mil),134.748224048654
+Senegal,2019,World,Mach and Elec,Export,Export(US$ Mil),58.1219998668566
+Senegal,2019,World,Transportation,Export,Export(US$ Mil),49.1178518369504
+Senegal,2019,World,Miscellaneous,Export,Export(US$ Mil),14.7588659282174
+Senegal,2019,World,Raw materials,Export,Export(US$ Mil),1015.32086179018
+Senegal,2019,World,Intermediate goods,Export,Export(US$ Mil),1607.52298611445
+Senegal,2019,World,Consumer goods,Export,Export(US$ Mil),1421.66860136242
+Senegal,2019,World,Capital goods,Export,Export(US$ Mil),91.0670042506724
+Senegal,2019,World,Raw materials,Import,Import(US$ Mil),1076.61388703584
+Senegal,2019,World,Intermediate goods,Import,Import(US$ Mil),1487.43934565722
+Senegal,2019,World,Consumer goods,Import,Import(US$ Mil),3731.60955987019
+Senegal,2019,World,Capital goods,Import,Import(US$ Mil),1792.11616999435
+Senegal,2019,World,All Products,Export,Exports (in US$ Mil),4174.50214168144
+Senegal,2019,World,All Products,Import,Imports (in US$ Mil),8143.11346783799
+Senegal,2019,World,All Products,Tariff,Duty Free Imports (US$ Thousand),1036301.32388401
+Senegal,2019,...,...,Development,Trade Balance (current US$ Mil),-3518.121368
+Senegal,2019,...,...,Development,GDP (current US$ Mil),23578.084052
+Senegal,2019,...,...,Tariff,No. Of Tariff Agreement,2
+Senegal,2019,...,...,Import,No. Of Import partners,160
+Senegal,2019,...,...,Import,No. Of Import products,3661
+Senegal,2019,...,...,Export,No. Of Export partners,147
+Senegal,2019,...,...,Export,No. Of Export products,1744
+Senegal,2019,...,...,Others,Population,16296364
+Senegal,2019,...,...,Others,Ease of Doing Business Rank,123
+Senegal,2019,...,...,Others,Trading Across Borders Rank,142
+Senegal,2019,...,...,Others,CPIA Trade Ratings,4.5
+Senegal,2018,...,...,Others,LPI Rank,141
+Senegal,2018,...,...,Others,LPI Score,2.25
+Senegal,2012,...,...,Others,No Of NTM Affected Products (HS 6 Digit),5052
+Senegal,2012,...,...,Others,No Of NTM Measures,42
+Senegal,2009,...,...,Others,Overall Trade Restrictiveness Index -  Applied Tariff,0.4232293
+Senegal,2009,...,...,Others,Overall Trade Restrictiveness Index - MFN Tariff,0.426735
+Senegal,,...,...,Others,Services Trade Restrictions Index - Over All,19
+Senegal,2019,Mali,All Products,Export,Partner share(%)-Top 5 Export Partner,22.9757
+Senegal,2019,Switzerland,All Products,Export,Partner share(%)-Top 5 Export Partner,14.6829
+Senegal,2019,India,All Products,Export,Partner share(%)-Top 5 Export Partner,8.6614
+Senegal,2019,China,All Products,Export,Partner share(%)-Top 5 Export Partner,6.617
+Senegal,2019,Bunkers,All Products,Export,Partner share(%)-Top 5 Export Partner,4.497
+Senegal,2019,France,All Products,Import,Partner share(%)-Top 5 Import Partner,16.781
+Senegal,2019,China,All Products,Import,Partner share(%)-Top 5 Import Partner,10.6909
+Senegal,2019,Belgium,All Products,Import,Partner share(%)-Top 5 Import Partner,6.9151
+Senegal,2019,Netherlands,All Products,Import,Partner share(%)-Top 5 Import Partner,6.762
+Senegal,2019,Nigeria,All Products,Import,Partner share(%)-Top 5 Import Partner,5.1439
+Senegal,2019,World,Animal,Export,Export Product share(%),11.9021
+Senegal,2019,World,Vegetable,Export,Export Product share(%),12.1747
+Senegal,2019,World,Food Products,Export,Export Product share(%),8.7855
+Senegal,2019,World,Minerals,Export,Export Product share(%),9.3559
+Senegal,2019,World,Fuels,Export,Export Product share(%),19.9088
+Senegal,2019,World,Chemicals,Export,Export Product share(%),12.4225
+Senegal,2019,World,Plastic or Rubber,Export,Export Product share(%),0.9329
+Senegal,2019,World,Hides and Skins,Export,Export Product share(%),0.1624
+Senegal,2019,World,Wood,Export,Export Product share(%),0.6265
+Senegal,2019,World,Textiles and Clothing,Export,Export Product share(%),1.1403
+Senegal,2019,World,Footwear,Export,Export Product share(%),0.9973
+Senegal,2019,World,Stone and Glass,Export,Export Product share(%),15.4408
+Senegal,2019,World,Metals,Export,Export Product share(%),3.2279
+Senegal,2019,World,Mach and Elec,Export,Export Product share(%),1.3923
+Senegal,2019,World,Transportation,Export,Export Product share(%),1.1766
+Senegal,2019,World,Miscellaneous,Export,Export Product share(%),0.3535
+Senegal,2019,World,Raw materials,Export,Export Product share(%),24.322
+Senegal,2019,World,Intermediate goods,Export,Export Product share(%),38.5081
+Senegal,2019,World,Consumer goods,Export,Export Product share(%),34.056
+Senegal,2019,World,Capital goods,Export,Export Product share(%),2.1815
+Senegal,2019,World,Raw materials,Import,Import Product share(%),13.2212
+Senegal,2019,World,Intermediate goods,Import,Import Product share(%),18.2662
+Senegal,2019,World,Consumer goods,Import,Import Product share(%),45.8253
+Senegal,2019,World,Capital goods,Import,Import Product share(%),22.0078
+Senegal,2019,World,Raw materials,Tariff,Weighted Average (%),5.52805900560794
+Senegal,2019,World,Intermediate goods,Tariff,Weighted Average (%),9.32707183708643
+Senegal,2019,World,Consumer goods,Tariff,Weighted Average (%),12.0611276438194
+Senegal,2019,World,Capital goods,Tariff,Weighted Average (%),7.27333780390041
+Senegal,2019,World,All Products,Trade Indicator,World Growth (%),-1.13475826045476
+Senegal,2019,World,All Products,Trade Indicator,Country Growth (%),-0.415967841900744
+Senegal,2019,World,All Products,Tariff,Simple Average (%),12.7795710093937
+Senegal,2019,World,All Products,Tariff,Weighted Average (%),9.12128676943819
+Senegal,2019,World,All Products,Tariff,Maximum Rate (%),35
+Senegal,2019,World,All Products,Tariff,Duty Free Tariff Lines Share (%),5.17472771382852
+Senegal,2019,...,...,Trade Indicator,Index of export market penetration,2.21722804688331
+Senegal,2019,...,...,Trade Indicator,HH Market concentration index,0.0859898052305488
+Senegal,2019,...,...,Development,Trade Balance (% of GDP),-14.92115034
+Senegal,2019,...,...,Development,Trade in services (% of GDP),
+Senegal,2019,...,...,Development,Trade (% of GDP),60.50640246
+Senegal,2019,...,...,Development,"GNI per capita, Atlas method (current US$)",1460

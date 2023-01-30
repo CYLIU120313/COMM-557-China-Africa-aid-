@@ -1,0 +1,104 @@
+Reporter,Year,Partner,Product categories,Indicator Type,Indicator,Indicator Value
+Uganda,2018,Kenya,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,580.15235143
+Uganda,2018,United Arab Emirates,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,562.39673129
+Uganda,2018,South Sudan,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,355.75196824
+Uganda,2018,Rwanda,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,211.61242721
+Uganda,2018,"Congo, Dem. Rep.",All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,204.30898909
+Uganda,2018,China,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,1184.4416523
+Uganda,2018,India,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,816.94523779
+Uganda,2018,United Arab Emirates,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,784.05701697
+Uganda,2018,Saudi Arabia,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,605.31321588
+Uganda,2018,Kenya,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,515.85299209
+Uganda,2018,World,Animal,Export,Export(US$ Mil),253.19266705
+Uganda,2018,World,Vegetable,Export,Export(US$ Mil),1113.97586254
+Uganda,2018,World,Food Products,Export,Export(US$ Mil),416.55469275
+Uganda,2018,World,Minerals,Export,Export(US$ Mil),63.11931142
+Uganda,2018,World,Fuels,Export,Export(US$ Mil),166.82201667
+Uganda,2018,World,Chemicals,Export,Export(US$ Mil),91.03703686
+Uganda,2018,World,Plastic or Rubber,Export,Export(US$ Mil),39.27136368
+Uganda,2018,World,Hides and Skins,Export,Export(US$ Mil),46.59791163
+Uganda,2018,World,Wood,Export,Export(US$ Mil),56.57919478
+Uganda,2018,World,Textiles and Clothing,Export,Export(US$ Mil),66.64832313
+Uganda,2018,World,Footwear,Export,Export(US$ Mil),9.52209568
+Uganda,2018,World,Stone and Glass,Export,Export(US$ Mil),521.10202449
+Uganda,2018,World,Metals,Export,Export(US$ Mil),130.34992652
+Uganda,2018,World,Mach and Elec,Export,Export(US$ Mil),40.97297453
+Uganda,2018,World,Transportation,Export,Export(US$ Mil),56.56967048
+Uganda,2018,World,Miscellaneous,Export,Export(US$ Mil),15.048504
+Uganda,2018,World,Raw materials,Export,Export(US$ Mil),1074.9744658
+Uganda,2018,World,Intermediate goods,Export,Export(US$ Mil),1179.42367471
+Uganda,2018,World,Consumer goods,Export,Export(US$ Mil),722.05841114
+Uganda,2018,World,Capital goods,Export,Export(US$ Mil),65.39281752
+Uganda,2018,World,Raw materials,Import,Import(US$ Mil),296.46305773
+Uganda,2018,World,Intermediate goods,Import,Import(US$ Mil),2141.79287094
+Uganda,2018,World,Consumer goods,Import,Import(US$ Mil),2945.38386879
+Uganda,2018,World,Capital goods,Import,Import(US$ Mil),1256.37555594
+Uganda,2018,World,All Products,Export,Exports (in US$ Mil),3087.36357621
+Uganda,2018,World,All Products,Import,Imports (in US$ Mil),6729.43649955
+Uganda,2018,World,All Products,Tariff,Duty Free Imports (US$ Thousand),3150003.37129
+Uganda,2019,...,...,Development,Trade Balance (current US$ Mil),-1817.933684
+Uganda,2019,...,...,Development,GDP (current US$ Mil),35165.157017
+Uganda,2018,...,...,Tariff,No. Of Tariff Agreement,5
+Uganda,2018,...,...,Import,No. Of Import partners,161
+Uganda,2018,...,...,Import,No. Of Import products,3806
+Uganda,2018,...,...,Export,No. Of Export partners,140
+Uganda,2018,...,...,Export,No. Of Export products,2186
+Uganda,2019,...,...,Others,Population,44269594
+Uganda,2019,...,...,Others,Ease of Doing Business Rank,116
+Uganda,2019,...,...,Others,Trading Across Borders Rank,121
+Uganda,2019,...,...,Others,CPIA Trade Ratings,4.5
+Uganda,2018,...,...,Others,LPI Rank,102
+Uganda,2018,...,...,Others,LPI Score,2.58
+Uganda,2009,...,...,Others,Overall Trade Restrictiveness Index -  Applied Tariff,0.0826278
+Uganda,2009,...,...,Others,Overall Trade Restrictiveness Index - MFN Tariff,0.1286412
+Uganda,,...,...,Others,Services Trade Restrictions Index - Over All,34.5
+Uganda,2018,Kenya,All Products,Export,Partner share(%)-Top 5 Export Partner,18.7912
+Uganda,2018,United Arab Emirates,All Products,Export,Partner share(%)-Top 5 Export Partner,18.2161
+Uganda,2018,South Sudan,All Products,Export,Partner share(%)-Top 5 Export Partner,11.5228
+Uganda,2018,Rwanda,All Products,Export,Partner share(%)-Top 5 Export Partner,6.8541
+Uganda,2018,"Congo, Dem. Rep.",All Products,Export,Partner share(%)-Top 5 Export Partner,6.6176
+Uganda,2018,China,All Products,Import,Partner share(%)-Top 5 Import Partner,17.6009
+Uganda,2018,India,All Products,Import,Partner share(%)-Top 5 Import Partner,12.1399
+Uganda,2018,United Arab Emirates,All Products,Import,Partner share(%)-Top 5 Import Partner,11.6512
+Uganda,2018,Saudi Arabia,All Products,Import,Partner share(%)-Top 5 Import Partner,8.995
+Uganda,2018,Kenya,All Products,Import,Partner share(%)-Top 5 Import Partner,7.6656
+Uganda,2018,World,Animal,Export,Export Product share(%),8.2009
+Uganda,2018,World,Vegetable,Export,Export Product share(%),36.0818
+Uganda,2018,World,Food Products,Export,Export Product share(%),13.4922
+Uganda,2018,World,Minerals,Export,Export Product share(%),2.0444
+Uganda,2018,World,Fuels,Export,Export Product share(%),5.4034
+Uganda,2018,World,Chemicals,Export,Export Product share(%),2.9487
+Uganda,2018,World,Plastic or Rubber,Export,Export Product share(%),1.272
+Uganda,2018,World,Hides and Skins,Export,Export Product share(%),1.5093
+Uganda,2018,World,Wood,Export,Export Product share(%),1.8326
+Uganda,2018,World,Textiles and Clothing,Export,Export Product share(%),2.1587
+Uganda,2018,World,Footwear,Export,Export Product share(%),0.3084
+Uganda,2018,World,Stone and Glass,Export,Export Product share(%),16.8785
+Uganda,2018,World,Metals,Export,Export Product share(%),4.222
+Uganda,2018,World,Mach and Elec,Export,Export Product share(%),1.3271
+Uganda,2018,World,Transportation,Export,Export Product share(%),1.8323
+Uganda,2018,World,Miscellaneous,Export,Export Product share(%),0.4874
+Uganda,2018,World,Raw materials,Export,Export Product share(%),34.8185
+Uganda,2018,World,Intermediate goods,Export,Export Product share(%),38.2016
+Uganda,2018,World,Consumer goods,Export,Export Product share(%),23.3875
+Uganda,2018,World,Capital goods,Export,Export Product share(%),2.1181
+Uganda,2018,World,Raw materials,Import,Import Product share(%),4.4055
+Uganda,2018,World,Intermediate goods,Import,Import Product share(%),31.8272
+Uganda,2018,World,Consumer goods,Import,Import Product share(%),43.7687
+Uganda,2018,World,Capital goods,Import,Import Product share(%),18.6698
+Uganda,2018,World,Raw materials,Tariff,Weighted Average (%),9.50199297302518
+Uganda,2018,World,Intermediate goods,Tariff,Weighted Average (%),4.81151465800748
+Uganda,2018,World,Consumer goods,Tariff,Weighted Average (%),15.1113269063358
+Uganda,2018,World,Capital goods,Tariff,Weighted Average (%),3.69082013057716
+Uganda,2018,World,All Products,Trade Indicator,World Growth (%),3.49929022901836
+Uganda,2018,World,All Products,Trade Indicator,Country Growth (%),16.833541074012
+Uganda,2018,World,All Products,Tariff,Simple Average (%),12.1514187662714
+Uganda,2018,World,All Products,Tariff,Weighted Average (%),8.00975083263144
+Uganda,2018,World,All Products,Tariff,Maximum Rate (%),100
+Uganda,2018,World,All Products,Tariff,Duty Free Tariff Lines Share (%),39.391565478522
+Uganda,2018,...,...,Trade Indicator,Index of export market penetration,2.03808301329211
+Uganda,2018,...,...,Trade Indicator,HH Market concentration index,0.164616819726214
+Uganda,2019,...,...,Development,Trade Balance (% of GDP),-5.1697016
+Uganda,2019,...,...,Development,Trade in services (% of GDP),13.4127166
+Uganda,2019,...,...,Development,Trade (% of GDP),39.56588749
+Uganda,2019,...,...,Development,"GNI per capita, Atlas method (current US$)",780

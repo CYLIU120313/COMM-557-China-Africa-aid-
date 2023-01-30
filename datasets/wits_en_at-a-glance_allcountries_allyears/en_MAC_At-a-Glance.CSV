@@ -1,0 +1,93 @@
+Reporter,Year,Partner,Product categories,Indicator Type,Indicator,Indicator Value
+Macao,2019,"Hong Kong, China",All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,868.207233632685
+Macao,2019,China,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,106.308409034245
+Macao,2019,United States,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,16.140980898854
+Macao,2019,Cambodia,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,7.584517842989
+Macao,2019,Singapore,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,5.0498105008835
+Macao,2019,China,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,3982.60055759744
+Macao,2019,Italy,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,1230.66608975252
+Macao,2019,France,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,1201.76966156186
+Macao,2019,"Hong Kong, China",All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,924.345536963622
+Macao,2019,Switzerland,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,887.663969438532
+Macao,2019,World,Animal,Export,Export(US$ Mil),2.1673295435535
+Macao,2019,World,Vegetable,Export,Export(US$ Mil),0.868716050258
+Macao,2019,World,Food Products,Export,Export(US$ Mil),46.132249478683
+Macao,2019,World,Minerals,Export,Export(US$ Mil),
+Macao,2019,World,Fuels,Export,Export(US$ Mil),0.011973278355
+Macao,2019,World,Chemicals,Export,Export(US$ Mil),50.3865285022975
+Macao,2019,World,Plastic or Rubber,Export,Export(US$ Mil),44.2713813412775
+Macao,2019,World,Hides and Skins,Export,Export(US$ Mil),61.5558724011925
+Macao,2019,World,Wood,Export,Export(US$ Mil),2.494577715753
+Macao,2019,World,Textiles and Clothing,Export,Export(US$ Mil),94.22071480943
+Macao,2019,World,Footwear,Export,Export(US$ Mil),56.4201572524355
+Macao,2019,World,Stone and Glass,Export,Export(US$ Mil),136.451253519131
+Macao,2019,World,Metals,Export,Export(US$ Mil),19.7981867420415
+Macao,2019,World,Mach and Elec,Export,Export(US$ Mil),293.480771389452
+Macao,2019,World,Transportation,Export,Export(US$ Mil),19.0299971621995
+Macao,2019,World,Miscellaneous,Export,Export(US$ Mil),196.693321864471
+Macao,2019,World,Raw materials,Export,Export(US$ Mil),9.8486164556045
+Macao,2019,World,Intermediate goods,Export,Export(US$ Mil),5.58247938854
+Macao,2019,World,Consumer goods,Export,Export(US$ Mil),520.903014907218
+Macao,2019,World,Capital goods,Export,Export(US$ Mil),245.938373172466
+Macao,2019,World,Raw materials,Import,Import(US$ Mil),538.627185614521
+Macao,2019,World,Intermediate goods,Import,Import(US$ Mil),871.081010761342
+Macao,2019,World,Consumer goods,Import,Import(US$ Mil),7456.25429228005
+Macao,2019,World,Capital goods,Import,Import(US$ Mil),1411.25797611591
+Macao,2019,World,All Products,Export,Exports (in US$ Mil),1023.98303105053
+Macao,2019,World,All Products,Import,Imports (in US$ Mil),12024.0188511795
+Macao,2019,World,All Products,Tariff,Duty Free Imports (US$ Thousand),9967179.74389409
+Macao,2019,...,...,Tariff,No. Of Tariff Agreement,1
+Macao,2019,...,...,Import,No. Of Import partners,140
+Macao,2019,...,...,Import,No. Of Import products,1722
+Macao,2019,...,...,Export,No. Of Export partners,37
+Macao,2019,...,...,Export,No. Of Export products,313
+Macao,2019,...,...,Others,Population,640445
+Macao,2019,...,...,Others,CPIA Trade Ratings,
+Macao,2009,...,...,Others,Overall Trade Restrictiveness Index -  Applied Tariff,0
+Macao,2009,...,...,Others,Overall Trade Restrictiveness Index - MFN Tariff,0
+Macao,2019,"Hong Kong, China",All Products,Export,Partner share(%)-Top 5 Export Partner,84.7873
+Macao,2019,China,All Products,Export,Partner share(%)-Top 5 Export Partner,10.3819
+Macao,2019,United States,All Products,Export,Partner share(%)-Top 5 Export Partner,1.5763
+Macao,2019,Cambodia,All Products,Export,Partner share(%)-Top 5 Export Partner,0.7407
+Macao,2019,Singapore,All Products,Export,Partner share(%)-Top 5 Export Partner,0.4932
+Macao,2019,China,All Products,Import,Partner share(%)-Top 5 Import Partner,33.122
+Macao,2019,Italy,All Products,Import,Partner share(%)-Top 5 Import Partner,10.2351
+Macao,2019,France,All Products,Import,Partner share(%)-Top 5 Import Partner,9.9947
+Macao,2019,"Hong Kong, China",All Products,Import,Partner share(%)-Top 5 Import Partner,7.6875
+Macao,2019,Switzerland,All Products,Import,Partner share(%)-Top 5 Import Partner,7.3824
+Macao,2019,World,Animal,Export,Export Product share(%),0.2117
+Macao,2019,World,Vegetable,Export,Export Product share(%),0.0848
+Macao,2019,World,Food Products,Export,Export Product share(%),4.5052
+Macao,2019,World,Minerals,Export,Export Product share(%),
+Macao,2019,World,Fuels,Export,Export Product share(%),0.0012
+Macao,2019,World,Chemicals,Export,Export Product share(%),4.9206
+Macao,2019,World,Plastic or Rubber,Export,Export Product share(%),4.3234
+Macao,2019,World,Hides and Skins,Export,Export Product share(%),6.0114
+Macao,2019,World,Wood,Export,Export Product share(%),0.2436
+Macao,2019,World,Textiles and Clothing,Export,Export Product share(%),9.2014
+Macao,2019,World,Footwear,Export,Export Product share(%),5.5099
+Macao,2019,World,Stone and Glass,Export,Export Product share(%),13.3255
+Macao,2019,World,Metals,Export,Export Product share(%),1.9334
+Macao,2019,World,Mach and Elec,Export,Export Product share(%),28.6607
+Macao,2019,World,Transportation,Export,Export Product share(%),1.8584
+Macao,2019,World,Miscellaneous,Export,Export Product share(%),19.2087
+Macao,2019,World,Raw materials,Export,Export Product share(%),0.9618
+Macao,2019,World,Intermediate goods,Export,Export Product share(%),0.5452
+Macao,2019,World,Consumer goods,Export,Export Product share(%),50.8703
+Macao,2019,World,Capital goods,Export,Export Product share(%),24.0178
+Macao,2019,World,Raw materials,Import,Import Product share(%),4.4796
+Macao,2019,World,Intermediate goods,Import,Import Product share(%),7.2445
+Macao,2019,World,Consumer goods,Import,Import Product share(%),62.0113
+Macao,2019,World,Capital goods,Import,Import Product share(%),11.737
+Macao,2019,World,Raw materials,Tariff,Weighted Average (%),0
+Macao,2019,World,Intermediate goods,Tariff,Weighted Average (%),0
+Macao,2019,World,Consumer goods,Tariff,Weighted Average (%),0
+Macao,2019,World,Capital goods,Tariff,Weighted Average (%),0
+Macao,2019,World,All Products,Trade Indicator,World Growth (%),-1.13475826045476
+Macao,2019,World,All Products,Trade Indicator,Country Growth (%),6.19410268495326
+Macao,2019,World,All Products,Tariff,Simple Average (%),0
+Macao,2019,World,All Products,Tariff,Weighted Average (%),0
+Macao,2019,World,All Products,Tariff,Maximum Rate (%),0
+Macao,2019,World,All Products,Tariff,Duty Free Tariff Lines Share (%),100
+Macao,2019,...,...,Trade Indicator,Index of export market penetration,2.36602315682239
+Macao,2019,...,...,Trade Indicator,HH Market concentration index,0.505976197990114

@@ -1,0 +1,101 @@
+Reporter,Year,Partner,Product categories,Indicator Type,Indicator,Indicator Value
+Malta,2019,Bunkers,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,771.687913827981
+Malta,2019,Germany,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,553.881005516287
+Malta,2019,Italy,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,320.341810328253
+Malta,2019,France,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,301.283472658288
+Malta,2019,Japan,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,178.34401009106
+Malta,2019,United Kingdom,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,1516.97125003171
+Malta,2019,Italy,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,1385.684426808
+Malta,2019,Germany,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,544.116123095378
+Malta,2019,France,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,488.623209106505
+Malta,2019,Turkey,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,344.980545060543
+Malta,2019,World,Animal,Export,Export(US$ Mil),207.520485680096
+Malta,2019,World,Vegetable,Export,Export(US$ Mil),4.56002345263868
+Malta,2019,World,Food Products,Export,Export(US$ Mil),137.616508529694
+Malta,2019,World,Minerals,Export,Export(US$ Mil),0.13841814767096
+Malta,2019,World,Fuels,Export,Export(US$ Mil),1194.9677744539
+Malta,2019,World,Chemicals,Export,Export(US$ Mil),534.633367123126
+Malta,2019,World,Plastic or Rubber,Export,Export(US$ Mil),161.653556467988
+Malta,2019,World,Hides and Skins,Export,Export(US$ Mil),19.9494377788721
+Malta,2019,World,Wood,Export,Export(US$ Mil),241.537731102675
+Malta,2019,World,Textiles and Clothing,Export,Export(US$ Mil),65.5660197073294
+Malta,2019,World,Footwear,Export,Export(US$ Mil),36.4511757931262
+Malta,2019,World,Stone and Glass,Export,Export(US$ Mil),25.0355629642268
+Malta,2019,World,Metals,Export,Export(US$ Mil),49.6183301889806
+Malta,2019,World,Mach and Elec,Export,Export(US$ Mil),938.736445252592
+Malta,2019,World,Transportation,Export,Export(US$ Mil),207.582696875479
+Malta,2019,World,Miscellaneous,Export,Export(US$ Mil),317.354601172493
+Malta,2019,World,Raw materials,Export,Export(US$ Mil),221.429915280133
+Malta,2019,World,Intermediate goods,Export,Export(US$ Mil),509.276899688936
+Malta,2019,World,Consumer goods,Export,Export(US$ Mil),2362.71830587686
+Malta,2019,World,Capital goods,Export,Export(US$ Mil),1010.25536381628
+Malta,2019,World,Raw materials,Import,Import(US$ Mil),321.10371508847
+Malta,2019,World,Intermediate goods,Import,Import(US$ Mil),874.400598757709
+Malta,2019,World,Consumer goods,Import,Import(US$ Mil),5187.83022038058
+Malta,2019,World,Capital goods,Import,Import(US$ Mil),1825.94144791138
+Malta,2019,World,All Products,Export,Exports (in US$ Mil),4142.92213469089
+Malta,2019,World,All Products,Import,Imports (in US$ Mil),8211.00864513577
+Malta,2019,World,All Products,Tariff,Duty Free Imports (US$ Thousand),1188575.23909552
+Malta,2019,...,...,Development,Trade Balance (current US$ Mil),2088.331299
+Malta,2019,...,...,Development,GDP (current US$ Mil),14989.415684
+Malta,2019,...,...,Tariff,No. Of Tariff Agreement,
+Malta,2019,...,...,Import,No. Of Import partners,166
+Malta,2019,...,...,Import,No. Of Import products,3824
+Malta,2019,...,...,Export,No. Of Export partners,179
+Malta,2019,...,...,Export,No. Of Export products,1830
+Malta,2019,...,...,Others,Population,504062
+Malta,2019,...,...,Others,Ease of Doing Business Rank,88
+Malta,2019,...,...,Others,Trading Across Borders Rank,48
+Malta,2019,...,...,Others,CPIA Trade Ratings,
+Malta,2018,...,...,Others,LPI Rank,69
+Malta,2018,...,...,Others,LPI Score,2.81
+Malta,2019,Bunkers,All Products,Export,Partner share(%)-Top 5 Export Partner,18.6267
+Malta,2019,Germany,All Products,Export,Partner share(%)-Top 5 Export Partner,13.3693
+Malta,2019,Italy,All Products,Export,Partner share(%)-Top 5 Export Partner,7.7323
+Malta,2019,France,All Products,Export,Partner share(%)-Top 5 Export Partner,7.2722
+Malta,2019,Japan,All Products,Export,Partner share(%)-Top 5 Export Partner,4.3048
+Malta,2019,United Kingdom,All Products,Import,Partner share(%)-Top 5 Import Partner,18.4748
+Malta,2019,Italy,All Products,Import,Partner share(%)-Top 5 Import Partner,16.8759
+Malta,2019,Germany,All Products,Import,Partner share(%)-Top 5 Import Partner,6.6267
+Malta,2019,France,All Products,Import,Partner share(%)-Top 5 Import Partner,5.9508
+Malta,2019,Turkey,All Products,Import,Partner share(%)-Top 5 Import Partner,4.2014
+Malta,2019,World,Animal,Export,Export Product share(%),5.009
+Malta,2019,World,Vegetable,Export,Export Product share(%),0.1101
+Malta,2019,World,Food Products,Export,Export Product share(%),3.3217
+Malta,2019,World,Minerals,Export,Export Product share(%),0.0033
+Malta,2019,World,Fuels,Export,Export Product share(%),28.8436
+Malta,2019,World,Chemicals,Export,Export Product share(%),12.9047
+Malta,2019,World,Plastic or Rubber,Export,Export Product share(%),3.9019
+Malta,2019,World,Hides and Skins,Export,Export Product share(%),0.4815
+Malta,2019,World,Wood,Export,Export Product share(%),5.8301
+Malta,2019,World,Textiles and Clothing,Export,Export Product share(%),1.5826
+Malta,2019,World,Footwear,Export,Export Product share(%),0.8798
+Malta,2019,World,Stone and Glass,Export,Export Product share(%),0.6043
+Malta,2019,World,Metals,Export,Export Product share(%),1.1977
+Malta,2019,World,Mach and Elec,Export,Export Product share(%),22.6588
+Malta,2019,World,Transportation,Export,Export Product share(%),5.0105
+Malta,2019,World,Miscellaneous,Export,Export Product share(%),7.6602
+Malta,2019,World,Raw materials,Export,Export Product share(%),5.3448
+Malta,2019,World,Intermediate goods,Export,Export Product share(%),12.2927
+Malta,2019,World,Consumer goods,Export,Export Product share(%),57.0302
+Malta,2019,World,Capital goods,Export,Export Product share(%),24.3851
+Malta,2019,World,Raw materials,Import,Import Product share(%),3.9106
+Malta,2019,World,Intermediate goods,Import,Import Product share(%),10.6491
+Malta,2019,World,Consumer goods,Import,Import Product share(%),63.1814
+Malta,2019,World,Capital goods,Import,Import Product share(%),22.2377
+Malta,2019,World,Raw materials,Tariff,Weighted Average (%),5.78941834122143
+Malta,2019,World,Intermediate goods,Tariff,Weighted Average (%),3.91328672321263
+Malta,2019,World,Consumer goods,Tariff,Weighted Average (%),2.88763039557798
+Malta,2019,World,Capital goods,Tariff,Weighted Average (%),0.715278817338116
+Malta,2019,World,All Products,Trade Indicator,World Growth (%),-1.13475826045476
+Malta,2019,World,All Products,Trade Indicator,Country Growth (%),-2.8156155807087
+Malta,2019,World,All Products,Tariff,Simple Average (%),2.67089789494387
+Malta,2019,World,All Products,Tariff,Weighted Average (%),2.42009559605603
+Malta,2019,World,All Products,Tariff,Maximum Rate (%),154.5498046875
+Malta,2019,World,All Products,Tariff,Duty Free Tariff Lines Share (%),47.3088075389634
+Malta,2019,...,...,Trade Indicator,Index of export market penetration,2.96243958873395
+Malta,2019,...,...,Trade Indicator,HH Market concentration index,0.0437655035800014
+Malta,2019,...,...,Development,Trade Balance (% of GDP),13.9320394
+Malta,2019,...,...,Development,Trade in services (% of GDP),194.3961608
+Malta,2019,...,...,Development,Trade (% of GDP),273.7154936
+Malta,2019,...,...,Development,"GNI per capita, Atlas method (current US$)",27950

@@ -1,0 +1,102 @@
+Reporter,Year,Partner,Product categories,Indicator Type,Indicator,Indicator Value
+Bulgaria,2019,Germany,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,4935.69119461654
+Bulgaria,2019,Romania,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,2908.04271609938
+Bulgaria,2019,Italy,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,2447.40507098521
+Bulgaria,2019,Turkey,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,2430.94808213151
+Bulgaria,2019,Greece,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,2246.47760984245
+Bulgaria,2019,Germany,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,4535.16560706345
+Bulgaria,2019,Russian Federation,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,3728.54479638318
+Bulgaria,2019,Italy,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,2808.35242857276
+Bulgaria,2019,Romania,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,2696.76426113827
+Bulgaria,2019,Turkey,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,2460.72526074454
+Bulgaria,2019,World,Animal,Export,Export(US$ Mil),498.097103785379
+Bulgaria,2019,World,Vegetable,Export,Export(US$ Mil),3005.64787094148
+Bulgaria,2019,World,Food Products,Export,Export(US$ Mil),1837.89275194127
+Bulgaria,2019,World,Minerals,Export,Export(US$ Mil),1011.73452409436
+Bulgaria,2019,World,Fuels,Export,Export(US$ Mil),3190.29230870486
+Bulgaria,2019,World,Chemicals,Export,Export(US$ Mil),3005.34688681807
+Bulgaria,2019,World,Plastic or Rubber,Export,Export(US$ Mil),1425.76471354503
+Bulgaria,2019,World,Hides and Skins,Export,Export(US$ Mil),116.279900182361
+Bulgaria,2019,World,Wood,Export,Export(US$ Mil),814.838096353608
+Bulgaria,2019,World,Textiles and Clothing,Export,Export(US$ Mil),2261.43057599422
+Bulgaria,2019,World,Footwear,Export,Export(US$ Mil),255.374833458325
+Bulgaria,2019,World,Stone and Glass,Export,Export(US$ Mil),877.297363822153
+Bulgaria,2019,World,Metals,Export,Export(US$ Mil),4803.38425698329
+Bulgaria,2019,World,Mach and Elec,Export,Export(US$ Mil),6345.35221714496
+Bulgaria,2019,World,Transportation,Export,Export(US$ Mil),1377.28775911836
+Bulgaria,2019,World,Miscellaneous,Export,Export(US$ Mil),2628.42688651542
+Bulgaria,2019,World,Raw materials,Export,Export(US$ Mil),4395.29456922469
+Bulgaria,2019,World,Intermediate goods,Export,Export(US$ Mil),8868.98947185919
+Bulgaria,2019,World,Consumer goods,Export,Export(US$ Mil),12144.226174865
+Bulgaria,2019,World,Capital goods,Export,Export(US$ Mil),6895.01823090005
+Bulgaria,2019,World,Raw materials,Import,Import(US$ Mil),7263.31102206198
+Bulgaria,2019,World,Intermediate goods,Import,Import(US$ Mil),8828.41263594803
+Bulgaria,2019,World,Consumer goods,Import,Import(US$ Mil),11826.8074554982
+Bulgaria,2019,World,Capital goods,Import,Import(US$ Mil),7890.10503047496
+Bulgaria,2019,World,All Products,Export,Exports (in US$ Mil),33454.4480494031
+Bulgaria,2019,World,All Products,Import,Imports (in US$ Mil),37765.1141263834
+Bulgaria,2019,World,All Products,Tariff,Duty Free Imports (US$ Thousand),10439254.8910808
+Bulgaria,2019,...,...,Development,Trade Balance (current US$ Mil),2201.241557
+Bulgaria,2019,...,...,Development,GDP (current US$ Mil),68558.815112
+Bulgaria,2019,...,...,Tariff,No. Of Tariff Agreement,
+Bulgaria,2019,...,...,Import,No. Of Import partners,168
+Bulgaria,2019,...,...,Import,No. Of Import products,4307
+Bulgaria,2019,...,...,Export,No. Of Export partners,202
+Bulgaria,2019,...,...,Export,No. Of Export products,3832
+Bulgaria,2019,...,...,Others,Population,6975761
+Bulgaria,2019,...,...,Others,Ease of Doing Business Rank,61
+Bulgaria,2019,...,...,Others,Trading Across Borders Rank,21
+Bulgaria,2019,...,...,Others,CPIA Trade Ratings,
+Bulgaria,2018,...,...,Others,LPI Rank,52
+Bulgaria,2018,...,...,Others,LPI Score,3.03
+Bulgaria,,...,...,Others,Services Trade Restrictions Index - Over All,15.5
+Bulgaria,2019,Germany,All Products,Export,Partner share(%)-Top 5 Export Partner,14.7535
+Bulgaria,2019,Romania,All Products,Export,Partner share(%)-Top 5 Export Partner,8.6925
+Bulgaria,2019,Italy,All Products,Export,Partner share(%)-Top 5 Export Partner,7.3156
+Bulgaria,2019,Turkey,All Products,Export,Partner share(%)-Top 5 Export Partner,7.2664
+Bulgaria,2019,Greece,All Products,Export,Partner share(%)-Top 5 Export Partner,6.715
+Bulgaria,2019,Germany,All Products,Import,Partner share(%)-Top 5 Import Partner,12.0089
+Bulgaria,2019,Russian Federation,All Products,Import,Partner share(%)-Top 5 Import Partner,9.873
+Bulgaria,2019,Italy,All Products,Import,Partner share(%)-Top 5 Import Partner,7.4364
+Bulgaria,2019,Romania,All Products,Import,Partner share(%)-Top 5 Import Partner,7.1409
+Bulgaria,2019,Turkey,All Products,Import,Partner share(%)-Top 5 Import Partner,6.5159
+Bulgaria,2019,World,Animal,Export,Export Product share(%),1.4889
+Bulgaria,2019,World,Vegetable,Export,Export Product share(%),8.9843
+Bulgaria,2019,World,Food Products,Export,Export Product share(%),5.4937
+Bulgaria,2019,World,Minerals,Export,Export Product share(%),3.0242
+Bulgaria,2019,World,Fuels,Export,Export Product share(%),9.5362
+Bulgaria,2019,World,Chemicals,Export,Export Product share(%),8.9834
+Bulgaria,2019,World,Plastic or Rubber,Export,Export Product share(%),4.2618
+Bulgaria,2019,World,Hides and Skins,Export,Export Product share(%),0.3476
+Bulgaria,2019,World,Wood,Export,Export Product share(%),2.4357
+Bulgaria,2019,World,Textiles and Clothing,Export,Export Product share(%),6.7597
+Bulgaria,2019,World,Footwear,Export,Export Product share(%),0.7634
+Bulgaria,2019,World,Stone and Glass,Export,Export Product share(%),2.6224
+Bulgaria,2019,World,Metals,Export,Export Product share(%),14.358
+Bulgaria,2019,World,Mach and Elec,Export,Export Product share(%),18.9671
+Bulgaria,2019,World,Transportation,Export,Export Product share(%),4.1169
+Bulgaria,2019,World,Miscellaneous,Export,Export Product share(%),7.8567
+Bulgaria,2019,World,Raw materials,Export,Export Product share(%),13.1381
+Bulgaria,2019,World,Intermediate goods,Export,Export Product share(%),26.5106
+Bulgaria,2019,World,Consumer goods,Export,Export Product share(%),36.3008
+Bulgaria,2019,World,Capital goods,Export,Export Product share(%),20.6102
+Bulgaria,2019,World,Raw materials,Import,Import Product share(%),19.2329
+Bulgaria,2019,World,Intermediate goods,Import,Import Product share(%),23.3772
+Bulgaria,2019,World,Consumer goods,Import,Import Product share(%),31.3168
+Bulgaria,2019,World,Capital goods,Import,Import Product share(%),20.8926
+Bulgaria,2019,World,Raw materials,Tariff,Weighted Average (%),0.226566256386521
+Bulgaria,2019,World,Intermediate goods,Tariff,Weighted Average (%),1.17090454358041
+Bulgaria,2019,World,Consumer goods,Tariff,Weighted Average (%),2.32556077214519
+Bulgaria,2019,World,Capital goods,Tariff,Weighted Average (%),0.788088745182071
+Bulgaria,2019,World,All Products,Trade Indicator,World Growth (%),-1.13475826045476
+Bulgaria,2019,World,All Products,Trade Indicator,Country Growth (%),-0.377246476273185
+Bulgaria,2019,World,All Products,Tariff,Simple Average (%),2.08334929682724
+Bulgaria,2019,World,All Products,Tariff,Weighted Average (%),1.08418684829746
+Bulgaria,2019,World,All Products,Tariff,Maximum Rate (%),149.587600708008
+Bulgaria,2019,World,All Products,Tariff,Duty Free Tariff Lines Share (%),56.683784543911
+Bulgaria,2019,...,...,Trade Indicator,Index of export market penetration,9.88111860214625
+Bulgaria,2019,...,...,Trade Indicator,HH Market concentration index,0.0544577091788168
+Bulgaria,2019,...,...,Development,Trade Balance (% of GDP),3.21073454
+Bulgaria,2019,...,...,Development,Trade in services (% of GDP),25.35936476
+Bulgaria,2019,...,...,Development,Trade (% of GDP),125.1725329
+Bulgaria,2019,...,...,Development,"GNI per capita, Atlas method (current US$)",9570

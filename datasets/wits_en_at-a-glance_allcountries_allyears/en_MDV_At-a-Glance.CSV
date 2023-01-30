@@ -1,0 +1,103 @@
+Reporter,Year,Partner,Product categories,Indicator Type,Indicator,Indicator Value
+Maldives,2018,Thailand,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,65.8893617655802
+Maldives,2018,Germany,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,23.0938354480513
+Maldives,2018,United Kingdom,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,16.7670644718598
+Maldives,2018,United States,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,15.0377459972042
+Maldives,2018,France,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,13.4428139526964
+Maldives,2018,United Arab Emirates,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,536.758059515705
+Maldives,2018,China,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,488.344144435784
+Maldives,2018,Singapore,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,369.162186852775
+Maldives,2018,India,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,286.674434079793
+Maldives,2018,Malaysia,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,232.287246190623
+Maldives,2018,World,Animal,Export,Export(US$ Mil),134.326178675996
+Maldives,2018,World,Vegetable,Export,Export(US$ Mil),0.0246145185754773
+Maldives,2018,World,Food Products,Export,Export(US$ Mil),44.0632484499493
+Maldives,2018,World,Minerals,Export,Export(US$ Mil),0.0002483269971108
+Maldives,2018,World,Fuels,Export,Export(US$ Mil),0.026312067077331
+Maldives,2018,World,Chemicals,Export,Export(US$ Mil),0.272608817052075
+Maldives,2018,World,Plastic or Rubber,Export,Export(US$ Mil),0.0758803119307593
+Maldives,2018,World,Hides and Skins,Export,Export(US$ Mil),0.0052661383594071
+Maldives,2018,World,Wood,Export,Export(US$ Mil),0.0307229698732314
+Maldives,2018,World,Textiles and Clothing,Export,Export(US$ Mil),3.25148037039E-05
+Maldives,2018,World,Footwear,Export,Export(US$ Mil),1.20019474056E-05
+Maldives,2018,World,Stone and Glass,Export,Export(US$ Mil),5.00297721E-06
+Maldives,2018,World,Metals,Export,Export(US$ Mil),2.60727045317378
+Maldives,2018,World,Mach and Elec,Export,Export(US$ Mil),
+Maldives,2018,World,Transportation,Export,Export(US$ Mil),0.272021725473329
+Maldives,2018,World,Miscellaneous,Export,Export(US$ Mil),0.0069791070766017
+Maldives,2018,World,Raw materials,Export,Export(US$ Mil),131.570435578323
+Maldives,2018,World,Intermediate goods,Export,Export(US$ Mil),8.88483019826508
+Maldives,2018,World,Consumer goods,Export,Export(US$ Mil),41.2561353046737
+Maldives,2018,World,Capital goods,Export,Export(US$ Mil),
+Maldives,2018,World,Raw materials,Import,Import(US$ Mil),353.798578177673
+Maldives,2018,World,Intermediate goods,Import,Import(US$ Mil),480.937992942658
+Maldives,2018,World,Consumer goods,Import,Import(US$ Mil),1466.35535492337
+Maldives,2018,World,Capital goods,Import,Import(US$ Mil),659.934917961025
+Maldives,2018,World,All Products,Export,Exports (in US$ Mil),181.711401081262
+Maldives,2018,World,All Products,Import,Imports (in US$ Mil),2961.02684400472
+Maldives,2018,World,All Products,Tariff,Duty Free Imports (US$ Thousand),968754.41827438
+Maldives,2019,...,...,Development,Trade Balance (current US$ Mil),-504.680795
+Maldives,2019,...,...,Development,GDP (current US$ Mil),5642.17917
+Maldives,2018,...,...,Tariff,No. Of Tariff Agreement,2
+Maldives,2018,...,...,Import,No. Of Import partners,114
+Maldives,2018,...,...,Import,No. Of Import products,2669
+Maldives,2018,...,...,Export,No. Of Export partners,45
+Maldives,2018,...,...,Export,No. Of Export products,68
+Maldives,2019,...,...,Others,Population,530953
+Maldives,2019,...,...,Others,Ease of Doing Business Rank,147
+Maldives,2019,...,...,Others,Trading Across Borders Rank,157
+Maldives,2019,...,...,Others,CPIA Trade Ratings,4
+Maldives,2018,...,...,Others,LPI Rank,86
+Maldives,2018,...,...,Others,LPI Score,2.67
+Maldives,2009,...,...,Others,Overall Trade Restrictiveness Index -  Applied Tariff,0.2019894
+Maldives,2009,...,...,Others,Overall Trade Restrictiveness Index - MFN Tariff,0.2031543
+Maldives,2018,Thailand,All Products,Export,Partner share(%)-Top 5 Export Partner,36.2604
+Maldives,2018,Germany,All Products,Export,Partner share(%)-Top 5 Export Partner,12.7091
+Maldives,2018,United Kingdom,All Products,Export,Partner share(%)-Top 5 Export Partner,9.2273
+Maldives,2018,United States,All Products,Export,Partner share(%)-Top 5 Export Partner,8.2756
+Maldives,2018,France,All Products,Export,Partner share(%)-Top 5 Export Partner,7.3979
+Maldives,2018,United Arab Emirates,All Products,Import,Partner share(%)-Top 5 Import Partner,18.1274
+Maldives,2018,China,All Products,Import,Partner share(%)-Top 5 Import Partner,16.4924
+Maldives,2018,Singapore,All Products,Import,Partner share(%)-Top 5 Import Partner,12.4674
+Maldives,2018,India,All Products,Import,Partner share(%)-Top 5 Import Partner,9.6816
+Maldives,2018,Malaysia,All Products,Import,Partner share(%)-Top 5 Import Partner,7.8448
+Maldives,2018,World,Animal,Export,Export Product share(%),73.9228
+Maldives,2018,World,Vegetable,Export,Export Product share(%),0.0135
+Maldives,2018,World,Food Products,Export,Export Product share(%),24.249
+Maldives,2018,World,Minerals,Export,Export Product share(%),0.0001
+Maldives,2018,World,Fuels,Export,Export Product share(%),0.0145
+Maldives,2018,World,Chemicals,Export,Export Product share(%),0.15
+Maldives,2018,World,Plastic or Rubber,Export,Export Product share(%),0.0418
+Maldives,2018,World,Hides and Skins,Export,Export Product share(%),0.0029
+Maldives,2018,World,Wood,Export,Export Product share(%),0.0169
+Maldives,2018,World,Textiles and Clothing,Export,Export Product share(%),0
+Maldives,2018,World,Footwear,Export,Export Product share(%),0
+Maldives,2018,World,Stone and Glass,Export,Export Product share(%),0
+Maldives,2018,World,Metals,Export,Export Product share(%),1.4348
+Maldives,2018,World,Mach and Elec,Export,Export Product share(%),
+Maldives,2018,World,Transportation,Export,Export Product share(%),0.1497
+Maldives,2018,World,Miscellaneous,Export,Export Product share(%),0.0038
+Maldives,2018,World,Raw materials,Export,Export Product share(%),72.4063
+Maldives,2018,World,Intermediate goods,Export,Export Product share(%),4.8895
+Maldives,2018,World,Consumer goods,Export,Export Product share(%),22.7042
+Maldives,2018,World,Capital goods,Export,Export Product share(%),
+Maldives,2018,World,Raw materials,Import,Import Product share(%),11.9485
+Maldives,2018,World,Intermediate goods,Import,Import Product share(%),16.2423
+Maldives,2018,World,Consumer goods,Import,Import Product share(%),49.5219
+Maldives,2018,World,Capital goods,Import,Import Product share(%),22.2874
+Maldives,2018,World,Raw materials,Tariff,Weighted Average (%),1.17941945052944
+Maldives,2018,World,Intermediate goods,Tariff,Weighted Average (%),6.85164190458479
+Maldives,2018,World,Consumer goods,Tariff,Weighted Average (%),10.7548658098233
+Maldives,2018,World,Capital goods,Tariff,Weighted Average (%),21.3001835518032
+Maldives,2018,World,All Products,Trade Indicator,World Growth (%),3.49929022901836
+Maldives,2018,World,All Products,Trade Indicator,Country Growth (%),-15.2353277005702
+Maldives,2018,World,All Products,Tariff,Simple Average (%),11.6874758005823
+Maldives,2018,World,All Products,Tariff,Weighted Average (%),11.3867085245773
+Maldives,2018,World,All Products,Tariff,Maximum Rate (%),400
+Maldives,2018,World,All Products,Tariff,Duty Free Tariff Lines Share (%),35.0405656003709
+Maldives,2018,...,...,Trade Indicator,Index of export market penetration,1.51488132389393
+Maldives,2018,...,...,Trade Indicator,HH Market concentration index,0.0903883802642722
+Maldives,2019,...,...,Development,Trade Balance (% of GDP),-8.94478499
+Maldives,2019,...,...,Development,Trade in services (% of GDP),83.24881064
+Maldives,2019,...,...,Development,Trade (% of GDP),146.9915196
+Maldives,2019,...,...,Development,"GNI per capita, Atlas method (current US$)",9680

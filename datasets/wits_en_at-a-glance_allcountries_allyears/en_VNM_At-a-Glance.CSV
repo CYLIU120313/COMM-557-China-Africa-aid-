@@ -1,0 +1,104 @@
+Reporter,Year,Partner,Product categories,Indicator Type,Indicator,Indicator Value
+Vietnam,2019,United States,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,61403.96639311
+Vietnam,2019,China,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,41434.2380209
+Vietnam,2019,Japan,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,20426.60160817
+Vietnam,2019,"Korea, Rep.",All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,19729.24545974
+Vietnam,2019,"Hong Kong, China",All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,7161.56121498
+Vietnam,2019,China,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,75586.13781367
+Vietnam,2019,"Korea, Rep.",All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,46941.92949891
+Vietnam,2019,Japan,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,19532.76315532
+Vietnam,2019,"Other Asia, nes",All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,15180.87160203
+Vietnam,2019,United States,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,14376.81072946
+Vietnam,2019,World,Animal,Export,Export(US$ Mil),6288.79080083
+Vietnam,2019,World,Vegetable,Export,Export(US$ Mil),13487.23478363
+Vietnam,2019,World,Food Products,Export,Export(US$ Mil),6314.96017545
+Vietnam,2019,World,Minerals,Export,Export(US$ Mil),1854.70559767
+Vietnam,2019,World,Fuels,Export,Export(US$ Mil),3648.47070131
+Vietnam,2019,World,Chemicals,Export,Export(US$ Mil),4239.66958074
+Vietnam,2019,World,Plastic or Rubber,Export,Export(US$ Mil),9133.73495057
+Vietnam,2019,World,Hides and Skins,Export,Export(US$ Mil),3986.01743949
+Vietnam,2019,World,Wood,Export,Export(US$ Mil),5073.65139898
+Vietnam,2019,World,Textiles and Clothing,Export,Export(US$ Mil),39428.37427954
+Vietnam,2019,World,Footwear,Export,Export(US$ Mil),19530.84351845
+Vietnam,2019,World,Stone and Glass,Export,Export(US$ Mil),4126.35883285
+Vietnam,2019,World,Metals,Export,Export(US$ Mil),11414.66542965
+Vietnam,2019,World,Mach and Elec,Export,Export(US$ Mil),110195.18363713
+Vietnam,2019,World,Transportation,Export,Export(US$ Mil),4163.91634438
+Vietnam,2019,World,Miscellaneous,Export,Export(US$ Mil),21723.74517916
+Vietnam,2019,World,Raw materials,Export,Export(US$ Mil),20125.45183597
+Vietnam,2019,World,Intermediate goods,Export,Export(US$ Mil),33652.01758295
+Vietnam,2019,World,Consumer goods,Export,Export(US$ Mil),99337.80765611
+Vietnam,2019,World,Capital goods,Export,Export(US$ Mil),107022.9566944
+Vietnam,2019,World,Raw materials,Import,Import(US$ Mil),26300.30659742
+Vietnam,2019,World,Intermediate goods,Import,Import(US$ Mil),76102.89707051
+Vietnam,2019,World,Consumer goods,Import,Import(US$ Mil),39694.71858226
+Vietnam,2019,World,Capital goods,Import,Import(US$ Mil),107742.28684536
+Vietnam,2019,World,All Products,Export,Exports (in US$ Mil),264610.32264983
+Vietnam,2019,World,All Products,Import,Imports (in US$ Mil),253442.01585449
+Vietnam,2019,World,All Products,Tariff,Duty Free Imports (US$ Thousand),190711168.67871
+Vietnam,2019,...,...,Development,Trade Balance (current US$ Mil),8357
+Vietnam,2019,...,...,Development,GDP (current US$ Mil),261921
+Vietnam,2019,...,...,Tariff,No. Of Tariff Agreement,18
+Vietnam,2019,...,...,Import,No. Of Import partners,97
+Vietnam,2019,...,...,Import,No. Of Import products,4359
+Vietnam,2019,...,...,Export,No. Of Export partners,97
+Vietnam,2019,...,...,Export,No. Of Export products,3784
+Vietnam,2019,...,...,Others,Population,96462106
+Vietnam,2019,...,...,Others,Ease of Doing Business Rank,70
+Vietnam,2019,...,...,Others,Trading Across Borders Rank,104
+Vietnam,2019,...,...,Others,CPIA Trade Ratings,
+Vietnam,2018,...,...,Others,LPI Rank,39
+Vietnam,2018,...,...,Others,LPI Score,3.27
+Vietnam,2015,...,...,Others,No Of NTM Affected Products (HS 6 Digit),5204
+Vietnam,2015,...,...,Others,No Of NTM Measures,68
+Vietnam,,...,...,Others,Services Trade Restrictions Index - Over All,41.5
+Vietnam,2019,United States,All Products,Export,Partner share(%)-Top 5 Export Partner,23.2054
+Vietnam,2019,China,All Products,Export,Partner share(%)-Top 5 Export Partner,15.6586
+Vietnam,2019,Japan,All Products,Export,Partner share(%)-Top 5 Export Partner,7.7195
+Vietnam,2019,"Korea, Rep.",All Products,Export,Partner share(%)-Top 5 Export Partner,7.456
+Vietnam,2019,"Hong Kong, China",All Products,Export,Partner share(%)-Top 5 Export Partner,2.7065
+Vietnam,2019,China,All Products,Import,Partner share(%)-Top 5 Import Partner,29.8238
+Vietnam,2019,"Korea, Rep.",All Products,Import,Partner share(%)-Top 5 Import Partner,18.5218
+Vietnam,2019,Japan,All Products,Import,Partner share(%)-Top 5 Import Partner,7.707
+Vietnam,2019,"Other Asia, nes",All Products,Import,Partner share(%)-Top 5 Import Partner,5.9899
+Vietnam,2019,United States,All Products,Import,Partner share(%)-Top 5 Import Partner,5.6726
+Vietnam,2019,World,Animal,Export,Export Product share(%),2.3766
+Vietnam,2019,World,Vegetable,Export,Export Product share(%),5.097
+Vietnam,2019,World,Food Products,Export,Export Product share(%),2.3865
+Vietnam,2019,World,Minerals,Export,Export Product share(%),0.7009
+Vietnam,2019,World,Fuels,Export,Export Product share(%),1.3788
+Vietnam,2019,World,Chemicals,Export,Export Product share(%),1.6022
+Vietnam,2019,World,Plastic or Rubber,Export,Export Product share(%),3.4518
+Vietnam,2019,World,Hides and Skins,Export,Export Product share(%),1.5064
+Vietnam,2019,World,Wood,Export,Export Product share(%),1.9174
+Vietnam,2019,World,Textiles and Clothing,Export,Export Product share(%),14.9005
+Vietnam,2019,World,Footwear,Export,Export Product share(%),7.381
+Vietnam,2019,World,Stone and Glass,Export,Export Product share(%),1.5594
+Vietnam,2019,World,Metals,Export,Export Product share(%),4.3138
+Vietnam,2019,World,Mach and Elec,Export,Export Product share(%),41.6443
+Vietnam,2019,World,Transportation,Export,Export Product share(%),1.5736
+Vietnam,2019,World,Miscellaneous,Export,Export Product share(%),8.2097
+Vietnam,2019,World,Raw materials,Export,Export Product share(%),7.6057
+Vietnam,2019,World,Intermediate goods,Export,Export Product share(%),12.7176
+Vietnam,2019,World,Consumer goods,Export,Export Product share(%),37.5412
+Vietnam,2019,World,Capital goods,Export,Export Product share(%),40.4455
+Vietnam,2019,World,Raw materials,Import,Import Product share(%),10.3772
+Vietnam,2019,World,Intermediate goods,Import,Import Product share(%),30.0277
+Vietnam,2019,World,Consumer goods,Import,Import Product share(%),15.6622
+Vietnam,2019,World,Capital goods,Import,Import Product share(%),42.5116
+Vietnam,2019,World,Raw materials,Tariff,Weighted Average (%),3.6434178423911
+Vietnam,2019,World,Intermediate goods,Tariff,Weighted Average (%),1.56037890366767
+Vietnam,2019,World,Consumer goods,Tariff,Weighted Average (%),3.26762238776583
+Vietnam,2019,World,Capital goods,Tariff,Weighted Average (%),0.626017409594842
+Vietnam,2019,World,All Products,Trade Indicator,World Growth (%),-1.13475826045476
+Vietnam,2019,World,All Products,Trade Indicator,Country Growth (%),5.04160805141103
+Vietnam,2019,World,All Products,Tariff,Simple Average (%),5.68186697507647
+Vietnam,2019,World,All Products,Tariff,Weighted Average (%),1.65641094245129
+Vietnam,2019,World,All Products,Tariff,Maximum Rate (%),100
+Vietnam,2019,World,All Products,Tariff,Duty Free Tariff Lines Share (%),51.5370695049695
+Vietnam,2019,...,...,Trade Indicator,Index of export market penetration,13.2044000709058
+Vietnam,2019,...,...,Trade Indicator,HH Market concentration index,0.0936527439696613
+Vietnam,2019,...,...,Development,Trade Balance (% of GDP),3.1908547
+Vietnam,2019,...,...,Development,Trade in services (% of GDP),13.60141672
+Vietnam,2019,...,...,Development,Trade (% of GDP),210.4002453
+Vietnam,2019,...,...,Development,"GNI per capita, Atlas method (current US$)",2590

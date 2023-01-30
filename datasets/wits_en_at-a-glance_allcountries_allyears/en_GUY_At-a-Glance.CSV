@@ -1,0 +1,101 @@
+Reporter,Year,Partner,Product categories,Indicator Type,Indicator,Indicator Value
+Guyana,2019,Trinidad and Tobago,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,1239.04355745479
+Guyana,2019,Canada,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,468.6066048
+Guyana,2019,Portugal,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,424.72295909
+Guyana,2019,Ghana,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,324.33306043
+Guyana,2019,Norway,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,242.4697415
+Guyana,2019,United States,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,1807.23388009957
+Guyana,2019,Singapore,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,982.14054055
+Guyana,2019,Trinidad and Tobago,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,900.838310190001
+Guyana,2019,Liberia,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,586.25560312
+Guyana,2019,United Kingdom,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,360.05756735
+Guyana,2019,World,Animal,Export,Export(US$ Mil),78.82697271
+Guyana,2019,World,Vegetable,Export,Export(US$ Mil),178.51317859
+Guyana,2019,World,Food Products,Export,Export(US$ Mil),73.57833404
+Guyana,2019,World,Minerals,Export,Export(US$ Mil),343.39326907
+Guyana,2019,World,Fuels,Export,Export(US$ Mil),8.21850989
+Guyana,2019,World,Chemicals,Export,Export(US$ Mil),85.51019629
+Guyana,2019,World,Plastic or Rubber,Export,Export(US$ Mil),39.5076820347862
+Guyana,2019,World,Hides and Skins,Export,Export(US$ Mil),0.24272929
+Guyana,2019,World,Wood,Export,Export(US$ Mil),38.26034039
+Guyana,2019,World,Textiles and Clothing,Export,Export(US$ Mil),1.75832178
+Guyana,2019,World,Footwear,Export,Export(US$ Mil),0.31059792
+Guyana,2019,World,Stone and Glass,Export,Export(US$ Mil),696.03999414
+Guyana,2019,World,Metals,Export,Export(US$ Mil),106.31438091
+Guyana,2019,World,Mach and Elec,Export,Export(US$ Mil),528.05031064
+Guyana,2019,World,Transportation,Export,Export(US$ Mil),1606.53870676
+Guyana,2019,World,Miscellaneous,Export,Export(US$ Mil),57.43825169
+Guyana,2019,World,Raw materials,Export,Export(US$ Mil),443.32200291
+Guyana,2019,World,Intermediate goods,Export,Export(US$ Mil),873.62713625
+Guyana,2019,World,Consumer goods,Export,Export(US$ Mil),350.507842084786
+Guyana,2019,World,Capital goods,Export,Export(US$ Mil),2103.66788308
+Guyana,2019,World,Raw materials,Import,Import(US$ Mil),95.20535579
+Guyana,2019,World,Intermediate goods,Import,Import(US$ Mil),991.891453130001
+Guyana,2019,World,Consumer goods,Import,Import(US$ Mil),1294.84940462914
+Guyana,2019,World,Capital goods,Import,Import(US$ Mil),3557.34514959
+Guyana,2019,World,All Products,Export,Exports (in US$ Mil),3842.50177614478
+Guyana,2019,World,All Products,Import,Imports (in US$ Mil),5980.31202268914
+Guyana,2019,World,All Products,Tariff,Duty Free Imports (US$ Thousand),205003.959282011
+Guyana,2019,...,...,Development,Trade Balance (current US$ Mil),
+Guyana,2019,...,...,Development,GDP (current US$ Mil),5173.759528
+Guyana,2019,...,...,Tariff,No. Of Tariff Agreement,5
+Guyana,2019,...,...,Import,No. Of Import partners,136
+Guyana,2019,...,...,Import,No. Of Import products,3326
+Guyana,2019,...,...,Export,No. Of Export partners,110
+Guyana,2019,...,...,Export,No. Of Export products,1627
+Guyana,2019,...,...,Others,Population,782766
+Guyana,2019,...,...,Others,Ease of Doing Business Rank,134
+Guyana,2019,...,...,Others,Trading Across Borders Rank,151
+Guyana,2019,...,...,Others,CPIA Trade Ratings,3.5
+Guyana,2018,...,...,Others,LPI Rank,132
+Guyana,2018,...,...,Others,LPI Score,2.36
+Guyana,2019,Trinidad and Tobago,All Products,Export,Partner share(%)-Top 5 Export Partner,32.2458
+Guyana,2019,Canada,All Products,Export,Partner share(%)-Top 5 Export Partner,12.1954
+Guyana,2019,Portugal,All Products,Export,Partner share(%)-Top 5 Export Partner,11.0533
+Guyana,2019,Ghana,All Products,Export,Partner share(%)-Top 5 Export Partner,8.4407
+Guyana,2019,Norway,All Products,Export,Partner share(%)-Top 5 Export Partner,6.3102
+Guyana,2019,United States,All Products,Import,Partner share(%)-Top 5 Import Partner,30.2197
+Guyana,2019,Singapore,All Products,Import,Partner share(%)-Top 5 Import Partner,16.4229
+Guyana,2019,Trinidad and Tobago,All Products,Import,Partner share(%)-Top 5 Import Partner,15.0634
+Guyana,2019,Liberia,All Products,Import,Partner share(%)-Top 5 Import Partner,9.8031
+Guyana,2019,United Kingdom,All Products,Import,Partner share(%)-Top 5 Import Partner,6.0207
+Guyana,2019,World,Animal,Export,Export Product share(%),2.0514
+Guyana,2019,World,Vegetable,Export,Export Product share(%),4.6458
+Guyana,2019,World,Food Products,Export,Export Product share(%),1.9149
+Guyana,2019,World,Minerals,Export,Export Product share(%),8.9367
+Guyana,2019,World,Fuels,Export,Export Product share(%),0.2139
+Guyana,2019,World,Chemicals,Export,Export Product share(%),2.2254
+Guyana,2019,World,Plastic or Rubber,Export,Export Product share(%),1.0282
+Guyana,2019,World,Hides and Skins,Export,Export Product share(%),0.0063
+Guyana,2019,World,Wood,Export,Export Product share(%),0.9957
+Guyana,2019,World,Textiles and Clothing,Export,Export Product share(%),0.0458
+Guyana,2019,World,Footwear,Export,Export Product share(%),0.0081
+Guyana,2019,World,Stone and Glass,Export,Export Product share(%),18.1142
+Guyana,2019,World,Metals,Export,Export Product share(%),2.7668
+Guyana,2019,World,Mach and Elec,Export,Export Product share(%),13.7424
+Guyana,2019,World,Transportation,Export,Export Product share(%),41.8097
+Guyana,2019,World,Miscellaneous,Export,Export Product share(%),1.4948
+Guyana,2019,World,Raw materials,Export,Export Product share(%),11.5373
+Guyana,2019,World,Intermediate goods,Export,Export Product share(%),22.7359
+Guyana,2019,World,Consumer goods,Export,Export Product share(%),9.1219
+Guyana,2019,World,Capital goods,Export,Export Product share(%),54.7473
+Guyana,2019,World,Raw materials,Import,Import Product share(%),1.592
+Guyana,2019,World,Intermediate goods,Import,Import Product share(%),16.5859
+Guyana,2019,World,Consumer goods,Import,Import Product share(%),21.6519
+Guyana,2019,World,Capital goods,Import,Import Product share(%),59.4843
+Guyana,2019,World,Raw materials,Tariff,Weighted Average (%),19.393199456058
+Guyana,2019,World,Intermediate goods,Tariff,Weighted Average (%),5.26624883488228
+Guyana,2019,World,Consumer goods,Tariff,Weighted Average (%),17.5923007949885
+Guyana,2019,World,Capital goods,Tariff,Weighted Average (%),4.91749667477558
+Guyana,2019,World,All Products,Trade Indicator,World Growth (%),-1.13475826045476
+Guyana,2019,World,All Products,Trade Indicator,Country Growth (%),-3.37491284065551
+Guyana,2019,World,All Products,Tariff,Simple Average (%),9.48219917209483
+Guyana,2019,World,All Products,Tariff,Weighted Average (%),9.5484318128096
+Guyana,2019,World,All Products,Tariff,Maximum Rate (%),100
+Guyana,2019,World,All Products,Tariff,Duty Free Tariff Lines Share (%),25.2228554727459
+Guyana,2019,...,...,Trade Indicator,Index of export market penetration,1.54338963308096
+Guyana,2019,...,...,Trade Indicator,HH Market concentration index,0.157050495733745
+Guyana,2019,...,...,Development,Trade Balance (% of GDP),
+Guyana,2019,...,...,Development,Trade in services (% of GDP),31.93906105
+Guyana,2019,...,...,Development,Trade (% of GDP),
+Guyana,2019,...,...,Development,"GNI per capita, Atlas method (current US$)",6630

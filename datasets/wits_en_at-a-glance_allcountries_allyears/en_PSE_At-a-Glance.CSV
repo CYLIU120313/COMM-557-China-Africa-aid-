@@ -1,0 +1,97 @@
+Reporter,Year,Partner,Product categories,Indicator Type,Indicator,Indicator Value
+Occ.Pal.Terr,2019,Israel,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,897.562694078351
+Occ.Pal.Terr,2019,Jordan,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,71.4299192155915
+Occ.Pal.Terr,2019,United Arab Emirates,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,32.4074220959166
+Occ.Pal.Terr,2019,United States,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,19.83002104775
+Occ.Pal.Terr,2019,Saudi Arabia,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,19.3682635619793
+Occ.Pal.Terr,2019,Israel,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,3636.22274671263
+Occ.Pal.Terr,2019,Turkey,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,669.115613392115
+Occ.Pal.Terr,2019,China,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,447.272756331928
+Occ.Pal.Terr,2019,Jordan,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,296.413766566737
+Occ.Pal.Terr,2019,Germany,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,181.291453872779
+Occ.Pal.Terr,2019,World,Animal,Export,Export(US$ Mil),6.992805797716
+Occ.Pal.Terr,2019,World,Vegetable,Export,Export(US$ Mil),158.646390777803
+Occ.Pal.Terr,2019,World,Food Products,Export,Export(US$ Mil),83.0048876553905
+Occ.Pal.Terr,2019,World,Minerals,Export,Export(US$ Mil),35.8808237291967
+Occ.Pal.Terr,2019,World,Fuels,Export,Export(US$ Mil),0.9547122332588
+Occ.Pal.Terr,2019,World,Chemicals,Export,Export(US$ Mil),50.2372470826859
+Occ.Pal.Terr,2019,World,Plastic or Rubber,Export,Export(US$ Mil),95.7113587897237
+Occ.Pal.Terr,2019,World,Hides and Skins,Export,Export(US$ Mil),3.5753585675857
+Occ.Pal.Terr,2019,World,Wood,Export,Export(US$ Mil),61.5953547713637
+Occ.Pal.Terr,2019,World,Textiles and Clothing,Export,Export(US$ Mil),13.4237410718731
+Occ.Pal.Terr,2019,World,Footwear,Export,Export(US$ Mil),30.1856925366304
+Occ.Pal.Terr,2019,World,Stone and Glass,Export,Export(US$ Mil),219.191148246386
+Occ.Pal.Terr,2019,World,Metals,Export,Export(US$ Mil),159.263909038795
+Occ.Pal.Terr,2019,World,Mach and Elec,Export,Export(US$ Mil),36.7918419130781
+Occ.Pal.Terr,2019,World,Transportation,Export,Export(US$ Mil),12.213130288747
+Occ.Pal.Terr,2019,World,Miscellaneous,Export,Export(US$ Mil),136.13997199835
+Occ.Pal.Terr,2019,World,Raw materials,Export,Export(US$ Mil),176.190458755706
+Occ.Pal.Terr,2019,World,Intermediate goods,Export,Export(US$ Mil),201.721536941941
+Occ.Pal.Terr,2019,World,Consumer goods,Export,Export(US$ Mil),677.683528948571
+Occ.Pal.Terr,2019,World,Capital goods,Export,Export(US$ Mil),48.2128498523667
+Occ.Pal.Terr,2019,World,Raw materials,Import,Import(US$ Mil),684.491453946543
+Occ.Pal.Terr,2019,World,Intermediate goods,Import,Import(US$ Mil),1947.30691022463
+Occ.Pal.Terr,2019,World,Consumer goods,Import,Import(US$ Mil),3164.65351581469
+Occ.Pal.Terr,2019,World,Capital goods,Import,Import(US$ Mil),816.974289340463
+Occ.Pal.Terr,2019,World,All Products,Export,Exports (in US$ Mil),1103.80837449859
+Occ.Pal.Terr,2019,World,All Products,Import,Imports (in US$ Mil),6613.4541287452
+Occ.Pal.Terr,2017,World,All Products,Tariff,Duty Free Imports (US$ Thousand),588512.041803538
+Occ.Pal.Terr,2019,...,...,Development,Trade Balance (current US$ Mil),
+Occ.Pal.Terr,2019,...,...,Development,GDP (current US$ Mil),
+Occ.Pal.Terr,2017,...,...,Tariff,No. Of Tariff Agreement,14
+Occ.Pal.Terr,2019,...,...,Import,No. Of Import partners,127
+Occ.Pal.Terr,2019,...,...,Import,No. Of Import products,3240
+Occ.Pal.Terr,2019,...,...,Export,No. Of Export partners,67
+Occ.Pal.Terr,2019,...,...,Export,No. Of Export products,1128
+Occ.Pal.Terr,2019,...,...,Others,Population,4685306
+Occ.Pal.Terr,2019,...,...,Others,CPIA Trade Ratings,
+Occ.Pal.Terr,2019,Israel,All Products,Export,Partner share(%)-Top 5 Export Partner,81.3151
+Occ.Pal.Terr,2019,Jordan,All Products,Export,Partner share(%)-Top 5 Export Partner,6.4712
+Occ.Pal.Terr,2019,United Arab Emirates,All Products,Export,Partner share(%)-Top 5 Export Partner,2.936
+Occ.Pal.Terr,2019,United States,All Products,Export,Partner share(%)-Top 5 Export Partner,1.7965
+Occ.Pal.Terr,2019,Saudi Arabia,All Products,Export,Partner share(%)-Top 5 Export Partner,1.7547
+Occ.Pal.Terr,2019,Israel,All Products,Import,Partner share(%)-Top 5 Import Partner,54.9822
+Occ.Pal.Terr,2019,Turkey,All Products,Import,Partner share(%)-Top 5 Import Partner,10.1175
+Occ.Pal.Terr,2019,China,All Products,Import,Partner share(%)-Top 5 Import Partner,6.7631
+Occ.Pal.Terr,2019,Jordan,All Products,Import,Partner share(%)-Top 5 Import Partner,4.482
+Occ.Pal.Terr,2019,Germany,All Products,Import,Partner share(%)-Top 5 Import Partner,2.7413
+Occ.Pal.Terr,2019,World,Animal,Export,Export Product share(%),0.6335
+Occ.Pal.Terr,2019,World,Vegetable,Export,Export Product share(%),14.3726
+Occ.Pal.Terr,2019,World,Food Products,Export,Export Product share(%),7.5199
+Occ.Pal.Terr,2019,World,Minerals,Export,Export Product share(%),3.2506
+Occ.Pal.Terr,2019,World,Fuels,Export,Export Product share(%),0.0865
+Occ.Pal.Terr,2019,World,Chemicals,Export,Export Product share(%),4.5513
+Occ.Pal.Terr,2019,World,Plastic or Rubber,Export,Export Product share(%),8.671
+Occ.Pal.Terr,2019,World,Hides and Skins,Export,Export Product share(%),0.3239
+Occ.Pal.Terr,2019,World,Wood,Export,Export Product share(%),5.5803
+Occ.Pal.Terr,2019,World,Textiles and Clothing,Export,Export Product share(%),1.2161
+Occ.Pal.Terr,2019,World,Footwear,Export,Export Product share(%),2.7347
+Occ.Pal.Terr,2019,World,Stone and Glass,Export,Export Product share(%),19.8577
+Occ.Pal.Terr,2019,World,Metals,Export,Export Product share(%),14.4286
+Occ.Pal.Terr,2019,World,Mach and Elec,Export,Export Product share(%),3.3332
+Occ.Pal.Terr,2019,World,Transportation,Export,Export Product share(%),1.1065
+Occ.Pal.Terr,2019,World,Miscellaneous,Export,Export Product share(%),12.3337
+Occ.Pal.Terr,2019,World,Raw materials,Export,Export Product share(%),15.9621
+Occ.Pal.Terr,2019,World,Intermediate goods,Export,Export Product share(%),18.2751
+Occ.Pal.Terr,2019,World,Consumer goods,Export,Export Product share(%),61.395
+Occ.Pal.Terr,2019,World,Capital goods,Export,Export Product share(%),4.3679
+Occ.Pal.Terr,2019,World,Raw materials,Import,Import Product share(%),10.35
+Occ.Pal.Terr,2019,World,Intermediate goods,Import,Import Product share(%),29.4446
+Occ.Pal.Terr,2019,World,Consumer goods,Import,Import Product share(%),47.8517
+Occ.Pal.Terr,2019,World,Capital goods,Import,Import Product share(%),12.3532
+Occ.Pal.Terr,2017,World,Raw materials,Tariff,Weighted Average (%),1.69325381608273
+Occ.Pal.Terr,2017,World,Intermediate goods,Tariff,Weighted Average (%),5.0735981218917
+Occ.Pal.Terr,2017,World,Consumer goods,Tariff,Weighted Average (%),2.21143692427151
+Occ.Pal.Terr,2017,World,Capital goods,Tariff,Weighted Average (%),0.966597074830994
+Occ.Pal.Terr,2019,World,All Products,Trade Indicator,World Growth (%),-1.13475826045476
+Occ.Pal.Terr,2019,World,All Products,Trade Indicator,Country Growth (%),6.11042103935211
+Occ.Pal.Terr,2017,World,All Products,Tariff,Simple Average (%),1.85733297745921
+Occ.Pal.Terr,2017,World,All Products,Tariff,Weighted Average (%),2.18439555073273
+Occ.Pal.Terr,2017,World,All Products,Tariff,Maximum Rate (%),212
+Occ.Pal.Terr,2017,World,All Products,Tariff,Duty Free Tariff Lines Share (%),86.1605697636776
+Occ.Pal.Terr,2019,...,...,Trade Indicator,Index of export market penetration,1.42256385939079
+Occ.Pal.Terr,2019,...,...,Trade Indicator,HH Market concentration index,0.130970863862365
+Occ.Pal.Terr,2019,...,...,Development,Trade Balance (% of GDP),-38.10665525
+Occ.Pal.Terr,2019,...,...,Development,Trade in services (% of GDP),
+Occ.Pal.Terr,2019,...,...,Development,Trade (% of GDP),69.20515631
+Occ.Pal.Terr,2019,...,...,Development,"GNI per capita, Atlas method (current US$)",

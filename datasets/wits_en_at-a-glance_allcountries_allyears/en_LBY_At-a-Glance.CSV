@@ -1,0 +1,91 @@
+Reporter,Year,Partner,Product categories,Indicator Type,Indicator,Indicator Value
+Libya,2018,Italy,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,10096.07470073
+Libya,2018,China,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,4981.27245494
+Libya,2018,Spain,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,3045.92913573
+Libya,2018,France,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,2873.807736
+Libya,2018,United Arab Emirates,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,1031.5529306
+Libya,2018,Turkey,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,1498.2959891588
+Libya,2018,United Arab Emirates,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,1445.08498749503
+Libya,2018,China,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,1433.02902625882
+Libya,2018,Italy,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,1426.42276740837
+Libya,2018,Spain,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,712.123103747617
+Libya,2018,World,Animal,Export,Export(US$ Mil),37.8391713334
+Libya,2018,World,Vegetable,Export,Export(US$ Mil),6.90380516669
+Libya,2018,World,Food Products,Export,Export(US$ Mil),0.85094296966
+Libya,2018,World,Minerals,Export,Export(US$ Mil),0.708417833419
+Libya,2018,World,Fuels,Export,Export(US$ Mil),28658.0344795615
+Libya,2018,World,Chemicals,Export,Export(US$ Mil),111.216873161895
+Libya,2018,World,Plastic or Rubber,Export,Export(US$ Mil),1.534646984709
+Libya,2018,World,Hides and Skins,Export,Export(US$ Mil),5.5873258787349
+Libya,2018,World,Wood,Export,Export(US$ Mil),5.97992027243
+Libya,2018,World,Textiles and Clothing,Export,Export(US$ Mil),4.0627747121229
+Libya,2018,World,Footwear,Export,Export(US$ Mil),
+Libya,2018,World,Stone and Glass,Export,Export(US$ Mil),811.412251090858
+Libya,2018,World,Metals,Export,Export(US$ Mil),340.056185091298
+Libya,2018,World,Mach and Elec,Export,Export(US$ Mil),27.001349182042
+Libya,2018,World,Transportation,Export,Export(US$ Mil),1.812906227085
+Libya,2018,World,Miscellaneous,Export,Export(US$ Mil),27.891135045428
+Libya,2018,World,Raw materials,Export,Export(US$ Mil),25551.2788652456
+Libya,2018,World,Intermediate goods,Export,Export(US$ Mil),1067.98406882889
+Libya,2018,World,Consumer goods,Export,Export(US$ Mil),2559.51677981691
+Libya,2018,World,Capital goods,Export,Export(US$ Mil),29.288026469832
+Libya,2018,World,Raw materials,Import,Import(US$ Mil),1534.35294329536
+Libya,2018,World,Intermediate goods,Import,Import(US$ Mil),1558.30823857087
+Libya,2018,World,Consumer goods,Import,Import(US$ Mil),7812.09804503102
+Libya,2018,World,Capital goods,Import,Import(US$ Mil),2513.42921307604
+Libya,2018,World,All Products,Export,Exports (in US$ Mil),30040.8921845113
+Libya,2018,World,All Products,Import,Imports (in US$ Mil),13472.9092181131
+Libya,2019,...,...,Development,Trade Balance (current US$ Mil),5869.936119
+Libya,2019,...,...,Development,GDP (current US$ Mil),52091.152228
+Libya,2018,...,...,Import,No. Of Import partners,98
+Libya,2018,...,...,Import,No. Of Import products,3152
+Libya,2018,...,...,Export,No. Of Export partners,75
+Libya,2018,...,...,Export,No. Of Export products,336
+Libya,2019,...,...,Others,Population,6777452
+Libya,2019,...,...,Others,Ease of Doing Business Rank,186
+Libya,2019,...,...,Others,Trading Across Borders Rank,129
+Libya,2019,...,...,Others,CPIA Trade Ratings,
+Libya,2018,...,...,Others,LPI Rank,154
+Libya,2018,...,...,Others,LPI Score,2.11
+Libya,2018,Italy,All Products,Export,Partner share(%)-Top 5 Export Partner,33.6078
+Libya,2018,China,All Products,Export,Partner share(%)-Top 5 Export Partner,16.5816
+Libya,2018,Spain,All Products,Export,Partner share(%)-Top 5 Export Partner,10.1393
+Libya,2018,France,All Products,Export,Partner share(%)-Top 5 Export Partner,9.5663
+Libya,2018,United Arab Emirates,All Products,Export,Partner share(%)-Top 5 Export Partner,3.4338
+Libya,2018,Turkey,All Products,Import,Partner share(%)-Top 5 Import Partner,11.1208
+Libya,2018,United Arab Emirates,All Products,Import,Partner share(%)-Top 5 Import Partner,10.7259
+Libya,2018,China,All Products,Import,Partner share(%)-Top 5 Import Partner,10.6364
+Libya,2018,Italy,All Products,Import,Partner share(%)-Top 5 Import Partner,10.5873
+Libya,2018,Spain,All Products,Import,Partner share(%)-Top 5 Import Partner,5.2856
+Libya,2018,World,Animal,Export,Export Product share(%),0.126
+Libya,2018,World,Vegetable,Export,Export Product share(%),0.023
+Libya,2018,World,Food Products,Export,Export Product share(%),0.0028
+Libya,2018,World,Minerals,Export,Export Product share(%),0.0024
+Libya,2018,World,Fuels,Export,Export Product share(%),95.3967
+Libya,2018,World,Chemicals,Export,Export Product share(%),0.3702
+Libya,2018,World,Plastic or Rubber,Export,Export Product share(%),0.0051
+Libya,2018,World,Hides and Skins,Export,Export Product share(%),0.0186
+Libya,2018,World,Wood,Export,Export Product share(%),0.0199
+Libya,2018,World,Textiles and Clothing,Export,Export Product share(%),0.0135
+Libya,2018,World,Footwear,Export,Export Product share(%),
+Libya,2018,World,Stone and Glass,Export,Export Product share(%),2.701
+Libya,2018,World,Metals,Export,Export Product share(%),1.132
+Libya,2018,World,Mach and Elec,Export,Export Product share(%),0.0899
+Libya,2018,World,Transportation,Export,Export Product share(%),0.006
+Libya,2018,World,Miscellaneous,Export,Export Product share(%),0.0928
+Libya,2018,World,Raw materials,Export,Export Product share(%),85.055
+Libya,2018,World,Intermediate goods,Export,Export Product share(%),3.5551
+Libya,2018,World,Consumer goods,Export,Export Product share(%),8.5201
+Libya,2018,World,Capital goods,Export,Export Product share(%),0.0975
+Libya,2018,World,Raw materials,Import,Import Product share(%),11.3884
+Libya,2018,World,Intermediate goods,Import,Import Product share(%),11.5662
+Libya,2018,World,Consumer goods,Import,Import Product share(%),57.9838
+Libya,2018,World,Capital goods,Import,Import Product share(%),18.6554
+Libya,2018,World,All Products,Trade Indicator,World Growth (%),3.49929022901836
+Libya,2018,World,All Products,Trade Indicator,Country Growth (%),25.5658590964444
+Libya,2018,...,...,Trade Indicator,Index of export market penetration,1.24721543242896
+Libya,2018,...,...,Trade Indicator,HH Market concentration index,0.0895743229857374
+Libya,2019,...,...,Development,Trade Balance (% of GDP),11.26858567
+Libya,2019,...,...,Development,Trade in services (% of GDP),
+Libya,2019,...,...,Development,Trade (% of GDP),117.4730474
+Libya,2019,...,...,Development,"GNI per capita, Atlas method (current US$)",7640

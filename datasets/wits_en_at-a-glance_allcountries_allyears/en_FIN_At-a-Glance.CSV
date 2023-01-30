@@ -1,0 +1,102 @@
+Reporter,Year,Partner,Product categories,Indicator Type,Indicator,Indicator Value
+Finland,2019,Germany,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,10440.8981468375
+Finland,2019,Sweden,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,7473.35661774333
+Finland,2019,United States,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,5199.63725373399
+Finland,2019,Netherlands,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,4336.92677769983
+Finland,2019,Russian Federation,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,4016.72118674996
+Finland,2019,Germany,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,11421.9225972568
+Finland,2019,Russian Federation,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,10007.1417169982
+Finland,2019,Sweden,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,8154.87610105524
+Finland,2019,China,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,5494.26102826938
+Finland,2019,Netherlands,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,3286.0630900311
+Finland,2019,World,Animal,Export,Export(US$ Mil),822.198874336928
+Finland,2019,World,Vegetable,Export,Export(US$ Mil),333.986300616753
+Finland,2019,World,Food Products,Export,Export(US$ Mil),765.655962474697
+Finland,2019,World,Minerals,Export,Export(US$ Mil),713.615075691105
+Finland,2019,World,Fuels,Export,Export(US$ Mil),6511.46071778844
+Finland,2019,World,Chemicals,Export,Export(US$ Mil),3161.69688397819
+Finland,2019,World,Plastic or Rubber,Export,Export(US$ Mil),2920.94162423559
+Finland,2019,World,Hides and Skins,Export,Export(US$ Mil),403.578119023178
+Finland,2019,World,Wood,Export,Export(US$ Mil),13969.8398185492
+Finland,2019,World,Textiles and Clothing,Export,Export(US$ Mil),615.70248516997
+Finland,2019,World,Footwear,Export,Export(US$ Mil),152.381562319262
+Finland,2019,World,Stone and Glass,Export,Export(US$ Mil),1098.84501371499
+Finland,2019,World,Metals,Export,Export(US$ Mil),10552.7831626396
+Finland,2019,World,Mach and Elec,Export,Export(US$ Mil),15195.3927230675
+Finland,2019,World,Transportation,Export,Export(US$ Mil),8048.74549597998
+Finland,2019,World,Miscellaneous,Export,Export(US$ Mil),7572.35219367163
+Finland,2019,World,Raw materials,Export,Export(US$ Mil),2106.88250328726
+Finland,2019,World,Intermediate goods,Export,Export(US$ Mil),25956.4040449357
+Finland,2019,World,Consumer goods,Export,Export(US$ Mil),16611.5045321806
+Finland,2019,World,Capital goods,Export,Export(US$ Mil),22328.8781723084
+Finland,2019,World,Raw materials,Import,Import(US$ Mil),11070.4226455324
+Finland,2019,World,Intermediate goods,Import,Import(US$ Mil),12800.1634838432
+Finland,2019,World,Consumer goods,Import,Import(US$ Mil),22485.3557359962
+Finland,2019,World,Capital goods,Import,Import(US$ Mil),20868.1027198742
+Finland,2019,World,All Products,Export,Exports (in US$ Mil),72839.176013257
+Finland,2019,World,All Products,Import,Imports (in US$ Mil),73719.8570194126
+Finland,2019,World,All Products,Tariff,Duty Free Imports (US$ Thousand),17816493.5572748
+Finland,2019,...,...,Development,Trade Balance (current US$ Mil),850
+Finland,2019,...,...,Development,GDP (current US$ Mil),269296
+Finland,2019,...,...,Tariff,No. Of Tariff Agreement,
+Finland,2019,...,...,Import,No. Of Import partners,203
+Finland,2019,...,...,Import,No. Of Import products,4320
+Finland,2019,...,...,Export,No. Of Export partners,217
+Finland,2019,...,...,Export,No. Of Export products,3841
+Finland,2019,...,...,Others,Population,5521606
+Finland,2019,...,...,Others,Ease of Doing Business Rank,20
+Finland,2019,...,...,Others,Trading Across Borders Rank,37
+Finland,2019,...,...,Others,CPIA Trade Ratings,
+Finland,2018,...,...,Others,LPI Rank,10
+Finland,2018,...,...,Others,LPI Score,3.97
+Finland,,...,...,Others,Services Trade Restrictions Index - Over All,25.6
+Finland,2019,Germany,All Products,Export,Partner share(%)-Top 5 Export Partner,14.3342
+Finland,2019,Sweden,All Products,Export,Partner share(%)-Top 5 Export Partner,10.2601
+Finland,2019,United States,All Products,Export,Partner share(%)-Top 5 Export Partner,7.1385
+Finland,2019,Netherlands,All Products,Export,Partner share(%)-Top 5 Export Partner,5.9541
+Finland,2019,Russian Federation,All Products,Export,Partner share(%)-Top 5 Export Partner,5.5145
+Finland,2019,Germany,All Products,Import,Partner share(%)-Top 5 Import Partner,15.4937
+Finland,2019,Russian Federation,All Products,Import,Partner share(%)-Top 5 Import Partner,13.5746
+Finland,2019,Sweden,All Products,Import,Partner share(%)-Top 5 Import Partner,11.062
+Finland,2019,China,All Products,Import,Partner share(%)-Top 5 Import Partner,7.4529
+Finland,2019,Netherlands,All Products,Import,Partner share(%)-Top 5 Import Partner,4.4575
+Finland,2019,World,Animal,Export,Export Product share(%),1.1288
+Finland,2019,World,Vegetable,Export,Export Product share(%),0.4585
+Finland,2019,World,Food Products,Export,Export Product share(%),1.0512
+Finland,2019,World,Minerals,Export,Export Product share(%),0.9797
+Finland,2019,World,Fuels,Export,Export Product share(%),8.9395
+Finland,2019,World,Chemicals,Export,Export Product share(%),4.3407
+Finland,2019,World,Plastic or Rubber,Export,Export Product share(%),4.0101
+Finland,2019,World,Hides and Skins,Export,Export Product share(%),0.5541
+Finland,2019,World,Wood,Export,Export Product share(%),19.179
+Finland,2019,World,Textiles and Clothing,Export,Export Product share(%),0.8453
+Finland,2019,World,Footwear,Export,Export Product share(%),0.2092
+Finland,2019,World,Stone and Glass,Export,Export Product share(%),1.5086
+Finland,2019,World,Metals,Export,Export Product share(%),14.4878
+Finland,2019,World,Mach and Elec,Export,Export Product share(%),20.8616
+Finland,2019,World,Transportation,Export,Export Product share(%),11.05
+Finland,2019,World,Miscellaneous,Export,Export Product share(%),10.396
+Finland,2019,World,Raw materials,Export,Export Product share(%),2.8925
+Finland,2019,World,Intermediate goods,Export,Export Product share(%),35.6352
+Finland,2019,World,Consumer goods,Export,Export Product share(%),22.8057
+Finland,2019,World,Capital goods,Export,Export Product share(%),30.655
+Finland,2019,World,Raw materials,Import,Import Product share(%),15.0169
+Finland,2019,World,Intermediate goods,Import,Import Product share(%),17.3633
+Finland,2019,World,Consumer goods,Import,Import Product share(%),30.5011
+Finland,2019,World,Capital goods,Import,Import Product share(%),28.3073
+Finland,2019,World,Raw materials,Tariff,Weighted Average (%),0.261048770406297
+Finland,2019,World,Intermediate goods,Tariff,Weighted Average (%),1.36708836968469
+Finland,2019,World,Consumer goods,Tariff,Weighted Average (%),4.37561026964723
+Finland,2019,World,Capital goods,Tariff,Weighted Average (%),0.575353498492558
+Finland,2019,World,All Products,Trade Indicator,World Growth (%),-1.13475826045476
+Finland,2019,World,All Products,Trade Indicator,Country Growth (%),-2.187148998466
+Finland,2019,World,All Products,Tariff,Simple Average (%),2.94458774087642
+Finland,2019,World,All Products,Tariff,Weighted Average (%),1.58320893083907
+Finland,2019,World,All Products,Tariff,Maximum Rate (%),3000
+Finland,2019,World,All Products,Tariff,Duty Free Tariff Lines Share (%),53.1018325010449
+Finland,2019,...,...,Trade Indicator,Index of export market penetration,11.2097455947122
+Finland,2019,...,...,Trade Indicator,HH Market concentration index,0.0471998537788902
+Finland,2019,...,...,Development,Trade Balance (% of GDP),0.315934759999998
+Finland,2019,...,...,Development,Trade in services (% of GDP),27.06415387
+Finland,2019,...,...,Development,Trade (% of GDP),80.0412378
+Finland,2019,...,...,Development,"GNI per capita, Atlas method (current US$)",50000

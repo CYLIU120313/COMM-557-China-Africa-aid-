@@ -1,0 +1,104 @@
+Reporter,Year,Partner,Product categories,Indicator Type,Indicator,Indicator Value
+Nicaragua,2019,United States,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,3253.70785214
+Nicaragua,2019,El Salvador,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,294.64904798
+Nicaragua,2019,Mexico,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,293.31826344
+Nicaragua,2019,Honduras,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,248.91465344
+Nicaragua,2019,Costa Rica,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,158.67849134
+Nicaragua,2019,United States,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,1981.93674917
+Nicaragua,2019,China,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,893.85117996
+Nicaragua,2019,Mexico,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,695.32385998
+Nicaragua,2019,Honduras,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,607.90714336
+Nicaragua,2019,Guatemala,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,459.46673466
+Nicaragua,2019,World,Animal,Export,Export(US$ Mil),1023.23034767
+Nicaragua,2019,World,Vegetable,Export,Export(US$ Mil),817.23567009
+Nicaragua,2019,World,Food Products,Export,Export(US$ Mil),594.29528726
+Nicaragua,2019,World,Minerals,Export,Export(US$ Mil),2.00899997
+Nicaragua,2019,World,Fuels,Export,Export(US$ Mil),16.03046055
+Nicaragua,2019,World,Chemicals,Export,Export(US$ Mil),59.80863563
+Nicaragua,2019,World,Plastic or Rubber,Export,Export(US$ Mil),12.40215874
+Nicaragua,2019,World,Hides and Skins,Export,Export(US$ Mil),7.41286711
+Nicaragua,2019,World,Wood,Export,Export(US$ Mil),19.47782418
+Nicaragua,2019,World,Textiles and Clothing,Export,Export(US$ Mil),1547.34112309
+Nicaragua,2019,World,Footwear,Export,Export(US$ Mil),23.50363262
+Nicaragua,2019,World,Stone and Glass,Export,Export(US$ Mil),555.57284583
+Nicaragua,2019,World,Metals,Export,Export(US$ Mil),38.14769342
+Nicaragua,2019,World,Mach and Elec,Export,Export(US$ Mil),525.72649317
+Nicaragua,2019,World,Transportation,Export,Export(US$ Mil),7.10170156
+Nicaragua,2019,World,Miscellaneous,Export,Export(US$ Mil),23.25738044
+Nicaragua,2019,World,Raw materials,Export,Export(US$ Mil),1584.37045513
+Nicaragua,2019,World,Intermediate goods,Export,Export(US$ Mil),931.488569189999
+Nicaragua,2019,World,Consumer goods,Export,Export(US$ Mil),2719.55346627
+Nicaragua,2019,World,Capital goods,Export,Export(US$ Mil),36.88159201
+Nicaragua,2019,World,Raw materials,Import,Import(US$ Mil),613.10875921
+Nicaragua,2019,World,Intermediate goods,Import,Import(US$ Mil),1859.48758105
+Nicaragua,2019,World,Consumer goods,Import,Import(US$ Mil),3682.35255365001
+Nicaragua,2019,World,Capital goods,Import,Import(US$ Mil),829.13053978
+Nicaragua,2019,World,All Products,Export,Exports (in US$ Mil),5272.55312133
+Nicaragua,2019,World,All Products,Import,Imports (in US$ Mil),6985.50783044
+Nicaragua,2019,World,All Products,Tariff,Duty Free Imports (US$ Thousand),5286884.05553
+Nicaragua,2019,...,...,Development,Trade Balance (current US$ Mil),-608.815369
+Nicaragua,2019,...,...,Development,GDP (current US$ Mil),12520.915291
+Nicaragua,2019,...,...,Tariff,No. Of Tariff Agreement,16
+Nicaragua,2019,...,...,Import,No. Of Import partners,159
+Nicaragua,2019,...,...,Import,No. Of Import products,3660
+Nicaragua,2019,...,...,Export,No. Of Export partners,111
+Nicaragua,2019,...,...,Export,No. Of Export products,2125
+Nicaragua,2019,...,...,Others,Population,6545502
+Nicaragua,2019,...,...,Others,Ease of Doing Business Rank,142
+Nicaragua,2019,...,...,Others,Trading Across Borders Rank,84
+Nicaragua,2019,...,...,Others,CPIA Trade Ratings,4.5
+Nicaragua,2014,...,...,Others,No Of NTM Affected Products (HS 6 Digit),1026
+Nicaragua,2014,...,...,Others,No Of NTM Measures,55
+Nicaragua,2009,...,...,Others,Overall Trade Restrictiveness Index -  Applied Tariff,0.1165638
+Nicaragua,2009,...,...,Others,Overall Trade Restrictiveness Index - MFN Tariff,0.1543768
+Nicaragua,,...,...,Others,Services Trade Restrictions Index - Over All,12.8
+Nicaragua,2019,United States,All Products,Export,Partner share(%)-Top 5 Export Partner,61.7103
+Nicaragua,2019,El Salvador,All Products,Export,Partner share(%)-Top 5 Export Partner,5.5884
+Nicaragua,2019,Mexico,All Products,Export,Partner share(%)-Top 5 Export Partner,5.5631
+Nicaragua,2019,Honduras,All Products,Export,Partner share(%)-Top 5 Export Partner,4.721
+Nicaragua,2019,Costa Rica,All Products,Export,Partner share(%)-Top 5 Export Partner,3.0095
+Nicaragua,2019,United States,All Products,Import,Partner share(%)-Top 5 Import Partner,28.3721
+Nicaragua,2019,China,All Products,Import,Partner share(%)-Top 5 Import Partner,12.7958
+Nicaragua,2019,Mexico,All Products,Import,Partner share(%)-Top 5 Import Partner,9.9538
+Nicaragua,2019,Honduras,All Products,Import,Partner share(%)-Top 5 Import Partner,8.7024
+Nicaragua,2019,Guatemala,All Products,Import,Partner share(%)-Top 5 Import Partner,6.5774
+Nicaragua,2019,World,Animal,Export,Export Product share(%),19.4067
+Nicaragua,2019,World,Vegetable,Export,Export Product share(%),15.4998
+Nicaragua,2019,World,Food Products,Export,Export Product share(%),11.2715
+Nicaragua,2019,World,Minerals,Export,Export Product share(%),0.0381
+Nicaragua,2019,World,Fuels,Export,Export Product share(%),0.304
+Nicaragua,2019,World,Chemicals,Export,Export Product share(%),1.1343
+Nicaragua,2019,World,Plastic or Rubber,Export,Export Product share(%),0.2352
+Nicaragua,2019,World,Hides and Skins,Export,Export Product share(%),0.1406
+Nicaragua,2019,World,Wood,Export,Export Product share(%),0.3694
+Nicaragua,2019,World,Textiles and Clothing,Export,Export Product share(%),29.3471
+Nicaragua,2019,World,Footwear,Export,Export Product share(%),0.4458
+Nicaragua,2019,World,Stone and Glass,Export,Export Product share(%),10.5371
+Nicaragua,2019,World,Metals,Export,Export Product share(%),0.7235
+Nicaragua,2019,World,Mach and Elec,Export,Export Product share(%),9.971
+Nicaragua,2019,World,Transportation,Export,Export Product share(%),0.1347
+Nicaragua,2019,World,Miscellaneous,Export,Export Product share(%),0.4411
+Nicaragua,2019,World,Raw materials,Export,Export Product share(%),30.0494
+Nicaragua,2019,World,Intermediate goods,Export,Export Product share(%),17.6667
+Nicaragua,2019,World,Consumer goods,Export,Export Product share(%),51.5794
+Nicaragua,2019,World,Capital goods,Export,Export Product share(%),0.6995
+Nicaragua,2019,World,Raw materials,Import,Import Product share(%),8.7769
+Nicaragua,2019,World,Intermediate goods,Import,Import Product share(%),26.6192
+Nicaragua,2019,World,Consumer goods,Import,Import Product share(%),52.7142
+Nicaragua,2019,World,Capital goods,Import,Import Product share(%),11.8693
+Nicaragua,2019,World,Raw materials,Tariff,Weighted Average (%),2.56413787980399
+Nicaragua,2019,World,Intermediate goods,Tariff,Weighted Average (%),1.43145354762283
+Nicaragua,2019,World,Consumer goods,Tariff,Weighted Average (%),1.53487790233042
+Nicaragua,2019,World,Capital goods,Tariff,Weighted Average (%),1.11593447288631
+Nicaragua,2019,World,All Products,Trade Indicator,World Growth (%),-1.13475826045476
+Nicaragua,2019,World,All Products,Trade Indicator,Country Growth (%),5.75333550747219
+Nicaragua,2019,World,All Products,Tariff,Simple Average (%),3.18839128924036
+Nicaragua,2019,World,All Products,Tariff,Weighted Average (%),1.86042694128953
+Nicaragua,2019,World,All Products,Tariff,Maximum Rate (%),164
+Nicaragua,2019,World,All Products,Tariff,Duty Free Tariff Lines Share (%),64.6000497605275
+Nicaragua,2019,...,...,Trade Indicator,Index of export market penetration,2.41235328226731
+Nicaragua,2019,...,...,Trade Indicator,HH Market concentration index,0.423932588337513
+Nicaragua,2019,...,...,Development,Trade Balance (% of GDP),-4.86238709000001
+Nicaragua,2019,...,...,Development,Trade in services (% of GDP),17.61772162
+Nicaragua,2019,...,...,Development,Trade (% of GDP),95.07588362
+Nicaragua,2019,...,...,Development,"GNI per capita, Atlas method (current US$)",1890

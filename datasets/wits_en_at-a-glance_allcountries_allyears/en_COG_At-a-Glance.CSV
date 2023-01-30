@@ -1,0 +1,96 @@
+Reporter,Year,Partner,Product categories,Indicator Type,Indicator,Indicator Value
+"Congo, Rep.",2019,China,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,3333.65456602137
+"Congo, Rep.",2019,India,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,735.945305086506
+"Congo, Rep.",2019,Netherlands,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,229.088266211197
+"Congo, Rep.",2019,United States,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,183.354579869963
+"Congo, Rep.",2019,Spain,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,144.914477030103
+"Congo, Rep.",2019,France,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,336.825672528067
+"Congo, Rep.",2019,China,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,256.302353254411
+"Congo, Rep.",2019,Belgium,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,230.838912568655
+"Congo, Rep.",2019,Angola,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,137.641536481852
+"Congo, Rep.",2019,United States,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,109.586211338972
+"Congo, Rep.",2019,World,Animal,Export,Export(US$ Mil),6.35444005866782
+"Congo, Rep.",2019,World,Vegetable,Export,Export(US$ Mil),0.60591323037546
+"Congo, Rep.",2019,World,Food Products,Export,Export(US$ Mil),15.0017466534848
+"Congo, Rep.",2019,World,Minerals,Export,Export(US$ Mil),9.17588495033523
+"Congo, Rep.",2019,World,Fuels,Export,Export(US$ Mil),4680.44192998814
+"Congo, Rep.",2019,World,Chemicals,Export,Export(US$ Mil),6.02419794255619
+"Congo, Rep.",2019,World,Plastic or Rubber,Export,Export(US$ Mil),1.93085143707588
+"Congo, Rep.",2019,World,Hides and Skins,Export,Export(US$ Mil),0.28310492915558
+"Congo, Rep.",2019,World,Wood,Export,Export(US$ Mil),335.737956128108
+"Congo, Rep.",2019,World,Textiles and Clothing,Export,Export(US$ Mil),1.951656303963
+"Congo, Rep.",2019,World,Footwear,Export,Export(US$ Mil),0.16039644352522
+"Congo, Rep.",2019,World,Stone and Glass,Export,Export(US$ Mil),0.590874777986123
+"Congo, Rep.",2019,World,Metals,Export,Export(US$ Mil),104.422397572737
+"Congo, Rep.",2019,World,Mach and Elec,Export,Export(US$ Mil),83.0937216729326
+"Congo, Rep.",2019,World,Transportation,Export,Export(US$ Mil),311.791953027961
+"Congo, Rep.",2019,World,Miscellaneous,Export,Export(US$ Mil),18.3752950816122
+"Congo, Rep.",2019,World,Raw materials,Export,Export(US$ Mil),4613.15288551869
+"Congo, Rep.",2019,World,Intermediate goods,Export,Export(US$ Mil),253.178972589899
+"Congo, Rep.",2019,World,Consumer goods,Export,Export(US$ Mil),293.604657881651
+"Congo, Rep.",2019,World,Capital goods,Export,Export(US$ Mil),410.380210705367
+"Congo, Rep.",2019,World,Raw materials,Import,Import(US$ Mil),308.348531592273
+"Congo, Rep.",2019,World,Intermediate goods,Import,Import(US$ Mil),323.591767882611
+"Congo, Rep.",2019,World,Consumer goods,Import,Import(US$ Mil),714.862511344608
+"Congo, Rep.",2019,World,Capital goods,Import,Import(US$ Mil),889.382085957565
+"Congo, Rep.",2019,World,All Products,Export,Exports (in US$ Mil),5575.94232019862
+"Congo, Rep.",2019,World,All Products,Import,Imports (in US$ Mil),2242.42760861794
+"Congo, Rep.",2015,World,All Products,Tariff,Duty Free Imports (US$ Thousand),191855.374
+"Congo, Rep.",2015,...,...,Tariff,No. Of Tariff Agreement,2
+"Congo, Rep.",2019,...,...,Import,No. Of Import partners,138
+"Congo, Rep.",2019,...,...,Import,No. Of Import products,3308
+"Congo, Rep.",2019,...,...,Export,No. Of Export partners,116
+"Congo, Rep.",2019,...,...,Export,No. Of Export products,1071
+"Congo, Rep.",2019,...,...,Others,Population,5380508
+"Congo, Rep.",2019,...,...,Others,Ease of Doing Business Rank,180
+"Congo, Rep.",2019,...,...,Others,Trading Across Borders Rank,183
+"Congo, Rep.",2019,...,...,Others,CPIA Trade Ratings,3.5
+"Congo, Rep.",2018,...,...,Others,LPI Rank,115
+"Congo, Rep.",2018,...,...,Others,LPI Score,2.49
+"Congo, Rep.",,...,...,Others,Services Trade Restrictions Index - Over All,51.7
+"Congo, Rep.",2019,China,All Products,Export,Partner share(%)-Top 5 Export Partner,59.7864
+"Congo, Rep.",2019,India,All Products,Export,Partner share(%)-Top 5 Export Partner,13.1986
+"Congo, Rep.",2019,Netherlands,All Products,Export,Partner share(%)-Top 5 Export Partner,4.1085
+"Congo, Rep.",2019,United States,All Products,Export,Partner share(%)-Top 5 Export Partner,3.2883
+"Congo, Rep.",2019,Spain,All Products,Export,Partner share(%)-Top 5 Export Partner,2.5989
+"Congo, Rep.",2019,France,All Products,Import,Partner share(%)-Top 5 Import Partner,15.0206
+"Congo, Rep.",2019,China,All Products,Import,Partner share(%)-Top 5 Import Partner,11.4297
+"Congo, Rep.",2019,Belgium,All Products,Import,Partner share(%)-Top 5 Import Partner,10.2942
+"Congo, Rep.",2019,Angola,All Products,Import,Partner share(%)-Top 5 Import Partner,6.1381
+"Congo, Rep.",2019,United States,All Products,Import,Partner share(%)-Top 5 Import Partner,4.8869
+"Congo, Rep.",2019,World,Animal,Export,Export Product share(%),0.114
+"Congo, Rep.",2019,World,Vegetable,Export,Export Product share(%),0.0109
+"Congo, Rep.",2019,World,Food Products,Export,Export Product share(%),0.269
+"Congo, Rep.",2019,World,Minerals,Export,Export Product share(%),0.1646
+"Congo, Rep.",2019,World,Fuels,Export,Export Product share(%),83.9399
+"Congo, Rep.",2019,World,Chemicals,Export,Export Product share(%),0.108
+"Congo, Rep.",2019,World,Plastic or Rubber,Export,Export Product share(%),0.0346
+"Congo, Rep.",2019,World,Hides and Skins,Export,Export Product share(%),0.0051
+"Congo, Rep.",2019,World,Wood,Export,Export Product share(%),6.0212
+"Congo, Rep.",2019,World,Textiles and Clothing,Export,Export Product share(%),0.035
+"Congo, Rep.",2019,World,Footwear,Export,Export Product share(%),0.0029
+"Congo, Rep.",2019,World,Stone and Glass,Export,Export Product share(%),0.0106
+"Congo, Rep.",2019,World,Metals,Export,Export Product share(%),1.8727
+"Congo, Rep.",2019,World,Mach and Elec,Export,Export Product share(%),1.4902
+"Congo, Rep.",2019,World,Transportation,Export,Export Product share(%),5.5917
+"Congo, Rep.",2019,World,Miscellaneous,Export,Export Product share(%),0.3295
+"Congo, Rep.",2019,World,Raw materials,Export,Export Product share(%),82.7332
+"Congo, Rep.",2019,World,Intermediate goods,Export,Export Product share(%),4.5406
+"Congo, Rep.",2019,World,Consumer goods,Export,Export Product share(%),5.2656
+"Congo, Rep.",2019,World,Capital goods,Export,Export Product share(%),7.3598
+"Congo, Rep.",2019,World,Raw materials,Import,Import Product share(%),13.7507
+"Congo, Rep.",2019,World,Intermediate goods,Import,Import Product share(%),14.4304
+"Congo, Rep.",2019,World,Consumer goods,Import,Import Product share(%),31.879
+"Congo, Rep.",2019,World,Capital goods,Import,Import Product share(%),39.6616
+"Congo, Rep.",2015,World,Raw materials,Tariff,Weighted Average (%),29.0065731634159
+"Congo, Rep.",2015,World,Intermediate goods,Tariff,Weighted Average (%),10.2050507590255
+"Congo, Rep.",2015,World,Consumer goods,Tariff,Weighted Average (%),14.7236763313725
+"Congo, Rep.",2015,World,Capital goods,Tariff,Weighted Average (%),7.14601954979779
+"Congo, Rep.",2019,World,All Products,Trade Indicator,World Growth (%),-1.13475826045476
+"Congo, Rep.",2019,World,All Products,Trade Indicator,Country Growth (%),-1.65975782433552
+"Congo, Rep.",2015,World,All Products,Tariff,Simple Average (%),12.9108927176731
+"Congo, Rep.",2015,World,All Products,Tariff,Weighted Average (%),11.5492528806427
+"Congo, Rep.",2015,World,All Products,Tariff,Maximum Rate (%),35
+"Congo, Rep.",2015,World,All Products,Tariff,Duty Free Tariff Lines Share (%),5.07353205566143
+"Congo, Rep.",2019,...,...,Trade Indicator,Index of export market penetration,1.61213002612372
+"Congo, Rep.",2019,...,...,Trade Indicator,HH Market concentration index,0.327349148797358

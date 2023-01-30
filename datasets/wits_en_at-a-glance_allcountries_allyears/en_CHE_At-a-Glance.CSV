@@ -1,0 +1,103 @@
+Reporter,Year,Partner,Product categories,Indicator Type,Indicator,Indicator Value
+Switzerland,2019,Germany,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,47900.1112025372
+Switzerland,2019,United States,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,43852.8480480324
+Switzerland,2019,United Kingdom,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,28306.9353322548
+Switzerland,2019,China,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,21535.002689305
+Switzerland,2019,France,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,19382.3785672298
+Switzerland,2019,Germany,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,57405.5191975698
+Switzerland,2019,Italy,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,22349.7317783913
+Switzerland,2019,United States,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,18804.2359754027
+Switzerland,2019,France,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,18782.0247667999
+Switzerland,2019,United Kingdom,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,16254.0978698334
+Switzerland,2019,World,Animal,Export,Export(US$ Mil),863.984782988846
+Switzerland,2019,World,Vegetable,Export,Export(US$ Mil),2829.59530266605
+Switzerland,2019,World,Food Products,Export,Export(US$ Mil),5888.25452156411
+Switzerland,2019,World,Minerals,Export,Export(US$ Mil),274.058874914829
+Switzerland,2019,World,Fuels,Export,Export(US$ Mil),2549.77789494951
+Switzerland,2019,World,Chemicals,Export,Export(US$ Mil),112448.694925479
+Switzerland,2019,World,Plastic or Rubber,Export,Export(US$ Mil),5664.88931201499
+Switzerland,2019,World,Hides and Skins,Export,Export(US$ Mil),844.108541678853
+Switzerland,2019,World,Wood,Export,Export(US$ Mil),2394.51560044102
+Switzerland,2019,World,Textiles and Clothing,Export,Export(US$ Mil),3765.89857355638
+Switzerland,2019,World,Footwear,Export,Export(US$ Mil),1045.29838996796
+Switzerland,2019,World,Stone and Glass,Export,Export(US$ Mil),80682.9698297553
+Switzerland,2019,World,Metals,Export,Export(US$ Mil),9367.24323044251
+Switzerland,2019,World,Mach and Elec,Export,Export(US$ Mil),35054.0227756801
+Switzerland,2019,World,Transportation,Export,Export(US$ Mil),6000.68855544964
+Switzerland,2019,World,Miscellaneous,Export,Export(US$ Mil),43955.5490905947
+Switzerland,2019,World,Raw materials,Export,Export(US$ Mil),1973.01564952326
+Switzerland,2019,World,Intermediate goods,Export,Export(US$ Mil),141310.204031201
+Switzerland,2019,World,Consumer goods,Export,Export(US$ Mil),113061.980294621
+Switzerland,2019,World,Capital goods,Export,Export(US$ Mil),53814.9872312855
+Switzerland,2019,World,Raw materials,Import,Import(US$ Mil),8822.18298365726
+Switzerland,2019,World,Intermediate goods,Import,Import(US$ Mil),113671.653837562
+Switzerland,2019,World,Consumer goods,Import,Import(US$ Mil),106119.251120471
+Switzerland,2019,World,Capital goods,Import,Import(US$ Mil),47406.4397592152
+Switzerland,2019,World,All Products,Export,Exports (in US$ Mil),313629.550202144
+Switzerland,2019,World,All Products,Import,Imports (in US$ Mil),276291.811281178
+Switzerland,2019,World,All Products,Tariff,Duty Free Imports (US$ Thousand),238259502.833922
+Switzerland,2019,...,...,Development,Trade Balance (current US$ Mil),88789
+Switzerland,2019,...,...,Development,GDP (current US$ Mil),703082
+Switzerland,2019,...,...,Tariff,No. Of Tariff Agreement,44
+Switzerland,2019,...,...,Import,No. Of Import partners,198
+Switzerland,2019,...,...,Import,No. Of Import products,4518
+Switzerland,2019,...,...,Export,No. Of Export partners,222
+Switzerland,2019,...,...,Export,No. Of Export products,4304
+Switzerland,2019,...,...,Others,Population,8575280
+Switzerland,2019,...,...,Others,Ease of Doing Business Rank,36
+Switzerland,2019,...,...,Others,Trading Across Borders Rank,26
+Switzerland,2019,...,...,Others,CPIA Trade Ratings,
+Switzerland,2018,...,...,Others,LPI Rank,13
+Switzerland,2018,...,...,Others,LPI Score,3.9
+Switzerland,2009,...,...,Others,Overall Trade Restrictiveness Index -  Applied Tariff,0.035908
+Switzerland,2009,...,...,Others,Overall Trade Restrictiveness Index - MFN Tariff,0.0510602
+Switzerland,2019,Germany,All Products,Export,Partner share(%)-Top 5 Export Partner,15.2728
+Switzerland,2019,United States,All Products,Export,Partner share(%)-Top 5 Export Partner,13.9824
+Switzerland,2019,United Kingdom,All Products,Export,Partner share(%)-Top 5 Export Partner,9.0256
+Switzerland,2019,China,All Products,Export,Partner share(%)-Top 5 Export Partner,6.8664
+Switzerland,2019,France,All Products,Export,Partner share(%)-Top 5 Export Partner,6.18
+Switzerland,2019,Germany,All Products,Import,Partner share(%)-Top 5 Import Partner,20.7771
+Switzerland,2019,Italy,All Products,Import,Partner share(%)-Top 5 Import Partner,8.0892
+Switzerland,2019,United States,All Products,Import,Partner share(%)-Top 5 Import Partner,6.8059
+Switzerland,2019,France,All Products,Import,Partner share(%)-Top 5 Import Partner,6.7979
+Switzerland,2019,United Kingdom,All Products,Import,Partner share(%)-Top 5 Import Partner,5.8829
+Switzerland,2019,World,Animal,Export,Export Product share(%),0.2755
+Switzerland,2019,World,Vegetable,Export,Export Product share(%),0.9022
+Switzerland,2019,World,Food Products,Export,Export Product share(%),1.8775
+Switzerland,2019,World,Minerals,Export,Export Product share(%),0.0874
+Switzerland,2019,World,Fuels,Export,Export Product share(%),0.813
+Switzerland,2019,World,Chemicals,Export,Export Product share(%),35.854
+Switzerland,2019,World,Plastic or Rubber,Export,Export Product share(%),1.8062
+Switzerland,2019,World,Hides and Skins,Export,Export Product share(%),0.2691
+Switzerland,2019,World,Wood,Export,Export Product share(%),0.7635
+Switzerland,2019,World,Textiles and Clothing,Export,Export Product share(%),1.2007
+Switzerland,2019,World,Footwear,Export,Export Product share(%),0.3333
+Switzerland,2019,World,Stone and Glass,Export,Export Product share(%),25.7256
+Switzerland,2019,World,Metals,Export,Export Product share(%),2.9867
+Switzerland,2019,World,Mach and Elec,Export,Export Product share(%),11.1769
+Switzerland,2019,World,Transportation,Export,Export Product share(%),1.9133
+Switzerland,2019,World,Miscellaneous,Export,Export Product share(%),14.0151
+Switzerland,2019,World,Raw materials,Export,Export Product share(%),0.6291
+Switzerland,2019,World,Intermediate goods,Export,Export Product share(%),45.0564
+Switzerland,2019,World,Consumer goods,Export,Export Product share(%),36.0495
+Switzerland,2019,World,Capital goods,Export,Export Product share(%),17.1588
+Switzerland,2019,World,Raw materials,Import,Import Product share(%),3.1931
+Switzerland,2019,World,Intermediate goods,Import,Import Product share(%),41.1419
+Switzerland,2019,World,Consumer goods,Import,Import Product share(%),38.4084
+Switzerland,2019,World,Capital goods,Import,Import Product share(%),17.1581
+Switzerland,2019,World,Raw materials,Tariff,Weighted Average (%),22.765689464255
+Switzerland,2019,World,Intermediate goods,Tariff,Weighted Average (%),0.392453585406005
+Switzerland,2019,World,Consumer goods,Tariff,Weighted Average (%),13.8571005314122
+Switzerland,2019,World,Capital goods,Tariff,Weighted Average (%),0.0340920445545082
+Switzerland,2019,World,All Products,Trade Indicator,World Growth (%),-1.13475826045476
+Switzerland,2019,World,All Products,Trade Indicator,Country Growth (%),-1.52493409646911
+Switzerland,2019,World,All Products,Tariff,Simple Average (%),5.412493811857
+Switzerland,2019,World,All Products,Tariff,Weighted Average (%),6.12195826942045
+Switzerland,2019,World,All Products,Tariff,Maximum Rate (%),3000
+Switzerland,2019,World,All Products,Tariff,Duty Free Tariff Lines Share (%),74.4123089150223
+Switzerland,2019,...,...,Trade Indicator,Index of export market penetration,19.2121088014733
+Switzerland,2019,...,...,Trade Indicator,HH Market concentration index,0.0709286264146173
+Switzerland,2019,...,...,Development,Trade Balance (% of GDP),12.62858126
+Switzerland,2019,...,...,Development,Trade in services (% of GDP),36.08842959
+Switzerland,2019,...,...,Development,Trade (% of GDP),119.4384956
+Switzerland,2019,...,...,Development,"GNI per capita, Atlas method (current US$)",85490

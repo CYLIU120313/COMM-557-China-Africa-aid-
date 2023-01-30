@@ -1,0 +1,101 @@
+Reporter,Year,Partner,Product categories,Indicator Type,Indicator,Indicator Value
+Estonia,2019,Finland,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,2617.81830148612
+Estonia,2019,Sweden,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,1686.35086505548
+Estonia,2019,Latvia,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,1463.44205892211
+Estonia,2019,Russian Federation,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,1408.23763962154
+Estonia,2019,United States,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,1149.922059755
+Estonia,2019,Germany,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,1832.75901245337
+Estonia,2019,Russian Federation,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,1783.96470047267
+Estonia,2019,Finland,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,1607.53852252115
+Estonia,2019,China,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,1512.42937463926
+Estonia,2019,Lithuania,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,1198.84662784951
+Estonia,2019,World,Animal,Export,Export(US$ Mil),485.278666267374
+Estonia,2019,World,Vegetable,Export,Export(US$ Mil),524.201102087889
+Estonia,2019,World,Food Products,Export,Export(US$ Mil),676.664183618811
+Estonia,2019,World,Minerals,Export,Export(US$ Mil),60.2094186277064
+Estonia,2019,World,Fuels,Export,Export(US$ Mil),2022.45235746283
+Estonia,2019,World,Chemicals,Export,Export(US$ Mil),864.969776400374
+Estonia,2019,World,Plastic or Rubber,Export,Export(US$ Mil),548.445804532898
+Estonia,2019,World,Hides and Skins,Export,Export(US$ Mil),31.1558695029101
+Estonia,2019,World,Wood,Export,Export(US$ Mil),2063.08495681433
+Estonia,2019,World,Textiles and Clothing,Export,Export(US$ Mil),453.300600279029
+Estonia,2019,World,Footwear,Export,Export(US$ Mil),65.6808493034475
+Estonia,2019,World,Stone and Glass,Export,Export(US$ Mil),380.296286563367
+Estonia,2019,World,Metals,Export,Export(US$ Mil),1349.176527918
+Estonia,2019,World,Mach and Elec,Export,Export(US$ Mil),3953.52552310112
+Estonia,2019,World,Transportation,Export,Export(US$ Mil),1222.67711734178
+Estonia,2019,World,Miscellaneous,Export,Export(US$ Mil),2117.55925810015
+Estonia,2019,World,Raw materials,Export,Export(US$ Mil),1555.98781638667
+Estonia,2019,World,Intermediate goods,Export,Export(US$ Mil),3402.78994763813
+Estonia,2019,World,Consumer goods,Export,Export(US$ Mil),6142.73778167986
+Estonia,2019,World,Capital goods,Export,Export(US$ Mil),5154.64551114909
+Estonia,2019,World,Raw materials,Import,Import(US$ Mil),868.674284884154
+Estonia,2019,World,Intermediate goods,Import,Import(US$ Mil),4225.27723143491
+Estonia,2019,World,Consumer goods,Import,Import(US$ Mil),7867.91732670413
+Estonia,2019,World,Capital goods,Import,Import(US$ Mil),4563.28408432286
+Estonia,2019,World,All Products,Export,Exports (in US$ Mil),16818.678297922
+Estonia,2019,World,All Products,Import,Imports (in US$ Mil),18664.1632704377
+Estonia,2019,World,All Products,Tariff,Duty Free Imports (US$ Thousand),2885564.87239625
+Estonia,2019,...,...,Development,Trade Balance (current US$ Mil),1262.501932
+Estonia,2019,...,...,Development,GDP (current US$ Mil),31471.100656
+Estonia,2019,...,...,Tariff,No. Of Tariff Agreement,
+Estonia,2019,...,...,Import,No. Of Import partners,185
+Estonia,2019,...,...,Import,No. Of Import products,4207
+Estonia,2019,...,...,Export,No. Of Export partners,182
+Estonia,2019,...,...,Export,No. Of Export products,3709
+Estonia,2019,...,...,Others,Population,1326898
+Estonia,2019,...,...,Others,Ease of Doing Business Rank,18
+Estonia,2019,...,...,Others,Trading Across Borders Rank,17
+Estonia,2019,...,...,Others,CPIA Trade Ratings,
+Estonia,2018,...,...,Others,LPI Rank,36
+Estonia,2018,...,...,Others,LPI Score,3.31
+Estonia,2019,Finland,All Products,Export,Partner share(%)-Top 5 Export Partner,15.5649
+Estonia,2019,Sweden,All Products,Export,Partner share(%)-Top 5 Export Partner,10.0267
+Estonia,2019,Latvia,All Products,Export,Partner share(%)-Top 5 Export Partner,8.7013
+Estonia,2019,Russian Federation,All Products,Export,Partner share(%)-Top 5 Export Partner,8.3731
+Estonia,2019,United States,All Products,Export,Partner share(%)-Top 5 Export Partner,6.8372
+Estonia,2019,Germany,All Products,Import,Partner share(%)-Top 5 Import Partner,9.8197
+Estonia,2019,Russian Federation,All Products,Import,Partner share(%)-Top 5 Import Partner,9.5582
+Estonia,2019,Finland,All Products,Import,Partner share(%)-Top 5 Import Partner,8.613
+Estonia,2019,China,All Products,Import,Partner share(%)-Top 5 Import Partner,8.1034
+Estonia,2019,Lithuania,All Products,Import,Partner share(%)-Top 5 Import Partner,6.4233
+Estonia,2019,World,Animal,Export,Export Product share(%),2.8854
+Estonia,2019,World,Vegetable,Export,Export Product share(%),3.1168
+Estonia,2019,World,Food Products,Export,Export Product share(%),4.0233
+Estonia,2019,World,Minerals,Export,Export Product share(%),0.358
+Estonia,2019,World,Fuels,Export,Export Product share(%),12.025
+Estonia,2019,World,Chemicals,Export,Export Product share(%),5.1429
+Estonia,2019,World,Plastic or Rubber,Export,Export Product share(%),3.2609
+Estonia,2019,World,Hides and Skins,Export,Export Product share(%),0.1852
+Estonia,2019,World,Wood,Export,Export Product share(%),12.2666
+Estonia,2019,World,Textiles and Clothing,Export,Export Product share(%),2.6952
+Estonia,2019,World,Footwear,Export,Export Product share(%),0.3905
+Estonia,2019,World,Stone and Glass,Export,Export Product share(%),2.2612
+Estonia,2019,World,Metals,Export,Export Product share(%),8.0219
+Estonia,2019,World,Mach and Elec,Export,Export Product share(%),23.5068
+Estonia,2019,World,Transportation,Export,Export Product share(%),7.2698
+Estonia,2019,World,Miscellaneous,Export,Export Product share(%),12.5905
+Estonia,2019,World,Raw materials,Export,Export Product share(%),9.2515
+Estonia,2019,World,Intermediate goods,Export,Export Product share(%),20.2322
+Estonia,2019,World,Consumer goods,Export,Export Product share(%),36.5233
+Estonia,2019,World,Capital goods,Export,Export Product share(%),30.6483
+Estonia,2019,World,Raw materials,Import,Import Product share(%),4.6542
+Estonia,2019,World,Intermediate goods,Import,Import Product share(%),22.6384
+Estonia,2019,World,Consumer goods,Import,Import Product share(%),42.1552
+Estonia,2019,World,Capital goods,Import,Import Product share(%),24.4494
+Estonia,2019,World,Raw materials,Tariff,Weighted Average (%),4.19361865252995
+Estonia,2019,World,Intermediate goods,Tariff,Weighted Average (%),2.0461254733982
+Estonia,2019,World,Consumer goods,Tariff,Weighted Average (%),4.21975797779023
+Estonia,2019,World,Capital goods,Tariff,Weighted Average (%),1.04234091213737
+Estonia,2019,World,All Products,Trade Indicator,World Growth (%),-1.13475826045476
+Estonia,2019,World,All Products,Trade Indicator,Country Growth (%),-1.71618840454987
+Estonia,2019,World,All Products,Tariff,Simple Average (%),3.07834963736306
+Estonia,2019,World,All Products,Tariff,Weighted Average (%),2.60487488797853
+Estonia,2019,World,All Products,Tariff,Maximum Rate (%),3000
+Estonia,2019,World,All Products,Tariff,Duty Free Tariff Lines Share (%),48.0751024365121
+Estonia,2019,...,...,Trade Indicator,Index of export market penetration,6.47098678399596
+Estonia,2019,...,...,Trade Indicator,HH Market concentration index,0.0602593080200281
+Estonia,2019,...,...,Development,Trade Balance (% of GDP),4.01162306000001
+Estonia,2019,...,...,Development,Trade in services (% of GDP),43.86734952
+Estonia,2019,...,...,Development,Trade (% of GDP),141.8060266
+Estonia,2019,...,...,Development,"GNI per capita, Atlas method (current US$)",23250

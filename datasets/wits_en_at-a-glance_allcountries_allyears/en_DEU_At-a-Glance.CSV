@@ -1,0 +1,102 @@
+Reporter,Year,Partner,Product categories,Indicator Type,Indicator,Indicator Value
+Germany,2019,United States,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,133545.758292919
+Germany,2019,France,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,119249.537119852
+Germany,2019,China,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,108330.594451445
+Germany,2019,Netherlands,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,92760.19493244
+Germany,2019,United Kingdom,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,88405.5720989485
+Germany,2019,China,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,124354.300873851
+Germany,2019,Netherlands,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,97401.3775742514
+Germany,2019,United States,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,81475.2741415496
+Germany,2019,France,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,74051.2224017722
+Germany,2019,Poland,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,64465.7265395
+Germany,2019,World,Animal,Export,Export(US$ Mil),23646.656871512
+Germany,2019,World,Vegetable,Export,Export(US$ Mil),17212.0291831724
+Germany,2019,World,Food Products,Export,Export(US$ Mil),45312.3760994396
+Germany,2019,World,Minerals,Export,Export(US$ Mil),3785.50523130347
+Germany,2019,World,Fuels,Export,Export(US$ Mil),34063.8113808423
+Germany,2019,World,Chemicals,Export,Export(US$ Mil),192060.985285507
+Germany,2019,World,Plastic or Rubber,Export,Export(US$ Mil),77736.6901348379
+Germany,2019,World,Hides and Skins,Export,Export(US$ Mil),3708.10433662862
+Germany,2019,World,Wood,Export,Export(US$ Mil),37532.4460398914
+Germany,2019,World,Textiles and Clothing,Export,Export(US$ Mil),38971.4413225663
+Germany,2019,World,Footwear,Export,Export(US$ Mil),9979.81303703051
+Germany,2019,World,Stone and Glass,Export,Export(US$ Mil),32884.8436916876
+Germany,2019,World,Metals,Export,Export(US$ Mil),107121.732596808
+Germany,2019,World,Mach and Elec,Export,Export(US$ Mil),415057.091394211
+Germany,2019,World,Transportation,Export,Export(US$ Mil),298824.091837531
+Germany,2019,World,Miscellaneous,Export,Export(US$ Mil),155368.945407463
+Germany,2019,World,Raw materials,Export,Export(US$ Mil),37518.4296374227
+Germany,2019,World,Intermediate goods,Export,Export(US$ Mil),279414.572420185
+Germany,2019,World,Consumer goods,Export,Export(US$ Mil),519148.199374516
+Germany,2019,World,Capital goods,Export,Export(US$ Mil),599247.668335351
+Germany,2019,World,Raw materials,Import,Import(US$ Mil),116806.557571062
+Germany,2019,World,Intermediate goods,Import,Import(US$ Mil),245973.087422324
+Germany,2019,World,Consumer goods,Import,Import(US$ Mil),428944.853146349
+Germany,2019,World,Capital goods,Import,Import(US$ Mil),380953.640027241
+Germany,2019,World,All Products,Export,Exports (in US$ Mil),1493266.56385043
+Germany,2019,World,All Products,Import,Imports (in US$ Mil),1239897.20313191
+Germany,2019,World,All Products,Tariff,Duty Free Imports (US$ Thousand),330151504.496783
+Germany,2019,...,...,Development,Trade Balance (current US$ Mil),223810
+Germany,2019,...,...,Development,GDP (current US$ Mil),3861120
+Germany,2019,...,...,Tariff,No. Of Tariff Agreement,
+Germany,2019,...,...,Import,No. Of Import partners,231
+Germany,2019,...,...,Import,No. Of Import products,4497
+Germany,2019,...,...,Export,No. Of Export partners,232
+Germany,2019,...,...,Export,No. Of Export products,4413
+Germany,2019,...,...,Others,Population,83092962
+Germany,2019,...,...,Others,Ease of Doing Business Rank,22
+Germany,2019,...,...,Others,Trading Across Borders Rank,42
+Germany,2019,...,...,Others,CPIA Trade Ratings,
+Germany,2018,...,...,Others,LPI Rank,1
+Germany,2018,...,...,Others,LPI Score,4.2
+Germany,,...,...,Others,Services Trade Restrictions Index - Over All,17.5
+Germany,2019,United States,All Products,Export,Partner share(%)-Top 5 Export Partner,8.9432
+Germany,2019,France,All Products,Export,Partner share(%)-Top 5 Export Partner,7.9858
+Germany,2019,China,All Products,Export,Partner share(%)-Top 5 Export Partner,7.2546
+Germany,2019,Netherlands,All Products,Export,Partner share(%)-Top 5 Export Partner,6.2119
+Germany,2019,United Kingdom,All Products,Export,Partner share(%)-Top 5 Export Partner,5.9203
+Germany,2019,China,All Products,Import,Partner share(%)-Top 5 Import Partner,10.0294
+Germany,2019,Netherlands,All Products,Import,Partner share(%)-Top 5 Import Partner,7.8556
+Germany,2019,United States,All Products,Import,Partner share(%)-Top 5 Import Partner,6.5711
+Germany,2019,France,All Products,Import,Partner share(%)-Top 5 Import Partner,5.9724
+Germany,2019,Poland,All Products,Import,Partner share(%)-Top 5 Import Partner,5.1993
+Germany,2019,World,Animal,Export,Export Product share(%),1.5836
+Germany,2019,World,Vegetable,Export,Export Product share(%),1.1526
+Germany,2019,World,Food Products,Export,Export Product share(%),3.0344
+Germany,2019,World,Minerals,Export,Export Product share(%),0.2535
+Germany,2019,World,Fuels,Export,Export Product share(%),2.2812
+Germany,2019,World,Chemicals,Export,Export Product share(%),12.8618
+Germany,2019,World,Plastic or Rubber,Export,Export Product share(%),5.2058
+Germany,2019,World,Hides and Skins,Export,Export Product share(%),0.2483
+Germany,2019,World,Wood,Export,Export Product share(%),2.5134
+Germany,2019,World,Textiles and Clothing,Export,Export Product share(%),2.6098
+Germany,2019,World,Footwear,Export,Export Product share(%),0.6683
+Germany,2019,World,Stone and Glass,Export,Export Product share(%),2.2022
+Germany,2019,World,Metals,Export,Export Product share(%),7.1737
+Germany,2019,World,Mach and Elec,Export,Export Product share(%),27.7952
+Germany,2019,World,Transportation,Export,Export Product share(%),20.0114
+Germany,2019,World,Miscellaneous,Export,Export Product share(%),10.4046
+Germany,2019,World,Raw materials,Export,Export Product share(%),2.5125
+Germany,2019,World,Intermediate goods,Export,Export Product share(%),18.7116
+Germany,2019,World,Consumer goods,Export,Export Product share(%),34.7659
+Germany,2019,World,Capital goods,Export,Export Product share(%),40.13
+Germany,2019,World,Raw materials,Import,Import Product share(%),9.4207
+Germany,2019,World,Intermediate goods,Import,Import Product share(%),19.8382
+Germany,2019,World,Consumer goods,Import,Import Product share(%),34.5952
+Germany,2019,World,Capital goods,Import,Import Product share(%),30.7246
+Germany,2019,World,Raw materials,Tariff,Weighted Average (%),1.12617828261814
+Germany,2019,World,Intermediate goods,Tariff,Weighted Average (%),1.95341011283618
+Germany,2019,World,Consumer goods,Tariff,Weighted Average (%),3.07344612010942
+Germany,2019,World,Capital goods,Tariff,Weighted Average (%),0.66395531732378
+Germany,2019,World,All Products,Trade Indicator,World Growth (%),-1.13475826045476
+Germany,2019,World,All Products,Trade Indicator,Country Growth (%),-2.51941345540414
+Germany,2019,World,All Products,Tariff,Simple Average (%),2.55675023217767
+Germany,2019,World,All Products,Tariff,Weighted Average (%),1.83181010188124
+Germany,2019,World,All Products,Tariff,Maximum Rate (%),3000
+Germany,2019,World,All Products,Tariff,Duty Free Tariff Lines Share (%),58.1629689015924
+Germany,2019,...,...,Trade Indicator,Index of export market penetration,39.034375228524
+Germany,2019,...,...,Trade Indicator,HH Market concentration index,0.0365020596303909
+Germany,2019,...,...,Development,Trade Balance (% of GDP),5.79669764
+Germany,2019,...,...,Development,Trade in services (% of GDP),18.57777433
+Germany,2019,...,...,Development,Trade (% of GDP),87.98912744
+Germany,2019,...,...,Development,"GNI per capita, Atlas method (current US$)",48600

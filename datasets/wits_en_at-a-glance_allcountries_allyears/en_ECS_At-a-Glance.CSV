@@ -1,0 +1,97 @@
+Reporter,Year,Partner,Product categories,Indicator Type,Indicator,Indicator Value
+,2019,Germany,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,894488.691133413
+,2019,United States,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,566623.422916251
+,2019,France,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,494235.885934048
+,2019,United Kingdom,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,420476.361658837
+,2019,Netherlands,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,363158.491459631
+,2019,Germany,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,908052.560704044
+,2019,China,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,637874.475661143
+,2019,United States,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,416504.907824708
+,2019,Netherlands,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,387380.509817586
+,2019,France,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,372183.645178006
+,2019,World,Animal,Export,Export(US$ Mil),181529.961194854
+,2019,World,Vegetable,Export,Export(US$ Mil),199202.322871309
+,2019,World,Food Products,Export,Export(US$ Mil),317538.303959031
+,2019,World,Minerals,Export,Export(US$ Mil),42855.2698488269
+,2019,World,Fuels,Export,Export(US$ Mil),672047.820386464
+,2019,World,Chemicals,Export,Export(US$ Mil),1009498.773077
+,2019,World,Plastic or Rubber,Export,Export(US$ Mil),336174.891300406
+,2019,World,Hides and Skins,Export,Export(US$ Mil),48098.4239458627
+,2019,World,Wood,Export,Export(US$ Mil),207494.917420784
+,2019,World,Textiles and Clothing,Export,Export(US$ Mil),251488.29932614
+,2019,World,Footwear,Export,Export(US$ Mil),62335.0575400955
+,2019,World,Stone and Glass,Export,Export(US$ Mil),303248.736876371
+,2019,World,Metals,Export,Export(US$ Mil),548755.988131654
+,2019,World,Mach and Elec,Export,Export(US$ Mil),1496156.64516845
+,2019,World,Transportation,Export,Export(US$ Mil),974072.476419085
+,2019,World,Miscellaneous,Export,Export(US$ Mil),666729.272851836
+,2019,World,Raw materials,Export,Export(US$ Mil),622443.394619093
+,2019,World,Intermediate goods,Export,Export(US$ Mil),1646468.09526086
+,2019,World,Consumer goods,Export,Export(US$ Mil),2702048.91206013
+,2019,World,Capital goods,Export,Export(US$ Mil),2078202.60584412
+,2019,World,Raw materials,Import,Import(US$ Mil),738139.587351726
+,2019,World,Intermediate goods,Import,Import(US$ Mil),1597462.13852387
+,2019,World,Consumer goods,Import,Import(US$ Mil),2537654.80340189
+,2019,World,Capital goods,Import,Import(US$ Mil),2007302.94101774
+,2019,World,All Products,Export,Exports (in US$ Mil),7317227.16031816
+,2019,World,All Products,Import,Imports (in US$ Mil),7078515.20381085
+,2019,World,All Products,Tariff,Duty Free Imports (US$ Thousand),2124457307.28968
+,2019,...,...,Development,Trade Balance (current US$ Mil),790280
+,2019,...,...,Development,GDP (current US$ Mil),22792800
+,2019,...,...,Tariff,No. Of Tariff Agreement,562
+,2019,...,...,Import,No. Of Import partners,237
+,2019,...,...,Import,No. Of Import products,4608
+,2019,...,...,Export,No. Of Export partners,237
+,2019,...,...,Export,No. Of Export products,4589
+,2019,...,...,Others,Population,921192974
+,2019,...,...,Others,CPIA Trade Ratings,4.2
+,2019,Germany,All Products,Export,Partner share(%)-Top 5 Export Partner,12.2244
+,2019,United States,All Products,Export,Partner share(%)-Top 5 Export Partner,7.7437
+,2019,France,All Products,Export,Partner share(%)-Top 5 Export Partner,6.7544
+,2019,United Kingdom,All Products,Export,Partner share(%)-Top 5 Export Partner,5.7464
+,2019,Netherlands,All Products,Export,Partner share(%)-Top 5 Export Partner,4.9631
+,2019,Germany,All Products,Import,Partner share(%)-Top 5 Import Partner,12.8283
+,2019,China,All Products,Import,Partner share(%)-Top 5 Import Partner,9.0114
+,2019,United States,All Products,Import,Partner share(%)-Top 5 Import Partner,5.8841
+,2019,Netherlands,All Products,Import,Partner share(%)-Top 5 Import Partner,5.4726
+,2019,France,All Products,Import,Partner share(%)-Top 5 Import Partner,5.2579
+,2019,World,Animal,Export,Export Product share(%),2.4809
+,2019,World,Vegetable,Export,Export Product share(%),2.7224
+,2019,World,Food Products,Export,Export Product share(%),4.3396
+,2019,World,Minerals,Export,Export Product share(%),0.5857
+,2019,World,Fuels,Export,Export Product share(%),9.1845
+,2019,World,Chemicals,Export,Export Product share(%),13.7962
+,2019,World,Plastic or Rubber,Export,Export Product share(%),4.5943
+,2019,World,Hides and Skins,Export,Export Product share(%),0.6573
+,2019,World,Wood,Export,Export Product share(%),2.8357
+,2019,World,Textiles and Clothing,Export,Export Product share(%),3.4369
+,2019,World,Footwear,Export,Export Product share(%),0.8519
+,2019,World,Stone and Glass,Export,Export Product share(%),4.1443
+,2019,World,Metals,Export,Export Product share(%),7.4995
+,2019,World,Mach and Elec,Export,Export Product share(%),20.447
+,2019,World,Transportation,Export,Export Product share(%),13.312
+,2019,World,Miscellaneous,Export,Export Product share(%),9.1118
+,2019,World,Raw materials,Export,Export Product share(%),8.5065
+,2019,World,Intermediate goods,Export,Export Product share(%),22.5013
+,2019,World,Consumer goods,Export,Export Product share(%),36.9272
+,2019,World,Capital goods,Export,Export Product share(%),28.4015
+,2019,World,Raw materials,Import,Import Product share(%),10.4279
+,2019,World,Intermediate goods,Import,Import Product share(%),22.5678
+,2019,World,Consumer goods,Import,Import Product share(%),35.8501
+,2019,World,Capital goods,Import,Import Product share(%),28.3577
+,2019,World,Raw materials,Tariff,Weighted Average (%),1.51253382577771
+,2019,World,Intermediate goods,Tariff,Weighted Average (%),1.59864014116841
+,2019,World,Consumer goods,Tariff,Weighted Average (%),5.30195966468909
+,2019,World,Capital goods,Tariff,Weighted Average (%),0.9497258415986
+,2019,World,All Products,Trade Indicator,World Growth (%),
+,2019,World,All Products,Trade Indicator,Country Growth (%),
+,2019,World,All Products,Tariff,Simple Average (%),3.76251483921065
+,2019,World,All Products,Tariff,Weighted Average (%),2.69456878321916
+,2019,World,All Products,Tariff,Maximum Rate (%),3000
+,2019,World,All Products,Tariff,Duty Free Tariff Lines Share (%),56.3517777148787
+,2019,...,...,Trade Indicator,Index of export market penetration,
+,2019,...,...,Trade Indicator,HH Market concentration index,
+,2019,...,...,Development,Trade Balance (% of GDP),3.26377333
+,2019,...,...,Development,Trade in services (% of GDP),24.94823962
+,2019,...,...,Development,Trade (% of GDP),84.32783743
+,2019,...,...,Development,"GNI per capita, Atlas method (current US$)",25203.44661

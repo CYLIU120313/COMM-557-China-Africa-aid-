@@ -1,0 +1,104 @@
+Reporter,Year,Partner,Product categories,Indicator Type,Indicator,Indicator Value
+Mongolia,2019,China,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,6772.66287355
+Mongolia,2019,United Kingdom,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,291.09222815
+Mongolia,2019,Singapore,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,154.580629
+Mongolia,2019,Switzerland,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,74.9863432
+Mongolia,2019,Russian Federation,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,68.0933011
+Mongolia,2019,China,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,2036.80506696
+Mongolia,2019,Russian Federation,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,1729.8637068
+Mongolia,2019,Japan,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,585.477274439999
+Mongolia,2019,United States,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,289.626805518
+Mongolia,2019,"Korea, Rep.",All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,266.96519458
+Mongolia,2019,World,Animal,Export,Export(US$ Mil),97.61045248
+Mongolia,2019,World,Vegetable,Export,Export(US$ Mil),13.11815876
+Mongolia,2019,World,Food Products,Export,Export(US$ Mil),61.85636433
+Mongolia,2019,World,Minerals,Export,Export(US$ Mil),2892.364707184
+Mongolia,2019,World,Fuels,Export,Export(US$ Mil),3485.10400514
+Mongolia,2019,World,Chemicals,Export,Export(US$ Mil),2.26419715
+Mongolia,2019,World,Plastic or Rubber,Export,Export(US$ Mil),1.2813727
+Mongolia,2019,World,Hides and Skins,Export,Export(US$ Mil),14.11981089
+Mongolia,2019,World,Wood,Export,Export(US$ Mil),0.64723966
+Mongolia,2019,World,Textiles and Clothing,Export,Export(US$ Mil),434.67230356
+Mongolia,2019,World,Footwear,Export,Export(US$ Mil),2.54385916
+Mongolia,2019,World,Stone and Glass,Export,Export(US$ Mil),419.21453646
+Mongolia,2019,World,Metals,Export,Export(US$ Mil),77.892900044
+Mongolia,2019,World,Mach and Elec,Export,Export(US$ Mil),34.789946653
+Mongolia,2019,World,Transportation,Export,Export(US$ Mil),78.60228281
+Mongolia,2019,World,Miscellaneous,Export,Export(US$ Mil),3.67176298
+Mongolia,2019,World,Raw materials,Export,Export(US$ Mil),6775.024079474
+Mongolia,2019,World,Intermediate goods,Export,Export(US$ Mil),590.177147514
+Mongolia,2019,World,Consumer goods,Export,Export(US$ Mil),145.452339023
+Mongolia,2019,World,Capital goods,Export,Export(US$ Mil),109.10033395
+Mongolia,2019,World,Raw materials,Import,Import(US$ Mil),143.65324862
+Mongolia,2019,World,Intermediate goods,Import,Import(US$ Mil),970.185998359999
+Mongolia,2019,World,Consumer goods,Import,Import(US$ Mil),3022.436394331
+Mongolia,2019,World,Capital goods,Import,Import(US$ Mil),1991.07937311
+Mongolia,2019,World,All Products,Export,Exports (in US$ Mil),7619.753899961
+Mongolia,2019,World,All Products,Import,Imports (in US$ Mil),6127.355631501
+Mongolia,2019,World,All Products,Tariff,Duty Free Imports (US$ Thousand),214934.56158
+Mongolia,2019,...,...,Development,Trade Balance (current US$ Mil),-841.231872
+Mongolia,2019,...,...,Development,GDP (current US$ Mil),13996.719329
+Mongolia,2019,...,...,Tariff,No. Of Tariff Agreement,2
+Mongolia,2019,...,...,Import,No. Of Import partners,147
+Mongolia,2019,...,...,Import,No. Of Import products,3502
+Mongolia,2019,...,...,Export,No. Of Export partners,78
+Mongolia,2019,...,...,Export,No. Of Export products,1178
+Mongolia,2019,...,...,Others,Population,3225167
+Mongolia,2019,...,...,Others,Ease of Doing Business Rank,81
+Mongolia,2019,...,...,Others,Trading Across Borders Rank,143
+Mongolia,2019,...,...,Others,CPIA Trade Ratings,4
+Mongolia,2018,...,...,Others,LPI Rank,130
+Mongolia,2018,...,...,Others,LPI Score,2.37
+Mongolia,2009,...,...,Others,Overall Trade Restrictiveness Index -  Applied Tariff,0.0494368
+Mongolia,2009,...,...,Others,Overall Trade Restrictiveness Index - MFN Tariff,0.0494368
+Mongolia,,...,...,Others,Services Trade Restrictions Index - Over All,13.7
+Mongolia,2019,China,All Products,Export,Partner share(%)-Top 5 Export Partner,88.883
+Mongolia,2019,United Kingdom,All Products,Export,Partner share(%)-Top 5 Export Partner,3.8202
+Mongolia,2019,Singapore,All Products,Export,Partner share(%)-Top 5 Export Partner,2.0287
+Mongolia,2019,Switzerland,All Products,Export,Partner share(%)-Top 5 Export Partner,0.9841
+Mongolia,2019,Russian Federation,All Products,Export,Partner share(%)-Top 5 Export Partner,0.8936
+Mongolia,2019,China,All Products,Import,Partner share(%)-Top 5 Import Partner,33.2412
+Mongolia,2019,Russian Federation,All Products,Import,Partner share(%)-Top 5 Import Partner,28.2318
+Mongolia,2019,Japan,All Products,Import,Partner share(%)-Top 5 Import Partner,9.5551
+Mongolia,2019,United States,All Products,Import,Partner share(%)-Top 5 Import Partner,4.7268
+Mongolia,2019,"Korea, Rep.",All Products,Import,Partner share(%)-Top 5 Import Partner,4.3569
+Mongolia,2019,World,Animal,Export,Export Product share(%),1.281
+Mongolia,2019,World,Vegetable,Export,Export Product share(%),0.1722
+Mongolia,2019,World,Food Products,Export,Export Product share(%),0.8118
+Mongolia,2019,World,Minerals,Export,Export Product share(%),37.9588
+Mongolia,2019,World,Fuels,Export,Export Product share(%),45.7378
+Mongolia,2019,World,Chemicals,Export,Export Product share(%),0.0297
+Mongolia,2019,World,Plastic or Rubber,Export,Export Product share(%),0.0168
+Mongolia,2019,World,Hides and Skins,Export,Export Product share(%),0.1853
+Mongolia,2019,World,Wood,Export,Export Product share(%),0.0085
+Mongolia,2019,World,Textiles and Clothing,Export,Export Product share(%),5.7045
+Mongolia,2019,World,Footwear,Export,Export Product share(%),0.0334
+Mongolia,2019,World,Stone and Glass,Export,Export Product share(%),5.5017
+Mongolia,2019,World,Metals,Export,Export Product share(%),1.0222
+Mongolia,2019,World,Mach and Elec,Export,Export Product share(%),0.4566
+Mongolia,2019,World,Transportation,Export,Export Product share(%),1.0316
+Mongolia,2019,World,Miscellaneous,Export,Export Product share(%),0.0482
+Mongolia,2019,World,Raw materials,Export,Export Product share(%),88.9139
+Mongolia,2019,World,Intermediate goods,Export,Export Product share(%),7.7454
+Mongolia,2019,World,Consumer goods,Export,Export Product share(%),1.9089
+Mongolia,2019,World,Capital goods,Export,Export Product share(%),1.4318
+Mongolia,2019,World,Raw materials,Import,Import Product share(%),2.3445
+Mongolia,2019,World,Intermediate goods,Import,Import Product share(%),15.8337
+Mongolia,2019,World,Consumer goods,Import,Import Product share(%),49.3269
+Mongolia,2019,World,Capital goods,Import,Import Product share(%),32.4949
+Mongolia,2019,World,Raw materials,Tariff,Weighted Average (%),5.41794104140476
+Mongolia,2019,World,Intermediate goods,Tariff,Weighted Average (%),5.03127417406853
+Mongolia,2019,World,Consumer goods,Tariff,Weighted Average (%),6.38845848571357
+Mongolia,2019,World,Capital goods,Tariff,Weighted Average (%),4.47962412057476
+Mongolia,2019,World,All Products,Trade Indicator,World Growth (%),-1.13475826045476
+Mongolia,2019,World,All Products,Trade Indicator,Country Growth (%),-1.40091069401692
+Mongolia,2019,World,All Products,Tariff,Simple Average (%),5.02778084450147
+Mongolia,2019,World,All Products,Tariff,Weighted Average (%),5.30657902251777
+Mongolia,2019,World,All Products,Tariff,Maximum Rate (%),40
+Mongolia,2019,World,All Products,Tariff,Duty Free Tariff Lines Share (%),4.19757201989055
+Mongolia,2019,...,...,Trade Indicator,Index of export market penetration,1.90780809031044
+Mongolia,2019,...,...,Trade Indicator,HH Market concentration index,0.763073953199788
+Mongolia,2019,...,...,Development,Trade Balance (% of GDP),-6.01020748
+Mongolia,2019,...,...,Development,Trade in services (% of GDP),31.84446896
+Mongolia,2019,...,...,Development,Trade (% of GDP),126.2180656
+Mongolia,2019,...,...,Development,"GNI per capita, Atlas method (current US$)",3790

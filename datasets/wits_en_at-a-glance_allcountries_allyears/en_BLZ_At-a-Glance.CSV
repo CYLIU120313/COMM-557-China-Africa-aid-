@@ -1,0 +1,101 @@
+Reporter,Year,Partner,Product categories,Indicator Type,Indicator,Indicator Value
+Belize,2019,United Kingdom,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,82.0075637491
+Belize,2019,United States,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,62.126282345
+Belize,2019,Ireland,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,15.76407954215
+Belize,2019,Jamaica,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,15.40216643475
+Belize,2019,Trinidad and Tobago,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,9.84285278625
+Belize,2019,United States,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,435.80000669655
+Belize,2019,China,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,134.073431885
+Belize,2019,Mexico,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,107.503173375
+Belize,2019,Guatemala,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,75.5522361810001
+Belize,2019,Panama,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,28.49611511
+Belize,2019,World,Animal,Export,Export(US$ Mil),24.491666918
+Belize,2019,World,Vegetable,Export,Export(US$ Mil),51.97912794185
+Belize,2019,World,Food Products,Export,Export(US$ Mil),118.22848882125
+Belize,2019,World,Minerals,Export,Export(US$ Mil),0.00194628
+Belize,2019,World,Fuels,Export,Export(US$ Mil),21.804367232
+Belize,2019,World,Chemicals,Export,Export(US$ Mil),7.66091682
+Belize,2019,World,Plastic or Rubber,Export,Export(US$ Mil),0.54990447
+Belize,2019,World,Hides and Skins,Export,Export(US$ Mil),0.06645095
+Belize,2019,World,Wood,Export,Export(US$ Mil),6.20521383
+Belize,2019,World,Textiles and Clothing,Export,Export(US$ Mil),1.51520565
+Belize,2019,World,Footwear,Export,Export(US$ Mil),0.264265205
+Belize,2019,World,Stone and Glass,Export,Export(US$ Mil),3.258393635
+Belize,2019,World,Metals,Export,Export(US$ Mil),1.73770775
+Belize,2019,World,Mach and Elec,Export,Export(US$ Mil),2.259300775
+Belize,2019,World,Transportation,Export,Export(US$ Mil),1.66331659
+Belize,2019,World,Miscellaneous,Export,Export(US$ Mil),3.22256334
+Belize,2019,World,Raw materials,Export,Export(US$ Mil),76.3030484571
+Belize,2019,World,Intermediate goods,Export,Export(US$ Mil),94.842206801
+Belize,2019,World,Consumer goods,Export,Export(US$ Mil),69.2671005649999
+Belize,2019,World,Capital goods,Export,Export(US$ Mil),3.962345055
+Belize,2019,World,Raw materials,Import,Import(US$ Mil),27.10656619
+Belize,2019,World,Intermediate goods,Import,Import(US$ Mil),144.410853515
+Belize,2019,World,Consumer goods,Import,Import(US$ Mil),633.14438659605
+Belize,2019,World,Capital goods,Import,Import(US$ Mil),179.657542945
+Belize,2019,World,All Products,Export,Exports (in US$ Mil),244.9088362081
+Belize,2019,World,All Products,Import,Imports (in US$ Mil),985.90434390255
+Belize,2019,World,All Products,Tariff,Duty Free Imports (US$ Thousand),171091.35092
+Belize,2019,...,...,Development,Trade Balance (current US$ Mil),-5.74355
+Belize,2019,...,...,Development,GDP (current US$ Mil),1879.6136
+Belize,2019,...,...,Tariff,No. Of Tariff Agreement,6
+Belize,2019,...,...,Import,No. Of Import partners,113
+Belize,2019,...,...,Import,No. Of Import products,3198
+Belize,2019,...,...,Export,No. Of Export partners,79
+Belize,2019,...,...,Export,No. Of Export products,777
+Belize,2019,...,...,Others,Population,390353
+Belize,2019,...,...,Others,Ease of Doing Business Rank,135
+Belize,2019,...,...,Others,Trading Across Borders Rank,114
+Belize,2019,...,...,Others,CPIA Trade Ratings,
+Belize,2009,...,...,Others,Overall Trade Restrictiveness Index -  Applied Tariff,0.0716068
+Belize,2009,...,...,Others,Overall Trade Restrictiveness Index - MFN Tariff,0.0736294
+Belize,2019,United Kingdom,All Products,Export,Partner share(%)-Top 5 Export Partner,33.4849
+Belize,2019,United States,All Products,Export,Partner share(%)-Top 5 Export Partner,25.3671
+Belize,2019,Ireland,All Products,Export,Partner share(%)-Top 5 Export Partner,6.4367
+Belize,2019,Jamaica,All Products,Export,Partner share(%)-Top 5 Export Partner,6.2889
+Belize,2019,Trinidad and Tobago,All Products,Export,Partner share(%)-Top 5 Export Partner,4.019
+Belize,2019,United States,All Products,Import,Partner share(%)-Top 5 Import Partner,44.2031
+Belize,2019,China,All Products,Import,Partner share(%)-Top 5 Import Partner,13.599
+Belize,2019,Mexico,All Products,Import,Partner share(%)-Top 5 Import Partner,10.904
+Belize,2019,Guatemala,All Products,Import,Partner share(%)-Top 5 Import Partner,7.6632
+Belize,2019,Panama,All Products,Import,Partner share(%)-Top 5 Import Partner,2.8904
+Belize,2019,World,Animal,Export,Export Product share(%),10.0003
+Belize,2019,World,Vegetable,Export,Export Product share(%),21.2239
+Belize,2019,World,Food Products,Export,Export Product share(%),48.2745
+Belize,2019,World,Minerals,Export,Export Product share(%),0.0008
+Belize,2019,World,Fuels,Export,Export Product share(%),8.9031
+Belize,2019,World,Chemicals,Export,Export Product share(%),3.1281
+Belize,2019,World,Plastic or Rubber,Export,Export Product share(%),0.2245
+Belize,2019,World,Hides and Skins,Export,Export Product share(%),0.0271
+Belize,2019,World,Wood,Export,Export Product share(%),2.5337
+Belize,2019,World,Textiles and Clothing,Export,Export Product share(%),0.6187
+Belize,2019,World,Footwear,Export,Export Product share(%),0.1079
+Belize,2019,World,Stone and Glass,Export,Export Product share(%),1.3305
+Belize,2019,World,Metals,Export,Export Product share(%),0.7095
+Belize,2019,World,Mach and Elec,Export,Export Product share(%),0.9225
+Belize,2019,World,Transportation,Export,Export Product share(%),0.6792
+Belize,2019,World,Miscellaneous,Export,Export Product share(%),1.3158
+Belize,2019,World,Raw materials,Export,Export Product share(%),31.1557
+Belize,2019,World,Intermediate goods,Export,Export Product share(%),38.7255
+Belize,2019,World,Consumer goods,Export,Export Product share(%),28.2828
+Belize,2019,World,Capital goods,Export,Export Product share(%),1.6179
+Belize,2019,World,Raw materials,Import,Import Product share(%),2.7494
+Belize,2019,World,Intermediate goods,Import,Import Product share(%),14.6476
+Belize,2019,World,Consumer goods,Import,Import Product share(%),64.2197
+Belize,2019,World,Capital goods,Import,Import Product share(%),18.2226
+Belize,2019,World,Raw materials,Tariff,Weighted Average (%),11.0253236827405
+Belize,2019,World,Intermediate goods,Tariff,Weighted Average (%),6.10991462812478
+Belize,2019,World,Consumer goods,Tariff,Weighted Average (%),14.6084012776755
+Belize,2019,World,Capital goods,Tariff,Weighted Average (%),6.87498480279544
+Belize,2019,World,All Products,Trade Indicator,World Growth (%),-1.13475826045476
+Belize,2019,World,All Products,Trade Indicator,Country Growth (%),-22.4961257819823
+Belize,2019,World,All Products,Tariff,Simple Average (%),10.8802219609789
+Belize,2019,World,All Products,Tariff,Weighted Average (%),11.1702783110874
+Belize,2019,World,All Products,Tariff,Maximum Rate (%),100
+Belize,2019,World,All Products,Tariff,Duty Free Tariff Lines Share (%),18.3907095920982
+Belize,2019,...,...,Trade Indicator,Index of export market penetration,1.51682603751221
+Belize,2019,...,...,Trade Indicator,HH Market concentration index,0.168597371906708
+Belize,2019,...,...,Development,Trade Balance (% of GDP),-0.305570779999996
+Belize,2019,...,...,Development,Trade in services (% of GDP),49.53903794
+Belize,2019,...,...,Development,Trade (% of GDP),115.710072
+Belize,2019,...,...,Development,"GNI per capita, Atlas method (current US$)",4480

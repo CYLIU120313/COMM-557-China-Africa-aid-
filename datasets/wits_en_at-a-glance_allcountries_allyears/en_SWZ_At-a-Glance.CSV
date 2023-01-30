@@ -1,0 +1,101 @@
+Reporter,Year,Partner,Product categories,Indicator Type,Indicator,Indicator Value
+Eswatini,2019,South Africa,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,1332.95178125
+Eswatini,2019,Kenya,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,126.59034365
+Eswatini,2019,Nigeria,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,99.74816562
+Eswatini,2019,Mozambique,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,70.92434552
+Eswatini,2019,Tanzania,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,37.67101146
+Eswatini,2019,South Africa,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,1337.04971982
+Eswatini,2019,China,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,131.19684112
+Eswatini,2019,Mozambique,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,43.82161407
+Eswatini,2019,India,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,37.96136662
+Eswatini,2019,United States,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,29.31067966
+Eswatini,2019,World,Animal,Export,Export(US$ Mil),4.15032816
+Eswatini,2019,World,Vegetable,Export,Export(US$ Mil),20.48165237
+Eswatini,2019,World,Food Products,Export,Export(US$ Mil),582.21542482
+Eswatini,2019,World,Minerals,Export,Export(US$ Mil),0.05429291
+Eswatini,2019,World,Fuels,Export,Export(US$ Mil),16.70397977
+Eswatini,2019,World,Chemicals,Export,Export(US$ Mil),941.95542569
+Eswatini,2019,World,Plastic or Rubber,Export,Export(US$ Mil),8.78440839
+Eswatini,2019,World,Hides and Skins,Export,Export(US$ Mil),0.16474638
+Eswatini,2019,World,Wood,Export,Export(US$ Mil),119.59121323
+Eswatini,2019,World,Textiles and Clothing,Export,Export(US$ Mil),241.5694014
+Eswatini,2019,World,Footwear,Export,Export(US$ Mil),0.26077937
+Eswatini,2019,World,Stone and Glass,Export,Export(US$ Mil),3.19246592
+Eswatini,2019,World,Metals,Export,Export(US$ Mil),6.69596313
+Eswatini,2019,World,Mach and Elec,Export,Export(US$ Mil),29.26169954
+Eswatini,2019,World,Transportation,Export,Export(US$ Mil),12.44950575
+Eswatini,2019,World,Miscellaneous,Export,Export(US$ Mil),14.10531446
+Eswatini,2019,World,Raw materials,Export,Export(US$ Mil),84.98812065
+Eswatini,2019,World,Intermediate goods,Export,Export(US$ Mil),1464.65620776
+Eswatini,2019,World,Consumer goods,Export,Export(US$ Mil),410.102195570001
+Eswatini,2019,World,Capital goods,Export,Export(US$ Mil),41.23696301
+Eswatini,2019,World,Raw materials,Import,Import(US$ Mil),137.06295641
+Eswatini,2019,World,Intermediate goods,Import,Import(US$ Mil),513.43564036
+Eswatini,2019,World,Consumer goods,Import,Import(US$ Mil),853.36640885
+Eswatini,2019,World,Capital goods,Import,Import(US$ Mil),297.31871678
+Eswatini,2019,World,All Products,Export,Exports (in US$ Mil),2001.63660129
+Eswatini,2019,World,All Products,Import,Imports (in US$ Mil),1832.4357977
+Eswatini,2019,World,All Products,Tariff,Duty Free Imports (US$ Thousand),1376377.05405
+Eswatini,2019,...,...,Development,Trade Balance (current US$ Mil),120.649599
+Eswatini,2019,...,...,Development,GDP (current US$ Mil),4471.598727
+Eswatini,2019,...,...,Tariff,No. Of Tariff Agreement,9
+Eswatini,2019,...,...,Import,No. Of Import partners,149
+Eswatini,2019,...,...,Import,No. Of Import products,3870
+Eswatini,2019,...,...,Export,No. Of Export partners,108
+Eswatini,2019,...,...,Export,No. Of Export products,1875
+Eswatini,2019,...,...,Others,Population,1148130
+Eswatini,2019,...,...,Others,Ease of Doing Business Rank,121
+Eswatini,2019,...,...,Others,Trading Across Borders Rank,35
+Eswatini,2019,...,...,Others,CPIA Trade Ratings,
+Eswatini,2009,...,...,Others,Overall Trade Restrictiveness Index -  Applied Tariff,0.0187553
+Eswatini,2009,...,...,Others,Overall Trade Restrictiveness Index - MFN Tariff,0.0790681
+Eswatini,2019,South Africa,All Products,Export,Partner share(%)-Top 5 Export Partner,66.5931
+Eswatini,2019,Kenya,All Products,Export,Partner share(%)-Top 5 Export Partner,6.3243
+Eswatini,2019,Nigeria,All Products,Export,Partner share(%)-Top 5 Export Partner,4.9833
+Eswatini,2019,Mozambique,All Products,Export,Partner share(%)-Top 5 Export Partner,3.5433
+Eswatini,2019,Tanzania,All Products,Export,Partner share(%)-Top 5 Export Partner,1.882
+Eswatini,2019,South Africa,All Products,Import,Partner share(%)-Top 5 Import Partner,72.9657
+Eswatini,2019,China,All Products,Import,Partner share(%)-Top 5 Import Partner,7.1597
+Eswatini,2019,Mozambique,All Products,Import,Partner share(%)-Top 5 Import Partner,2.3914
+Eswatini,2019,India,All Products,Import,Partner share(%)-Top 5 Import Partner,2.0716
+Eswatini,2019,United States,All Products,Import,Partner share(%)-Top 5 Import Partner,1.5995
+Eswatini,2019,World,Animal,Export,Export Product share(%),0.2073
+Eswatini,2019,World,Vegetable,Export,Export Product share(%),1.0232
+Eswatini,2019,World,Food Products,Export,Export Product share(%),29.087
+Eswatini,2019,World,Minerals,Export,Export Product share(%),0.0027
+Eswatini,2019,World,Fuels,Export,Export Product share(%),0.8345
+Eswatini,2019,World,Chemicals,Export,Export Product share(%),47.0593
+Eswatini,2019,World,Plastic or Rubber,Export,Export Product share(%),0.4389
+Eswatini,2019,World,Hides and Skins,Export,Export Product share(%),0.0082
+Eswatini,2019,World,Wood,Export,Export Product share(%),5.9747
+Eswatini,2019,World,Textiles and Clothing,Export,Export Product share(%),12.0686
+Eswatini,2019,World,Footwear,Export,Export Product share(%),0.013
+Eswatini,2019,World,Stone and Glass,Export,Export Product share(%),0.1595
+Eswatini,2019,World,Metals,Export,Export Product share(%),0.3345
+Eswatini,2019,World,Mach and Elec,Export,Export Product share(%),1.4619
+Eswatini,2019,World,Transportation,Export,Export Product share(%),0.622
+Eswatini,2019,World,Miscellaneous,Export,Export Product share(%),0.7047
+Eswatini,2019,World,Raw materials,Export,Export Product share(%),4.2459
+Eswatini,2019,World,Intermediate goods,Export,Export Product share(%),73.1729
+Eswatini,2019,World,Consumer goods,Export,Export Product share(%),20.4883
+Eswatini,2019,World,Capital goods,Export,Export Product share(%),2.0602
+Eswatini,2019,World,Raw materials,Import,Import Product share(%),7.4798
+Eswatini,2019,World,Intermediate goods,Import,Import Product share(%),28.0193
+Eswatini,2019,World,Consumer goods,Import,Import Product share(%),46.5701
+Eswatini,2019,World,Capital goods,Import,Import Product share(%),16.2253
+Eswatini,2019,World,Raw materials,Tariff,Weighted Average (%),0.793707686673825
+Eswatini,2019,World,Intermediate goods,Tariff,Weighted Average (%),3.0902569798214
+Eswatini,2019,World,Consumer goods,Tariff,Weighted Average (%),2.83431371008014
+Eswatini,2019,World,Capital goods,Tariff,Weighted Average (%),0.45018302657985
+Eswatini,2019,World,All Products,Trade Indicator,World Growth (%),-1.13475826045476
+Eswatini,2019,World,All Products,Trade Indicator,Country Growth (%),31.8362405058562
+Eswatini,2019,World,All Products,Tariff,Simple Average (%),8.46475682332043
+Eswatini,2019,World,All Products,Tariff,Weighted Average (%),2.37582377007626
+Eswatini,2019,World,All Products,Tariff,Maximum Rate (%),3000
+Eswatini,2019,World,All Products,Tariff,Duty Free Tariff Lines Share (%),65.6890992659669
+Eswatini,2019,...,...,Trade Indicator,Index of export market penetration,2.01473859510617
+Eswatini,2019,...,...,Trade Indicator,HH Market concentration index,0.352606970355742
+Eswatini,2019,...,...,Development,Trade Balance (% of GDP),2.69813116
+Eswatini,2019,...,...,Development,Trade in services (% of GDP),6.526622943
+Eswatini,2019,...,...,Development,Trade (% of GDP),89.09226069
+Eswatini,2019,...,...,Development,"GNI per capita, Atlas method (current US$)",3670

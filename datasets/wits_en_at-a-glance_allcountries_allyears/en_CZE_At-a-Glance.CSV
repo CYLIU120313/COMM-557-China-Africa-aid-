@@ -1,0 +1,102 @@
+Reporter,Year,Partner,Product categories,Indicator Type,Indicator,Indicator Value
+Czech Republic,2019,Germany,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,63526.531285
+Czech Republic,2019,Slovak Republic,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,15099.747903
+Czech Republic,2019,Poland,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,12027.950281
+Czech Republic,2019,France,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,10242.84542
+Czech Republic,2019,United Kingdom,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,8990.745019
+Czech Republic,2019,Germany,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,44101.04838
+Czech Republic,2019,China,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,28337.633065
+Czech Republic,2019,Poland,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,13685.787965
+Czech Republic,2019,Slovak Republic,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,7868.115276
+Czech Republic,2019,Italy,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,7364.011026
+Czech Republic,2019,World,Animal,Export,Export(US$ Mil),1678.702202
+Czech Republic,2019,World,Vegetable,Export,Export(US$ Mil),2070.180623
+Czech Republic,2019,World,Food Products,Export,Export(US$ Mil),4900.025791
+Czech Republic,2019,World,Minerals,Export,Export(US$ Mil),305.984108
+Czech Republic,2019,World,Fuels,Export,Export(US$ Mil),3439.198658
+Czech Republic,2019,World,Chemicals,Export,Export(US$ Mil),9612.352317
+Czech Republic,2019,World,Plastic or Rubber,Export,Export(US$ Mil),10556.856423
+Czech Republic,2019,World,Hides and Skins,Export,Export(US$ Mil),524.621056
+Czech Republic,2019,World,Wood,Export,Export(US$ Mil),6543.265878
+Czech Republic,2019,World,Textiles and Clothing,Export,Export(US$ Mil),5206.858971
+Czech Republic,2019,World,Footwear,Export,Export(US$ Mil),1034.601086
+Czech Republic,2019,World,Stone and Glass,Export,Export(US$ Mil),3934.69765
+Czech Republic,2019,World,Metals,Export,Export(US$ Mil),16253.784107
+Czech Republic,2019,World,Mach and Elec,Export,Export(US$ Mil),76603.629827
+Czech Republic,2019,World,Transportation,Export,Export(US$ Mil),42075.300907
+Czech Republic,2019,World,Miscellaneous,Export,Export(US$ Mil),14729.650731
+Czech Republic,2019,World,Raw materials,Export,Export(US$ Mil),5565.12482800001
+Czech Republic,2019,World,Intermediate goods,Export,Export(US$ Mil),26746.796194
+Czech Republic,2019,World,Consumer goods,Export,Export(US$ Mil),75532.089524
+Czech Republic,2019,World,Capital goods,Export,Export(US$ Mil),91301.673929
+Czech Republic,2019,World,Raw materials,Import,Import(US$ Mil),10395.081847
+Czech Republic,2019,World,Intermediate goods,Import,Import(US$ Mil),33582.425987
+Czech Republic,2019,World,Consumer goods,Import,Import(US$ Mil),55610.522449
+Czech Republic,2019,World,Capital goods,Import,Import(US$ Mil),79497.886439
+Czech Republic,2019,World,All Products,Export,Exports (in US$ Mil),199469.710335
+Czech Republic,2019,World,All Products,Import,Imports (in US$ Mil),179273.065047
+Czech Republic,2019,World,All Products,Tariff,Duty Free Imports (US$ Thousand),45346867.2710001
+Czech Republic,2019,...,...,Development,Trade Balance (current US$ Mil),15104
+Czech Republic,2019,...,...,Development,GDP (current US$ Mil),250681
+Czech Republic,2019,...,...,Tariff,No. Of Tariff Agreement,
+Czech Republic,2019,...,...,Import,No. Of Import partners,232
+Czech Republic,2019,...,...,Import,No. Of Import products,4499
+Czech Republic,2019,...,...,Export,No. Of Export partners,209
+Czech Republic,2019,...,...,Export,No. Of Export products,4388
+Czech Republic,2019,...,...,Others,Population,10671870
+Czech Republic,2019,...,...,Others,Ease of Doing Business Rank,41
+Czech Republic,2019,...,...,Others,Trading Across Borders Rank,1
+Czech Republic,2019,...,...,Others,CPIA Trade Ratings,
+Czech Republic,2018,...,...,Others,LPI Rank,22
+Czech Republic,2018,...,...,Others,LPI Score,3.68
+Czech Republic,,...,...,Others,Services Trade Restrictions Index - Over All,16.6
+Czech Republic,2019,Germany,All Products,Export,Partner share(%)-Top 5 Export Partner,31.8477
+Czech Republic,2019,Slovak Republic,All Products,Export,Partner share(%)-Top 5 Export Partner,7.5699
+Czech Republic,2019,Poland,All Products,Export,Partner share(%)-Top 5 Export Partner,6.03
+Czech Republic,2019,France,All Products,Export,Partner share(%)-Top 5 Export Partner,5.135
+Czech Republic,2019,United Kingdom,All Products,Export,Partner share(%)-Top 5 Export Partner,4.5073
+Czech Republic,2019,Germany,All Products,Import,Partner share(%)-Top 5 Import Partner,24.5999
+Czech Republic,2019,China,All Products,Import,Partner share(%)-Top 5 Import Partner,15.807
+Czech Republic,2019,Poland,All Products,Import,Partner share(%)-Top 5 Import Partner,7.634
+Czech Republic,2019,Slovak Republic,All Products,Import,Partner share(%)-Top 5 Import Partner,4.3889
+Czech Republic,2019,Italy,All Products,Import,Partner share(%)-Top 5 Import Partner,4.1077
+Czech Republic,2019,World,Animal,Export,Export Product share(%),0.8416
+Czech Republic,2019,World,Vegetable,Export,Export Product share(%),1.0378
+Czech Republic,2019,World,Food Products,Export,Export Product share(%),2.4565
+Czech Republic,2019,World,Minerals,Export,Export Product share(%),0.1534
+Czech Republic,2019,World,Fuels,Export,Export Product share(%),1.7242
+Czech Republic,2019,World,Chemicals,Export,Export Product share(%),4.819
+Czech Republic,2019,World,Plastic or Rubber,Export,Export Product share(%),5.2925
+Czech Republic,2019,World,Hides and Skins,Export,Export Product share(%),0.263
+Czech Republic,2019,World,Wood,Export,Export Product share(%),3.2803
+Czech Republic,2019,World,Textiles and Clothing,Export,Export Product share(%),2.6104
+Czech Republic,2019,World,Footwear,Export,Export Product share(%),0.5187
+Czech Republic,2019,World,Stone and Glass,Export,Export Product share(%),1.9726
+Czech Republic,2019,World,Metals,Export,Export Product share(%),8.1485
+Czech Republic,2019,World,Mach and Elec,Export,Export Product share(%),38.4036
+Czech Republic,2019,World,Transportation,Export,Export Product share(%),21.0936
+Czech Republic,2019,World,Miscellaneous,Export,Export Product share(%),7.3844
+Czech Republic,2019,World,Raw materials,Export,Export Product share(%),2.79
+Czech Republic,2019,World,Intermediate goods,Export,Export Product share(%),13.409
+Czech Republic,2019,World,Consumer goods,Export,Export Product share(%),37.8664
+Czech Republic,2019,World,Capital goods,Export,Export Product share(%),45.7722
+Czech Republic,2019,World,Raw materials,Import,Import Product share(%),5.7985
+Czech Republic,2019,World,Intermediate goods,Import,Import Product share(%),18.7326
+Czech Republic,2019,World,Consumer goods,Import,Import Product share(%),31.02
+Czech Republic,2019,World,Capital goods,Import,Import Product share(%),44.3446
+Czech Republic,2019,World,Raw materials,Tariff,Weighted Average (%),0.604011755594286
+Czech Republic,2019,World,Intermediate goods,Tariff,Weighted Average (%),1.95480617958042
+Czech Republic,2019,World,Consumer goods,Tariff,Weighted Average (%),3.42360316613019
+Czech Republic,2019,World,Capital goods,Tariff,Weighted Average (%),0.488418972993915
+Czech Republic,2019,World,All Products,Trade Indicator,World Growth (%),-1.13475826045476
+Czech Republic,2019,World,All Products,Trade Indicator,Country Growth (%),-1.93354346642708
+Czech Republic,2019,World,All Products,Tariff,Simple Average (%),2.59575446349001
+Czech Republic,2019,World,All Products,Tariff,Weighted Average (%),1.42202984374692
+Czech Republic,2019,World,All Products,Tariff,Maximum Rate (%),237.638900756836
+Czech Republic,2019,World,All Products,Tariff,Duty Free Tariff Lines Share (%),54.2470402287713
+Czech Republic,2019,...,...,Trade Indicator,Index of export market penetration,16.7799165029082
+Czech Republic,2019,...,...,Trade Indicator,HH Market concentration index,0.109485902064458
+Czech Republic,2019,...,...,Development,Trade Balance (% of GDP),6.02546536999999
+Czech Republic,2019,...,...,Development,Trade in services (% of GDP),22.38946991
+Czech Republic,2019,...,...,Development,Trade (% of GDP),142.7561654
+Czech Republic,2019,...,...,Development,"GNI per capita, Atlas method (current US$)",21930

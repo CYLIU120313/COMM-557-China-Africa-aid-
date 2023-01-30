@@ -1,0 +1,108 @@
+Reporter,Year,Partner,Product categories,Indicator Type,Indicator,Indicator Value
+South Africa,2019,China,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,9595.419511849
+South Africa,2019,Germany,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,7160.3749741128
+South Africa,2019,United States,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,6261.59153906305
+South Africa,2019,Unspecified,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,4996.79194538848
+South Africa,2019,United Kingdom,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,4685.56411919837
+South Africa,2019,China,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,16264.7280034341
+South Africa,2019,Germany,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,8692.05725901507
+South Africa,2019,United States,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,5782.97435207814
+South Africa,2019,India,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,4323.03182200607
+South Africa,2019,Saudi Arabia,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,3655.92458178871
+South Africa,2019,World,Animal,Export,Export(US$ Mil),1058.62354791279
+South Africa,2019,World,Vegetable,Export,Export(US$ Mil),5063.38661426092
+South Africa,2019,World,Food Products,Export,Export(US$ Mil),3922.38386557178
+South Africa,2019,World,Minerals,Export,Export(US$ Mil),13592.8030726021
+South Africa,2019,World,Fuels,Export,Export(US$ Mil),8780.49585361186
+South Africa,2019,World,Chemicals,Export,Export(US$ Mil),5429.6780982281
+South Africa,2019,World,Plastic or Rubber,Export,Export(US$ Mil),1874.12961112001
+South Africa,2019,World,Hides and Skins,Export,Export(US$ Mil),238.716781346845
+South Africa,2019,World,Wood,Export,Export(US$ Mil),1844.50007506938
+South Africa,2019,World,Textiles and Clothing,Export,Export(US$ Mil),1250.907664278
+South Africa,2019,World,Footwear,Export,Export(US$ Mil),216.067474024614
+South Africa,2019,World,Stone and Glass,Export,Export(US$ Mil),15445.3848025803
+South Africa,2019,World,Metals,Export,Export(US$ Mil),9830.68353805569
+South Africa,2019,World,Mach and Elec,Export,Export(US$ Mil),7209.08606185561
+South Africa,2019,World,Transportation,Export,Export(US$ Mil),12191.2096269294
+South Africa,2019,World,Miscellaneous,Export,Export(US$ Mil),1447.93164647772
+South Africa,2019,World,Raw materials,Export,Export(US$ Mil),25779.3736123114
+South Africa,2019,World,Intermediate goods,Export,Export(US$ Mil),30658.4493331135
+South Africa,2019,World,Consumer goods,Export,Export(US$ Mil),20068.5965583717
+South Africa,2019,World,Capital goods,Export,Export(US$ Mil),12633.8148230793
+South Africa,2019,World,Raw materials,Import,Import(US$ Mil),12763.5345769616
+South Africa,2019,World,Intermediate goods,Import,Import(US$ Mil),15903.493817596
+South Africa,2019,World,Consumer goods,Import,Import(US$ Mil),27578.2580421337
+South Africa,2019,World,Capital goods,Import,Import(US$ Mil),24347.768135605
+South Africa,2019,World,All Products,Export,Exports (in US$ Mil),89395.9883339251
+South Africa,2019,World,All Products,Import,Imports (in US$ Mil),88037.4909279707
+South Africa,2019,World,All Products,Tariff,Duty Free Imports (US$ Thousand),53676837.0668743
+South Africa,2019,...,...,Development,Trade Balance (current US$ Mil),1768
+South Africa,2019,...,...,Development,GDP (current US$ Mil),351432
+South Africa,2019,...,...,Tariff,No. Of Tariff Agreement,9
+South Africa,2019,...,...,Import,No. Of Import partners,232
+South Africa,2019,...,...,Import,No. Of Import products,4482
+South Africa,2019,...,...,Export,No. Of Export partners,223
+South Africa,2019,...,...,Export,No. Of Export products,4460
+South Africa,2019,...,...,Others,Population,58558267
+South Africa,2019,...,...,Others,Ease of Doing Business Rank,84
+South Africa,2019,...,...,Others,Trading Across Borders Rank,145
+South Africa,2019,...,...,Others,CPIA Trade Ratings,
+South Africa,2018,...,...,Others,LPI Rank,33
+South Africa,2018,...,...,Others,LPI Score,3.38
+South Africa,2013,...,...,Others,No Of NTM Affected Products (HS 6 Digit),30
+South Africa,2013,...,...,Others,No Of NTM Measures,3
+South Africa,2009,...,...,Others,Overall Trade Restrictiveness Index -  Applied Tariff,0.052519
+South Africa,2009,...,...,Others,Overall Trade Restrictiveness Index - MFN Tariff,0.0636017
+South Africa,,...,...,Others,Services Trade Restrictions Index - Over All,34.5
+South Africa,2013,...,...,Others,Temporary Trade Barriers in Effect - Simple Average,0.6199147701
+South Africa,2013,...,...,Others,Temporary Trade Barriers in Effect - Weighted Average,0.5761581659
+South Africa,2019,China,All Products,Export,Partner share(%)-Top 5 Export Partner,10.7336
+South Africa,2019,Germany,All Products,Export,Partner share(%)-Top 5 Export Partner,8.0097
+South Africa,2019,United States,All Products,Export,Partner share(%)-Top 5 Export Partner,7.0043
+South Africa,2019,Unspecified,All Products,Export,Partner share(%)-Top 5 Export Partner,5.5895
+South Africa,2019,United Kingdom,All Products,Export,Partner share(%)-Top 5 Export Partner,5.2414
+South Africa,2019,China,All Products,Import,Partner share(%)-Top 5 Import Partner,18.4748
+South Africa,2019,Germany,All Products,Import,Partner share(%)-Top 5 Import Partner,9.8731
+South Africa,2019,United States,All Products,Import,Partner share(%)-Top 5 Import Partner,6.5688
+South Africa,2019,India,All Products,Import,Partner share(%)-Top 5 Import Partner,4.9104
+South Africa,2019,Saudi Arabia,All Products,Import,Partner share(%)-Top 5 Import Partner,4.1527
+South Africa,2019,World,Animal,Export,Export Product share(%),1.1842
+South Africa,2019,World,Vegetable,Export,Export Product share(%),5.664
+South Africa,2019,World,Food Products,Export,Export Product share(%),4.3877
+South Africa,2019,World,Minerals,Export,Export Product share(%),15.2052
+South Africa,2019,World,Fuels,Export,Export Product share(%),9.822
+South Africa,2019,World,Chemicals,Export,Export Product share(%),6.0737
+South Africa,2019,World,Plastic or Rubber,Export,Export Product share(%),2.0964
+South Africa,2019,World,Hides and Skins,Export,Export Product share(%),0.267
+South Africa,2019,World,Wood,Export,Export Product share(%),2.0633
+South Africa,2019,World,Textiles and Clothing,Export,Export Product share(%),1.3993
+South Africa,2019,World,Footwear,Export,Export Product share(%),0.2417
+South Africa,2019,World,Stone and Glass,Export,Export Product share(%),17.2775
+South Africa,2019,World,Metals,Export,Export Product share(%),10.9968
+South Africa,2019,World,Mach and Elec,Export,Export Product share(%),8.0642
+South Africa,2019,World,Transportation,Export,Export Product share(%),13.6373
+South Africa,2019,World,Miscellaneous,Export,Export Product share(%),1.6197
+South Africa,2019,World,Raw materials,Export,Export Product share(%),28.8373
+South Africa,2019,World,Intermediate goods,Export,Export Product share(%),34.2951
+South Africa,2019,World,Consumer goods,Export,Export Product share(%),22.4491
+South Africa,2019,World,Capital goods,Export,Export Product share(%),14.1324
+South Africa,2019,World,Raw materials,Import,Import Product share(%),14.4978
+South Africa,2019,World,Intermediate goods,Import,Import Product share(%),18.0645
+South Africa,2019,World,Consumer goods,Import,Import Product share(%),31.3256
+South Africa,2019,World,Capital goods,Import,Import Product share(%),27.6561
+South Africa,2019,World,Raw materials,Tariff,Weighted Average (%),0.944448436380193
+South Africa,2019,World,Intermediate goods,Tariff,Weighted Average (%),2.10839268468604
+South Africa,2019,World,Consumer goods,Tariff,Weighted Average (%),13.2092979228231
+South Africa,2019,World,Capital goods,Tariff,Weighted Average (%),2.06671667730793
+South Africa,2019,World,All Products,Trade Indicator,World Growth (%),-1.13475826045476
+South Africa,2019,World,All Products,Trade Indicator,Country Growth (%),-2.47679340607304
+South Africa,2019,World,All Products,Tariff,Simple Average (%),8.37254665485935
+South Africa,2019,World,All Products,Tariff,Weighted Average (%),5.36585277682137
+South Africa,2019,World,All Products,Tariff,Maximum Rate (%),3000
+South Africa,2019,World,All Products,Tariff,Duty Free Tariff Lines Share (%),66.5283622203258
+South Africa,2019,...,...,Trade Indicator,Index of export market penetration,12.1547805895663
+South Africa,2019,...,...,Trade Indicator,HH Market concentration index,0.0731196416530121
+South Africa,2019,...,...,Development,Trade Balance (% of GDP),0.503142499999999
+South Africa,2019,...,...,Development,Trade in services (% of GDP),8.650270082
+South Africa,2019,...,...,Development,Trade (% of GDP),59.20453606
+South Africa,2019,...,...,Development,"GNI per capita, Atlas method (current US$)",6040

@@ -1,0 +1,105 @@
+Reporter,Year,Partner,Product categories,Indicator Type,Indicator,Indicator Value
+Benin,2019,Bangladesh,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,229.243491703286
+Benin,2019,India,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,120.823864544399
+Benin,2019,Vietnam,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,88.4004201494562
+Benin,2019,China,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,62.8661428398922
+Benin,2019,Nigeria,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,48.2023578632426
+Benin,2019,India,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,396.572819178735
+Benin,2019,China,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,321.232714831685
+Benin,2019,Togo,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,316.638574755621
+Benin,2019,France,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,255.553724820413
+Benin,2019,Thailand,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,157.200549654447
+Benin,2019,World,Animal,Export,Export(US$ Mil),21.3628142543475
+Benin,2019,World,Vegetable,Export,Export(US$ Mil),176.904940483258
+Benin,2019,World,Food Products,Export,Export(US$ Mil),32.453073624114
+Benin,2019,World,Minerals,Export,Export(US$ Mil),24.886526789462
+Benin,2019,World,Fuels,Export,Export(US$ Mil),25.6460463672862
+Benin,2019,World,Chemicals,Export,Export(US$ Mil),6.27636539313348
+Benin,2019,World,Plastic or Rubber,Export,Export(US$ Mil),3.5857616001938
+Benin,2019,World,Hides and Skins,Export,Export(US$ Mil),0.41587994304318
+Benin,2019,World,Wood,Export,Export(US$ Mil),26.1914956392412
+Benin,2019,World,Textiles and Clothing,Export,Export(US$ Mil),468.242230381974
+Benin,2019,World,Footwear,Export,Export(US$ Mil),0.03354121328434
+Benin,2019,World,Stone and Glass,Export,Export(US$ Mil),14.9725945190162
+Benin,2019,World,Metals,Export,Export(US$ Mil),31.9865435004234
+Benin,2019,World,Mach and Elec,Export,Export(US$ Mil),9.72147958049124
+Benin,2019,World,Transportation,Export,Export(US$ Mil),7.25060729041408
+Benin,2019,World,Miscellaneous,Export,Export(US$ Mil),1.7185371677884
+Benin,2019,World,Raw materials,Export,Export(US$ Mil),618.61545190753
+Benin,2019,World,Intermediate goods,Export,Export(US$ Mil),125.524882054809
+Benin,2019,World,Consumer goods,Export,Export(US$ Mil),86.2976406773145
+Benin,2019,World,Capital goods,Export,Export(US$ Mil),15.6764051222587
+Benin,2019,World,Raw materials,Import,Import(US$ Mil),259.175969655182
+Benin,2019,World,Intermediate goods,Import,Import(US$ Mil),627.461293050419
+Benin,2019,World,Consumer goods,Import,Import(US$ Mil),1643.46175819107
+Benin,2019,World,Capital goods,Import,Import(US$ Mil),367.505651277584
+Benin,2019,World,All Products,Export,Exports (in US$ Mil),851.648437747471
+Benin,2019,World,All Products,Import,Imports (in US$ Mil),2904.57163511335
+Benin,2019,World,All Products,Tariff,Duty Free Imports (US$ Thousand),596357.270902392
+Benin,2019,...,...,Development,Trade Balance (current US$ Mil),-636.109337
+Benin,2019,...,...,Development,GDP (current US$ Mil),14390.709095
+Benin,2019,...,...,Tariff,No. Of Tariff Agreement,2
+Benin,2019,...,...,Import,No. Of Import partners,138
+Benin,2019,...,...,Import,No. Of Import products,2881
+Benin,2019,...,...,Export,No. Of Export partners,98
+Benin,2019,...,...,Export,No. Of Export products,620
+Benin,2019,...,...,Others,Population,11801151
+Benin,2019,...,...,Others,Ease of Doing Business Rank,149
+Benin,2019,...,...,Others,Trading Across Borders Rank,110
+Benin,2019,...,...,Others,CPIA Trade Ratings,4
+Benin,2018,...,...,Others,LPI Rank,76
+Benin,2018,...,...,Others,LPI Score,2.75
+Benin,2014,...,...,Others,No Of NTM Affected Products (HS 6 Digit),5052
+Benin,2014,...,...,Others,No Of NTM Measures,62
+Benin,2009,...,...,Others,Overall Trade Restrictiveness Index -  Applied Tariff,0.1091418
+Benin,2009,...,...,Others,Overall Trade Restrictiveness Index - MFN Tariff,0.1172308
+Benin,2019,Bangladesh,All Products,Export,Partner share(%)-Top 5 Export Partner,26.9176
+Benin,2019,India,All Products,Export,Partner share(%)-Top 5 Export Partner,14.1871
+Benin,2019,Vietnam,All Products,Export,Partner share(%)-Top 5 Export Partner,10.3799
+Benin,2019,China,All Products,Export,Partner share(%)-Top 5 Export Partner,7.3817
+Benin,2019,Nigeria,All Products,Export,Partner share(%)-Top 5 Export Partner,5.6599
+Benin,2019,India,All Products,Import,Partner share(%)-Top 5 Import Partner,13.6534
+Benin,2019,China,All Products,Import,Partner share(%)-Top 5 Import Partner,11.0596
+Benin,2019,Togo,All Products,Import,Partner share(%)-Top 5 Import Partner,10.9014
+Benin,2019,France,All Products,Import,Partner share(%)-Top 5 Import Partner,8.7983
+Benin,2019,Thailand,All Products,Import,Partner share(%)-Top 5 Import Partner,5.4122
+Benin,2019,World,Animal,Export,Export Product share(%),2.5084
+Benin,2019,World,Vegetable,Export,Export Product share(%),20.7721
+Benin,2019,World,Food Products,Export,Export Product share(%),3.8106
+Benin,2019,World,Minerals,Export,Export Product share(%),2.9222
+Benin,2019,World,Fuels,Export,Export Product share(%),3.0113
+Benin,2019,World,Chemicals,Export,Export Product share(%),0.737
+Benin,2019,World,Plastic or Rubber,Export,Export Product share(%),0.421
+Benin,2019,World,Hides and Skins,Export,Export Product share(%),0.0488
+Benin,2019,World,Wood,Export,Export Product share(%),3.0754
+Benin,2019,World,Textiles and Clothing,Export,Export Product share(%),54.9807
+Benin,2019,World,Footwear,Export,Export Product share(%),0.0039
+Benin,2019,World,Stone and Glass,Export,Export Product share(%),1.7581
+Benin,2019,World,Metals,Export,Export Product share(%),3.7558
+Benin,2019,World,Mach and Elec,Export,Export Product share(%),1.1415
+Benin,2019,World,Transportation,Export,Export Product share(%),0.8514
+Benin,2019,World,Miscellaneous,Export,Export Product share(%),0.2018
+Benin,2019,World,Raw materials,Export,Export Product share(%),72.6374
+Benin,2019,World,Intermediate goods,Export,Export Product share(%),14.739
+Benin,2019,World,Consumer goods,Export,Export Product share(%),10.133
+Benin,2019,World,Capital goods,Export,Export Product share(%),1.8407
+Benin,2019,World,Raw materials,Import,Import Product share(%),8.923
+Benin,2019,World,Intermediate goods,Import,Import Product share(%),21.6025
+Benin,2019,World,Consumer goods,Import,Import Product share(%),56.5819
+Benin,2019,World,Capital goods,Import,Import Product share(%),12.6527
+Benin,2019,World,Raw materials,Tariff,Weighted Average (%),26.4593555156291
+Benin,2019,World,Intermediate goods,Tariff,Weighted Average (%),5.99457820599755
+Benin,2019,World,Consumer goods,Tariff,Weighted Average (%),10.4174915516934
+Benin,2019,World,Capital goods,Tariff,Weighted Average (%),7.7511763217245
+Benin,2019,World,All Products,Trade Indicator,World Growth (%),-1.13475826045476
+Benin,2019,World,All Products,Trade Indicator,Country Growth (%),23.1969627169274
+Benin,2019,World,All Products,Tariff,Simple Average (%),11.6723500737331
+Benin,2019,World,All Products,Tariff,Weighted Average (%),9.86275132958853
+Benin,2019,World,All Products,Tariff,Maximum Rate (%),35
+Benin,2019,World,All Products,Tariff,Duty Free Tariff Lines Share (%),19.9093495346931
+Benin,2019,...,...,Trade Indicator,Index of export market penetration,1.40414149889439
+Benin,2019,...,...,Trade Indicator,HH Market concentration index,0.214472785340483
+Benin,2019,...,...,Development,Trade Balance (% of GDP),-4.42027793
+Benin,2019,...,...,Development,Trade in services (% of GDP),9.270712595
+Benin,2019,...,...,Development,Trade (% of GDP),63.68133231
+Benin,2019,...,...,Development,"GNI per capita, Atlas method (current US$)",1250

@@ -1,0 +1,101 @@
+Reporter,Year,Partner,Product categories,Indicator Type,Indicator,Indicator Value
+Luxembourg,2019,Germany,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,3735.99226712366
+Luxembourg,2019,France,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,2329.69749729231
+Luxembourg,2019,Belgium,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,1787.32768118078
+Luxembourg,2019,Netherlands,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,808.704605462407
+Luxembourg,2019,Italy,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,608.337577830792
+Luxembourg,2019,Belgium,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,5855.01341647173
+Luxembourg,2019,Germany,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,5107.733292475
+Luxembourg,2019,France,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,2688.94388910846
+Luxembourg,2019,Unspecified,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,1367.18623097148
+Luxembourg,2019,Netherlands,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,984.975862851149
+Luxembourg,2019,World,Animal,Export,Export(US$ Mil),529.181988587221
+Luxembourg,2019,World,Vegetable,Export,Export(US$ Mil),178.985509272358
+Luxembourg,2019,World,Food Products,Export,Export(US$ Mil),624.976169391446
+Luxembourg,2019,World,Minerals,Export,Export(US$ Mil),79.3719030010933
+Luxembourg,2019,World,Fuels,Export,Export(US$ Mil),14.7559168066956
+Luxembourg,2019,World,Chemicals,Export,Export(US$ Mil),863.323839919319
+Luxembourg,2019,World,Plastic or Rubber,Export,Export(US$ Mil),2281.10261581358
+Luxembourg,2019,World,Hides and Skins,Export,Export(US$ Mil),12.347680668805
+Luxembourg,2019,World,Wood,Export,Export(US$ Mil),640.004607662229
+Luxembourg,2019,World,Textiles and Clothing,Export,Export(US$ Mil),658.698428561256
+Luxembourg,2019,World,Footwear,Export,Export(US$ Mil),88.1032263283337
+Luxembourg,2019,World,Stone and Glass,Export,Export(US$ Mil),520.01571165257
+Luxembourg,2019,World,Metals,Export,Export(US$ Mil),3349.94836873303
+Luxembourg,2019,World,Mach and Elec,Export,Export(US$ Mil),2810.58583223109
+Luxembourg,2019,World,Transportation,Export,Export(US$ Mil),1406.55832451014
+Luxembourg,2019,World,Miscellaneous,Export,Export(US$ Mil),609.486787317752
+Luxembourg,2019,World,Raw materials,Export,Export(US$ Mil),519.493710601298
+Luxembourg,2019,World,Intermediate goods,Export,Export(US$ Mil),5016.04246358399
+Luxembourg,2019,World,Consumer goods,Export,Export(US$ Mil),4974.34726114658
+Luxembourg,2019,World,Capital goods,Export,Export(US$ Mil),3740.18320686957
+Luxembourg,2019,World,Raw materials,Import,Import(US$ Mil),2047.88142174908
+Luxembourg,2019,World,Intermediate goods,Import,Import(US$ Mil),4131.14626229754
+Luxembourg,2019,World,Consumer goods,Import,Import(US$ Mil),10578.759704366
+Luxembourg,2019,World,Capital goods,Import,Import(US$ Mil),5084.11660873837
+Luxembourg,2019,World,All Products,Export,Exports (in US$ Mil),14667.4469104569
+Luxembourg,2019,World,All Products,Import,Imports (in US$ Mil),22673.6925744368
+Luxembourg,2018,World,All Products,Tariff,Duty Free Imports (US$ Thousand),1905333.86146229
+Luxembourg,2019,...,...,Development,Trade Balance (current US$ Mil),25589
+Luxembourg,2019,...,...,Development,GDP (current US$ Mil),71104.919108
+Luxembourg,2018,...,...,Tariff,No. Of Tariff Agreement,
+Luxembourg,2019,...,...,Import,No. Of Import partners,217
+Luxembourg,2019,...,...,Import,No. Of Import products,4286
+Luxembourg,2019,...,...,Export,No. Of Export partners,198
+Luxembourg,2019,...,...,Export,No. Of Export products,3523
+Luxembourg,2019,...,...,Others,Population,620001
+Luxembourg,2019,...,...,Others,Ease of Doing Business Rank,72
+Luxembourg,2019,...,...,Others,Trading Across Borders Rank,1
+Luxembourg,2019,...,...,Others,CPIA Trade Ratings,
+Luxembourg,2018,...,...,Others,LPI Rank,24
+Luxembourg,2018,...,...,Others,LPI Score,3.63
+Luxembourg,2019,Germany,All Products,Export,Partner share(%)-Top 5 Export Partner,25.4713
+Luxembourg,2019,France,All Products,Export,Partner share(%)-Top 5 Export Partner,15.8835
+Luxembourg,2019,Belgium,All Products,Export,Partner share(%)-Top 5 Export Partner,12.1857
+Luxembourg,2019,Netherlands,All Products,Export,Partner share(%)-Top 5 Export Partner,5.5136
+Luxembourg,2019,Italy,All Products,Export,Partner share(%)-Top 5 Export Partner,4.1475
+Luxembourg,2019,Belgium,All Products,Import,Partner share(%)-Top 5 Import Partner,25.8229
+Luxembourg,2019,Germany,All Products,Import,Partner share(%)-Top 5 Import Partner,22.5271
+Luxembourg,2019,France,All Products,Import,Partner share(%)-Top 5 Import Partner,11.8593
+Luxembourg,2019,Unspecified,All Products,Import,Partner share(%)-Top 5 Import Partner,6.0298
+Luxembourg,2019,Netherlands,All Products,Import,Partner share(%)-Top 5 Import Partner,4.3441
+Luxembourg,2019,World,Animal,Export,Export Product share(%),3.6079
+Luxembourg,2019,World,Vegetable,Export,Export Product share(%),1.2203
+Luxembourg,2019,World,Food Products,Export,Export Product share(%),4.261
+Luxembourg,2019,World,Minerals,Export,Export Product share(%),0.5411
+Luxembourg,2019,World,Fuels,Export,Export Product share(%),0.1006
+Luxembourg,2019,World,Chemicals,Export,Export Product share(%),5.886
+Luxembourg,2019,World,Plastic or Rubber,Export,Export Product share(%),15.5521
+Luxembourg,2019,World,Hides and Skins,Export,Export Product share(%),0.0842
+Luxembourg,2019,World,Wood,Export,Export Product share(%),4.3634
+Luxembourg,2019,World,Textiles and Clothing,Export,Export Product share(%),4.4909
+Luxembourg,2019,World,Footwear,Export,Export Product share(%),0.6007
+Luxembourg,2019,World,Stone and Glass,Export,Export Product share(%),3.5454
+Luxembourg,2019,World,Metals,Export,Export Product share(%),22.8393
+Luxembourg,2019,World,Mach and Elec,Export,Export Product share(%),19.1621
+Luxembourg,2019,World,Transportation,Export,Export Product share(%),9.5897
+Luxembourg,2019,World,Miscellaneous,Export,Export Product share(%),4.1554
+Luxembourg,2019,World,Raw materials,Export,Export Product share(%),3.5418
+Luxembourg,2019,World,Intermediate goods,Export,Export Product share(%),34.1985
+Luxembourg,2019,World,Consumer goods,Export,Export Product share(%),33.9142
+Luxembourg,2019,World,Capital goods,Export,Export Product share(%),25.4999
+Luxembourg,2019,World,Raw materials,Import,Import Product share(%),9.032
+Luxembourg,2019,World,Intermediate goods,Import,Import Product share(%),18.22
+Luxembourg,2019,World,Consumer goods,Import,Import Product share(%),46.6565
+Luxembourg,2019,World,Capital goods,Import,Import Product share(%),22.423
+Luxembourg,2018,World,Raw materials,Tariff,Weighted Average (%),2.05230286254331
+Luxembourg,2018,World,Intermediate goods,Tariff,Weighted Average (%),1.83948957726765
+Luxembourg,2018,World,Consumer goods,Tariff,Weighted Average (%),4.79627567528606
+Luxembourg,2018,World,Capital goods,Tariff,Weighted Average (%),1.10304381462043
+Luxembourg,2019,World,All Products,Trade Indicator,World Growth (%),-1.13475826045476
+Luxembourg,2019,World,All Products,Trade Indicator,Country Growth (%),-5.40905333193116
+Luxembourg,2018,World,All Products,Tariff,Simple Average (%),3.30157285158233
+Luxembourg,2018,World,All Products,Tariff,Weighted Average (%),2.30276596483737
+Luxembourg,2018,World,All Products,Tariff,Maximum Rate (%),247.466796875
+Luxembourg,2018,World,All Products,Tariff,Duty Free Tariff Lines Share (%),49.0890881777211
+Luxembourg,2019,...,...,Trade Indicator,Index of export market penetration,5.66875545244641
+Luxembourg,2019,...,...,Trade Indicator,HH Market concentration index,0.088924228176113
+Luxembourg,2019,...,...,Development,Trade Balance (% of GDP),35.9888832
+Luxembourg,2019,...,...,Development,Trade in services (% of GDP),273.7045377
+Luxembourg,2019,...,...,Development,Trade (% of GDP),381.5166164
+Luxembourg,2019,...,...,Development,"GNI per capita, Atlas method (current US$)",73900

@@ -1,0 +1,102 @@
+Reporter,Year,Partner,Product categories,Indicator Type,Indicator,Indicator Value
+Netherlands,2019,Germany,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,128001.847696643
+Netherlands,2019,Belgium,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,58276.3735011333
+Netherlands,2019,France,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,45054.6655999603
+Netherlands,2019,United Kingdom,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,44606.9566313371
+Netherlands,2019,United States,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,29803.5760849707
+Netherlands,2019,Germany,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,87905.1401357643
+Netherlands,2019,Belgium,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,50763.5913818081
+Netherlands,2019,China,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,48168.5175391508
+Netherlands,2019,United States,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,41772.6678344267
+Netherlands,2019,United Kingdom,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,27619.9505948412
+Netherlands,2019,World,Animal,Export,Export(US$ Mil),25900.483690227
+Netherlands,2019,World,Vegetable,Export,Export(US$ Mil),38083.8652580756
+Netherlands,2019,World,Food Products,Export,Export(US$ Mil),38764.0422990645
+Netherlands,2019,World,Minerals,Export,Export(US$ Mil),2769.2328846178
+Netherlands,2019,World,Fuels,Export,Export(US$ Mil),75747.1467007636
+Netherlands,2019,World,Chemicals,Export,Export(US$ Mil),72491.9469648716
+Netherlands,2019,World,Plastic or Rubber,Export,Export(US$ Mil),28788.6959261993
+Netherlands,2019,World,Hides and Skins,Export,Export(US$ Mil),2724.30598648271
+Netherlands,2019,World,Wood,Export,Export(US$ Mil),10789.5636025555
+Netherlands,2019,World,Textiles and Clothing,Export,Export(US$ Mil),17202.5225812401
+Netherlands,2019,World,Footwear,Export,Export(US$ Mil),4500.96314290589
+Netherlands,2019,World,Stone and Glass,Export,Export(US$ Mil),3967.83896375972
+Netherlands,2019,World,Metals,Export,Export(US$ Mil),31631.9545642209
+Netherlands,2019,World,Mach and Elec,Export,Export(US$ Mil),127426.016054398
+Netherlands,2019,World,Transportation,Export,Export(US$ Mil),31768.4546273422
+Netherlands,2019,World,Miscellaneous,Export,Export(US$ Mil),64227.4221645506
+Netherlands,2019,World,Raw materials,Export,Export(US$ Mil),51060.9959448112
+Netherlands,2019,World,Intermediate goods,Export,Export(US$ Mil),109668.944662207
+Netherlands,2019,World,Consumer goods,Export,Export(US$ Mil),211852.854626211
+Netherlands,2019,World,Capital goods,Export,Export(US$ Mil),175542.127002611
+Netherlands,2019,World,Raw materials,Import,Import(US$ Mil),74205.7317865255
+Netherlands,2019,World,Intermediate goods,Import,Import(US$ Mil),93188.9514831466
+Netherlands,2019,World,Consumer goods,Import,Import(US$ Mil),170518.516357651
+Netherlands,2019,World,Capital goods,Import,Import(US$ Mil),160698.754279763
+Netherlands,2019,World,All Products,Export,Exports (in US$ Mil),576784.455411276
+Netherlands,2019,World,All Products,Import,Imports (in US$ Mil),514857.6877837
+Netherlands,2019,World,All Products,Tariff,Duty Free Imports (US$ Thousand),144478036.135902
+Netherlands,2019,...,...,Development,Trade Balance (current US$ Mil),94598
+Netherlands,2019,...,...,Development,GDP (current US$ Mil),907051
+Netherlands,2019,...,...,Tariff,No. Of Tariff Agreement,
+Netherlands,2019,...,...,Import,No. Of Import partners,226
+Netherlands,2019,...,...,Import,No. Of Import products,4503
+Netherlands,2019,...,...,Export,No. Of Export partners,234
+Netherlands,2019,...,...,Export,No. Of Export products,4472
+Netherlands,2019,...,...,Others,Population,17344874
+Netherlands,2019,...,...,Others,Ease of Doing Business Rank,42
+Netherlands,2019,...,...,Others,Trading Across Borders Rank,1
+Netherlands,2019,...,...,Others,CPIA Trade Ratings,
+Netherlands,2018,...,...,Others,LPI Rank,6
+Netherlands,2018,...,...,Others,LPI Score,4.02
+Netherlands,,...,...,Others,Services Trade Restrictions Index - Over All,12.2
+Netherlands,2019,Germany,All Products,Export,Partner share(%)-Top 5 Export Partner,22.1923
+Netherlands,2019,Belgium,All Products,Export,Partner share(%)-Top 5 Export Partner,10.1037
+Netherlands,2019,France,All Products,Export,Partner share(%)-Top 5 Export Partner,7.8114
+Netherlands,2019,United Kingdom,All Products,Export,Partner share(%)-Top 5 Export Partner,7.7337
+Netherlands,2019,United States,All Products,Export,Partner share(%)-Top 5 Export Partner,5.1672
+Netherlands,2019,Germany,All Products,Import,Partner share(%)-Top 5 Import Partner,17.0737
+Netherlands,2019,Belgium,All Products,Import,Partner share(%)-Top 5 Import Partner,9.8597
+Netherlands,2019,China,All Products,Import,Partner share(%)-Top 5 Import Partner,9.3557
+Netherlands,2019,United States,All Products,Import,Partner share(%)-Top 5 Import Partner,8.1134
+Netherlands,2019,United Kingdom,All Products,Import,Partner share(%)-Top 5 Import Partner,5.3646
+Netherlands,2019,World,Animal,Export,Export Product share(%),4.4905
+Netherlands,2019,World,Vegetable,Export,Export Product share(%),6.6028
+Netherlands,2019,World,Food Products,Export,Export Product share(%),6.7207
+Netherlands,2019,World,Minerals,Export,Export Product share(%),0.4801
+Netherlands,2019,World,Fuels,Export,Export Product share(%),13.1327
+Netherlands,2019,World,Chemicals,Export,Export Product share(%),12.5683
+Netherlands,2019,World,Plastic or Rubber,Export,Export Product share(%),4.9912
+Netherlands,2019,World,Hides and Skins,Export,Export Product share(%),0.4723
+Netherlands,2019,World,Wood,Export,Export Product share(%),1.8706
+Netherlands,2019,World,Textiles and Clothing,Export,Export Product share(%),2.9825
+Netherlands,2019,World,Footwear,Export,Export Product share(%),0.7804
+Netherlands,2019,World,Stone and Glass,Export,Export Product share(%),0.6879
+Netherlands,2019,World,Metals,Export,Export Product share(%),5.4842
+Netherlands,2019,World,Mach and Elec,Export,Export Product share(%),22.0925
+Netherlands,2019,World,Transportation,Export,Export Product share(%),5.5079
+Netherlands,2019,World,Miscellaneous,Export,Export Product share(%),11.1354
+Netherlands,2019,World,Raw materials,Export,Export Product share(%),8.8527
+Netherlands,2019,World,Intermediate goods,Export,Export Product share(%),19.0139
+Netherlands,2019,World,Consumer goods,Export,Export Product share(%),36.73
+Netherlands,2019,World,Capital goods,Export,Export Product share(%),30.4346
+Netherlands,2019,World,Raw materials,Import,Import Product share(%),14.4129
+Netherlands,2019,World,Intermediate goods,Import,Import Product share(%),18.0999
+Netherlands,2019,World,Consumer goods,Import,Import Product share(%),33.1195
+Netherlands,2019,World,Capital goods,Import,Import Product share(%),31.2123
+Netherlands,2019,World,Raw materials,Tariff,Weighted Average (%),1.43070696840494
+Netherlands,2019,World,Intermediate goods,Tariff,Weighted Average (%),2.14319840010231
+Netherlands,2019,World,Consumer goods,Tariff,Weighted Average (%),4.17682957785754
+Netherlands,2019,World,Capital goods,Tariff,Weighted Average (%),0.467787924074643
+Netherlands,2019,World,All Products,Trade Indicator,World Growth (%),-1.13475826045476
+Netherlands,2019,World,All Products,Trade Indicator,Country Growth (%),-2.28077091531574
+Netherlands,2019,World,All Products,Tariff,Simple Average (%),2.73717882034537
+Netherlands,2019,World,All Products,Tariff,Weighted Average (%),1.93901151166778
+Netherlands,2019,World,All Products,Tariff,Maximum Rate (%),3000
+Netherlands,2019,World,All Products,Tariff,Duty Free Tariff Lines Share (%),55.0242576890786
+Netherlands,2019,...,...,Trade Indicator,Index of export market penetration,26.4918222358268
+Netherlands,2019,...,...,Trade Indicator,HH Market concentration index,0.082745625520147
+Netherlands,2019,...,...,Development,Trade Balance (% of GDP),10.42916543
+Netherlands,2019,...,...,Development,Trade in services (% of GDP),42.71082009
+Netherlands,2019,...,...,Development,Trade (% of GDP),156.2244599
+Netherlands,2019,...,...,Development,"GNI per capita, Atlas method (current US$)",53060

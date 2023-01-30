@@ -1,0 +1,102 @@
+Reporter,Year,Partner,Product categories,Indicator Type,Indicator,Indicator Value
+Tanzania,2018,Rwanda,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,685.629218381744
+Tanzania,2018,Kenya,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,338.826549352245
+Tanzania,2018,"Congo, Dem. Rep.",All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,310.996039316857
+Tanzania,2018,Zambia,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,266.894431991003
+Tanzania,2018,Uganda,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,194.424687180401
+Tanzania,2018,China,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,1770.51649112025
+Tanzania,2018,India,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,1223.1695738108
+Tanzania,2018,United Arab Emirates,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,875.816342620532
+Tanzania,2018,Saudi Arabia,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,570.798479628321
+Tanzania,2018,South Africa,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,439.336858694693
+Tanzania,2018,World,Animal,Export,Export(US$ Mil),141.115841906878
+Tanzania,2018,World,Vegetable,Export,Export(US$ Mil),303.591790272985
+Tanzania,2018,World,Food Products,Export,Export(US$ Mil),404.632156086064
+Tanzania,2018,World,Minerals,Export,Export(US$ Mil),156.398064113132
+Tanzania,2018,World,Fuels,Export,Export(US$ Mil),32.5406285324928
+Tanzania,2018,World,Chemicals,Export,Export(US$ Mil),242.968962379031
+Tanzania,2018,World,Plastic or Rubber,Export,Export(US$ Mil),169.610820089614
+Tanzania,2018,World,Hides and Skins,Export,Export(US$ Mil),7.16854222687701
+Tanzania,2018,World,Wood,Export,Export(US$ Mil),135.249412950049
+Tanzania,2018,World,Textiles and Clothing,Export,Export(US$ Mil),26.0400145048598
+Tanzania,2018,World,Footwear,Export,Export(US$ Mil),0.875668425965528
+Tanzania,2018,World,Stone and Glass,Export,Export(US$ Mil),54.7967699204501
+Tanzania,2018,World,Metals,Export,Export(US$ Mil),488.694408850292
+Tanzania,2018,World,Mach and Elec,Export,Export(US$ Mil),675.951704623061
+Tanzania,2018,World,Transportation,Export,Export(US$ Mil),178.085645777242
+Tanzania,2018,World,Miscellaneous,Export,Export(US$ Mil),651.492007878089
+Tanzania,2018,World,Raw materials,Export,Export(US$ Mil),399.01103461336
+Tanzania,2018,World,Intermediate goods,Export,Export(US$ Mil),936.612132864398
+Tanzania,2018,World,Consumer goods,Export,Export(US$ Mil),1570.0368183494
+Tanzania,2018,World,Capital goods,Export,Export(US$ Mil),742.932200624251
+Tanzania,2018,World,Raw materials,Import,Import(US$ Mil),104.363605301488
+Tanzania,2018,World,Intermediate goods,Import,Import(US$ Mil),2431.15686586578
+Tanzania,2018,World,Consumer goods,Import,Import(US$ Mil),3694.06173040135
+Tanzania,2018,World,Capital goods,Import,Import(US$ Mil),2322.15769608129
+Tanzania,2018,World,All Products,Export,Exports (in US$ Mil),3669.21243853708
+Tanzania,2018,World,All Products,Import,Imports (in US$ Mil),8553.6770241393
+Tanzania,2018,World,All Products,Tariff,Duty Free Imports (US$ Thousand),3429748.575
+Tanzania,2019,...,...,Development,Trade Balance (current US$ Mil),
+Tanzania,2019,...,...,Development,GDP (current US$ Mil),63177.068175
+Tanzania,2018,...,...,Tariff,No. Of Tariff Agreement,4
+Tanzania,2018,...,...,Import,No. Of Import partners,176
+Tanzania,2018,...,...,Import,No. Of Import products,3891
+Tanzania,2018,...,...,Export,No. Of Export partners,147
+Tanzania,2018,...,...,Export,No. Of Export products,2200
+Tanzania,2019,...,...,Others,Population,58005463
+Tanzania,2019,...,...,Others,Ease of Doing Business Rank,141
+Tanzania,2019,...,...,Others,Trading Across Borders Rank,182
+Tanzania,2019,...,...,Others,CPIA Trade Ratings,4
+Tanzania,2009,...,...,Others,Overall Trade Restrictiveness Index -  Applied Tariff,0.532504
+Tanzania,2009,...,...,Others,Overall Trade Restrictiveness Index - MFN Tariff,0.5410065
+Tanzania,,...,...,Others,Services Trade Restrictions Index - Over All,30.7
+Tanzania,2018,Rwanda,All Products,Export,Partner share(%)-Top 5 Export Partner,18.686
+Tanzania,2018,Kenya,All Products,Export,Partner share(%)-Top 5 Export Partner,9.2343
+Tanzania,2018,"Congo, Dem. Rep.",All Products,Export,Partner share(%)-Top 5 Export Partner,8.4758
+Tanzania,2018,Zambia,All Products,Export,Partner share(%)-Top 5 Export Partner,7.2739
+Tanzania,2018,Uganda,All Products,Export,Partner share(%)-Top 5 Export Partner,5.2988
+Tanzania,2018,China,All Products,Import,Partner share(%)-Top 5 Import Partner,20.6989
+Tanzania,2018,India,All Products,Import,Partner share(%)-Top 5 Import Partner,14.2999
+Tanzania,2018,United Arab Emirates,All Products,Import,Partner share(%)-Top 5 Import Partner,10.2391
+Tanzania,2018,Saudi Arabia,All Products,Import,Partner share(%)-Top 5 Import Partner,6.6731
+Tanzania,2018,South Africa,All Products,Import,Partner share(%)-Top 5 Import Partner,5.1362
+Tanzania,2018,World,Animal,Export,Export Product share(%),3.8459
+Tanzania,2018,World,Vegetable,Export,Export Product share(%),8.274
+Tanzania,2018,World,Food Products,Export,Export Product share(%),11.0278
+Tanzania,2018,World,Minerals,Export,Export Product share(%),4.2624
+Tanzania,2018,World,Fuels,Export,Export Product share(%),0.8869
+Tanzania,2018,World,Chemicals,Export,Export Product share(%),6.6218
+Tanzania,2018,World,Plastic or Rubber,Export,Export Product share(%),4.6225
+Tanzania,2018,World,Hides and Skins,Export,Export Product share(%),0.1954
+Tanzania,2018,World,Wood,Export,Export Product share(%),3.6861
+Tanzania,2018,World,Textiles and Clothing,Export,Export Product share(%),0.7097
+Tanzania,2018,World,Footwear,Export,Export Product share(%),0.0239
+Tanzania,2018,World,Stone and Glass,Export,Export Product share(%),1.4934
+Tanzania,2018,World,Metals,Export,Export Product share(%),13.3188
+Tanzania,2018,World,Mach and Elec,Export,Export Product share(%),18.4223
+Tanzania,2018,World,Transportation,Export,Export Product share(%),4.8535
+Tanzania,2018,World,Miscellaneous,Export,Export Product share(%),17.7556
+Tanzania,2018,World,Raw materials,Export,Export Product share(%),10.8746
+Tanzania,2018,World,Intermediate goods,Export,Export Product share(%),25.5262
+Tanzania,2018,World,Consumer goods,Export,Export Product share(%),42.7895
+Tanzania,2018,World,Capital goods,Export,Export Product share(%),20.2477
+Tanzania,2018,World,Raw materials,Import,Import Product share(%),1.2201
+Tanzania,2018,World,Intermediate goods,Import,Import Product share(%),28.4224
+Tanzania,2018,World,Consumer goods,Import,Import Product share(%),43.1868
+Tanzania,2018,World,Capital goods,Import,Import Product share(%),27.1481
+Tanzania,2018,World,Raw materials,Tariff,Weighted Average (%),3.60204779008419
+Tanzania,2018,World,Intermediate goods,Tariff,Weighted Average (%),5.41189929933411
+Tanzania,2018,World,Consumer goods,Tariff,Weighted Average (%),13.984993280227
+Tanzania,2018,World,Capital goods,Tariff,Weighted Average (%),4.347934685897
+Tanzania,2018,World,All Products,Trade Indicator,World Growth (%),3.49929022901836
+Tanzania,2018,World,All Products,Trade Indicator,Country Growth (%),-5.09313482167123
+Tanzania,2018,World,All Products,Tariff,Simple Average (%),12.263510387862
+Tanzania,2018,World,All Products,Tariff,Weighted Average (%),8.5527613005109
+Tanzania,2018,World,All Products,Tariff,Maximum Rate (%),100
+Tanzania,2018,World,All Products,Tariff,Duty Free Tariff Lines Share (%),38.1927285563007
+Tanzania,2018,...,...,Trade Indicator,Index of export market penetration,2.56445995656522
+Tanzania,2018,...,...,Trade Indicator,HH Market concentration index,0.0874067017728985
+Tanzania,2019,...,...,Development,Trade Balance (% of GDP),
+Tanzania,2019,...,...,Development,Trade in services (% of GDP),9.564060003
+Tanzania,2019,...,...,Development,Trade (% of GDP),
+Tanzania,2019,...,...,Development,"GNI per capita, Atlas method (current US$)",1080

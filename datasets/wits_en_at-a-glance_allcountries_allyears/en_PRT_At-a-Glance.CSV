@@ -1,0 +1,102 @@
+Reporter,Year,Partner,Product categories,Indicator Type,Indicator,Indicator Value
+Portugal,2019,Spain,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,16582.0169411631
+Portugal,2019,France,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,8672.15114374442
+Portugal,2019,Germany,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,8040.83449569716
+Portugal,2019,United Kingdom,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,4062.65432954808
+Portugal,2019,United States,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,3399.18442207724
+Portugal,2019,Spain,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,27325.1318354998
+Portugal,2019,Germany,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,11871.9657848138
+Portugal,2019,France,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,8789.59690092286
+Portugal,2019,Italy,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,4600.84911881388
+Portugal,2019,Netherlands,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,4450.50883621643
+Portugal,2019,World,Animal,Export,Export(US$ Mil),1790.40672204602
+Portugal,2019,World,Vegetable,Export,Export(US$ Mil),2568.063472807
+Portugal,2019,World,Food Products,Export,Export(US$ Mil),3825.92057906112
+Portugal,2019,World,Minerals,Export,Export(US$ Mil),902.084915506156
+Portugal,2019,World,Fuels,Export,Export(US$ Mil),4086.90440915933
+Portugal,2019,World,Chemicals,Export,Export(US$ Mil),3784.69616337791
+Portugal,2019,World,Plastic or Rubber,Export,Export(US$ Mil),4677.30637009269
+Portugal,2019,World,Hides and Skins,Export,Export(US$ Mil),353.68173702168
+Portugal,2019,World,Wood,Export,Export(US$ Mil),4978.82039199572
+Portugal,2019,World,Textiles and Clothing,Export,Export(US$ Mil),5838.148070654
+Portugal,2019,World,Footwear,Export,Export(US$ Mil),2138.87941546003
+Portugal,2019,World,Stone and Glass,Export,Export(US$ Mil),2308.00192518361
+Portugal,2019,World,Metals,Export,Export(US$ Mil),4975.29180313164
+Portugal,2019,World,Mach and Elec,Export,Export(US$ Mil),9311.19548214695
+Portugal,2019,World,Transportation,Export,Export(US$ Mil),10972.1732437472
+Portugal,2019,World,Miscellaneous,Export,Export(US$ Mil),4552.4994735552
+Portugal,2019,World,Raw materials,Export,Export(US$ Mil),4677.72331037373
+Portugal,2019,World,Intermediate goods,Export,Export(US$ Mil),14651.6231441965
+Portugal,2019,World,Consumer goods,Export,Export(US$ Mil),32759.1037256634
+Portugal,2019,World,Capital goods,Export,Export(US$ Mil),14860.9858461168
+Portugal,2019,World,Raw materials,Import,Import(US$ Mil),13335.5271826717
+Portugal,2019,World,Intermediate goods,Import,Import(US$ Mil),19849.1530428763
+Portugal,2019,World,Consumer goods,Import,Import(US$ Mil),32157.5990079924
+Portugal,2019,World,Capital goods,Import,Import(US$ Mil),24176.7838151688
+Portugal,2019,World,All Products,Export,Exports (in US$ Mil),67064.0741749462
+Portugal,2019,World,All Products,Import,Imports (in US$ Mil),89541.3797312222
+Portugal,2019,World,All Products,Tariff,Duty Free Imports (US$ Thousand),14353674.9450812
+Portugal,2019,...,...,Development,Trade Balance (current US$ Mil),546
+Portugal,2019,...,...,Development,GDP (current US$ Mil),238785
+Portugal,2019,...,...,Tariff,No. Of Tariff Agreement,
+Portugal,2019,...,...,Import,No. Of Import partners,196
+Portugal,2019,...,...,Import,No. Of Import products,4473
+Portugal,2019,...,...,Export,No. Of Export partners,216
+Portugal,2019,...,...,Export,No. Of Export products,4212
+Portugal,2019,...,...,Others,Population,10286263
+Portugal,2019,...,...,Others,Ease of Doing Business Rank,39
+Portugal,2019,...,...,Others,Trading Across Borders Rank,1
+Portugal,2019,...,...,Others,CPIA Trade Ratings,
+Portugal,2018,...,...,Others,LPI Rank,23
+Portugal,2018,...,...,Others,LPI Score,3.64
+Portugal,,...,...,Others,Services Trade Restrictions Index - Over All,21.8
+Portugal,2019,Spain,All Products,Export,Partner share(%)-Top 5 Export Partner,24.7256
+Portugal,2019,France,All Products,Export,Partner share(%)-Top 5 Export Partner,12.9311
+Portugal,2019,Germany,All Products,Export,Partner share(%)-Top 5 Export Partner,11.9898
+Portugal,2019,United Kingdom,All Products,Export,Partner share(%)-Top 5 Export Partner,6.0579
+Portugal,2019,United States,All Products,Export,Partner share(%)-Top 5 Export Partner,5.0686
+Portugal,2019,Spain,All Products,Import,Partner share(%)-Top 5 Import Partner,30.5168
+Portugal,2019,Germany,All Products,Import,Partner share(%)-Top 5 Import Partner,13.2586
+Portugal,2019,France,All Products,Import,Partner share(%)-Top 5 Import Partner,9.8162
+Portugal,2019,Italy,All Products,Import,Partner share(%)-Top 5 Import Partner,5.1382
+Portugal,2019,Netherlands,All Products,Import,Partner share(%)-Top 5 Import Partner,4.9703
+Portugal,2019,World,Animal,Export,Export Product share(%),2.6697
+Portugal,2019,World,Vegetable,Export,Export Product share(%),3.8293
+Portugal,2019,World,Food Products,Export,Export Product share(%),5.7049
+Portugal,2019,World,Minerals,Export,Export Product share(%),1.3451
+Portugal,2019,World,Fuels,Export,Export Product share(%),6.094
+Portugal,2019,World,Chemicals,Export,Export Product share(%),5.6434
+Portugal,2019,World,Plastic or Rubber,Export,Export Product share(%),6.9744
+Portugal,2019,World,Hides and Skins,Export,Export Product share(%),0.5274
+Portugal,2019,World,Wood,Export,Export Product share(%),7.424
+Portugal,2019,World,Textiles and Clothing,Export,Export Product share(%),8.7053
+Portugal,2019,World,Footwear,Export,Export Product share(%),3.1893
+Portugal,2019,World,Stone and Glass,Export,Export Product share(%),3.4415
+Portugal,2019,World,Metals,Export,Export Product share(%),7.4187
+Portugal,2019,World,Mach and Elec,Export,Export Product share(%),13.884
+Portugal,2019,World,Transportation,Export,Export Product share(%),16.3607
+Portugal,2019,World,Miscellaneous,Export,Export Product share(%),6.7883
+Portugal,2019,World,Raw materials,Export,Export Product share(%),6.975
+Portugal,2019,World,Intermediate goods,Export,Export Product share(%),21.8472
+Portugal,2019,World,Consumer goods,Export,Export Product share(%),48.8475
+Portugal,2019,World,Capital goods,Export,Export Product share(%),22.1594
+Portugal,2019,World,Raw materials,Import,Import Product share(%),14.8931
+Portugal,2019,World,Intermediate goods,Import,Import Product share(%),22.1676
+Portugal,2019,World,Consumer goods,Import,Import Product share(%),35.9137
+Portugal,2019,World,Capital goods,Import,Import Product share(%),27.0007
+Portugal,2019,World,Raw materials,Tariff,Weighted Average (%),0.476070517131314
+Portugal,2019,World,Intermediate goods,Tariff,Weighted Average (%),2.04548794224059
+Portugal,2019,World,Consumer goods,Tariff,Weighted Average (%),2.77294365219148
+Portugal,2019,World,Capital goods,Tariff,Weighted Average (%),1.03031797794782
+Portugal,2019,World,All Products,Trade Indicator,World Growth (%),-1.13475826045476
+Portugal,2019,World,All Products,Trade Indicator,Country Growth (%),-2.16933427499334
+Portugal,2019,World,All Products,Tariff,Simple Average (%),2.78660423094487
+Portugal,2019,World,All Products,Tariff,Weighted Average (%),1.73293577871768
+Portugal,2019,World,All Products,Tariff,Maximum Rate (%),154.5498046875
+Portugal,2019,World,All Products,Tariff,Duty Free Tariff Lines Share (%),51.5932910875516
+Portugal,2019,...,...,Trade Indicator,Index of export market penetration,13.2337189942416
+Portugal,2019,...,...,Trade Indicator,HH Market concentration index,0.0819403333024737
+Portugal,2019,...,...,Development,Trade Balance (% of GDP),0.228633200000004
+Portugal,2019,...,...,Development,Trade in services (% of GDP),24.85339441
+Portugal,2019,...,...,Development,Trade (% of GDP),86.78232742
+Portugal,2019,...,...,Development,"GNI per capita, Atlas method (current US$)",23160

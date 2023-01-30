@@ -1,0 +1,99 @@
+Reporter,Year,Partner,Product categories,Indicator Type,Indicator,Indicator Value
+Seychelles,2019,United Arab Emirates,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,302.394320819798
+Seychelles,2019,United Kingdom,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,121.680500030259
+Seychelles,2019,British Virgin Islands,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,104.189994836546
+Seychelles,2019,France,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,102.4411641737
+Seychelles,2019,Italy,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,42.0358926416112
+Seychelles,2019,United Arab Emirates,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,318.740497731178
+Seychelles,2019,Qatar,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,199.914785035478
+Seychelles,2019,France,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,114.215494424113
+Seychelles,2019,British Virgin Islands,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,105.033912354607
+Seychelles,2019,South Africa,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,74.4064140701878
+Seychelles,2019,World,Animal,Export,Export(US$ Mil),62.0563467443774
+Seychelles,2019,World,Vegetable,Export,Export(US$ Mil),6.578680944786
+Seychelles,2019,World,Food Products,Export,Export(US$ Mil),264.618974806818
+Seychelles,2019,World,Minerals,Export,Export(US$ Mil),0.0017323311815854
+Seychelles,2019,World,Fuels,Export,Export(US$ Mil),307.027542052745
+Seychelles,2019,World,Chemicals,Export,Export(US$ Mil),0.534457559851082
+Seychelles,2019,World,Plastic or Rubber,Export,Export(US$ Mil),0.387112873876485
+Seychelles,2019,World,Hides and Skins,Export,Export(US$ Mil),0.0022267745905856
+Seychelles,2019,World,Wood,Export,Export(US$ Mil),0.0349840997028394
+Seychelles,2019,World,Textiles and Clothing,Export,Export(US$ Mil),0.19095785786575
+Seychelles,2019,World,Footwear,Export,Export(US$ Mil),0.0010416137577351
+Seychelles,2019,World,Stone and Glass,Export,Export(US$ Mil),0.529827775842137
+Seychelles,2019,World,Metals,Export,Export(US$ Mil),2.4793608652012
+Seychelles,2019,World,Mach and Elec,Export,Export(US$ Mil),1.91851143374904
+Seychelles,2019,World,Transportation,Export,Export(US$ Mil),172.00664351994
+Seychelles,2019,World,Miscellaneous,Export,Export(US$ Mil),5.66998224390797
+Seychelles,2019,World,Raw materials,Export,Export(US$ Mil),64.385928454878
+Seychelles,2019,World,Intermediate goods,Export,Export(US$ Mil),21.0275526249045
+Seychelles,2019,World,Consumer goods,Export,Export(US$ Mil),729.263859904717
+Seychelles,2019,World,Capital goods,Export,Export(US$ Mil),5.67347439735945
+Seychelles,2019,World,Raw materials,Import,Import(US$ Mil),162.490185967028
+Seychelles,2019,World,Intermediate goods,Import,Import(US$ Mil),135.299897007808
+Seychelles,2019,World,Consumer goods,Import,Import(US$ Mil),923.260120334166
+Seychelles,2019,World,Capital goods,Import,Import(US$ Mil),212.530227487516
+Seychelles,2019,World,All Products,Export,Exports (in US$ Mil),824.038383498193
+Seychelles,2019,World,All Products,Import,Imports (in US$ Mil),1437.73599288094
+Seychelles,2019,World,All Products,Tariff,Duty Free Imports (US$ Thousand),1106530.38693167
+Seychelles,2019,...,...,Development,Trade Balance (current US$ Mil),-197.910073
+Seychelles,2019,...,...,Development,GDP (current US$ Mil),1703.387387
+Seychelles,2019,...,...,Tariff,No. Of Tariff Agreement,7
+Seychelles,2019,...,...,Import,No. Of Import partners,162
+Seychelles,2019,...,...,Import,No. Of Import products,3429
+Seychelles,2019,...,...,Export,No. Of Export partners,81
+Seychelles,2019,...,...,Export,No. Of Export products,406
+Seychelles,2019,...,...,Others,Population,97625
+Seychelles,2019,...,...,Others,Ease of Doing Business Rank,100
+Seychelles,2019,...,...,Others,Trading Across Borders Rank,98
+Seychelles,2019,...,...,Others,CPIA Trade Ratings,
+Seychelles,2019,United Arab Emirates,All Products,Export,Partner share(%)-Top 5 Export Partner,36.6966
+Seychelles,2019,United Kingdom,All Products,Export,Partner share(%)-Top 5 Export Partner,14.7664
+Seychelles,2019,British Virgin Islands,All Products,Export,Partner share(%)-Top 5 Export Partner,12.6438
+Seychelles,2019,France,All Products,Export,Partner share(%)-Top 5 Export Partner,12.4316
+Seychelles,2019,Italy,All Products,Export,Partner share(%)-Top 5 Export Partner,5.1012
+Seychelles,2019,United Arab Emirates,All Products,Import,Partner share(%)-Top 5 Import Partner,22.1696
+Seychelles,2019,Qatar,All Products,Import,Partner share(%)-Top 5 Import Partner,13.9048
+Seychelles,2019,France,All Products,Import,Partner share(%)-Top 5 Import Partner,7.9441
+Seychelles,2019,British Virgin Islands,All Products,Import,Partner share(%)-Top 5 Import Partner,7.3055
+Seychelles,2019,South Africa,All Products,Import,Partner share(%)-Top 5 Import Partner,5.1752
+Seychelles,2019,World,Animal,Export,Export Product share(%),7.5308
+Seychelles,2019,World,Vegetable,Export,Export Product share(%),0.7983
+Seychelles,2019,World,Food Products,Export,Export Product share(%),32.1125
+Seychelles,2019,World,Minerals,Export,Export Product share(%),0.0002
+Seychelles,2019,World,Fuels,Export,Export Product share(%),37.2589
+Seychelles,2019,World,Chemicals,Export,Export Product share(%),0.0649
+Seychelles,2019,World,Plastic or Rubber,Export,Export Product share(%),0.047
+Seychelles,2019,World,Hides and Skins,Export,Export Product share(%),0.0003
+Seychelles,2019,World,Wood,Export,Export Product share(%),0.0042
+Seychelles,2019,World,Textiles and Clothing,Export,Export Product share(%),0.0232
+Seychelles,2019,World,Footwear,Export,Export Product share(%),0.0001
+Seychelles,2019,World,Stone and Glass,Export,Export Product share(%),0.0643
+Seychelles,2019,World,Metals,Export,Export Product share(%),0.3009
+Seychelles,2019,World,Mach and Elec,Export,Export Product share(%),0.2328
+Seychelles,2019,World,Transportation,Export,Export Product share(%),20.8736
+Seychelles,2019,World,Miscellaneous,Export,Export Product share(%),0.6881
+Seychelles,2019,World,Raw materials,Export,Export Product share(%),7.8135
+Seychelles,2019,World,Intermediate goods,Export,Export Product share(%),2.5518
+Seychelles,2019,World,Consumer goods,Export,Export Product share(%),88.4988
+Seychelles,2019,World,Capital goods,Export,Export Product share(%),0.6885
+Seychelles,2019,World,Raw materials,Import,Import Product share(%),11.3018
+Seychelles,2019,World,Intermediate goods,Import,Import Product share(%),9.4106
+Seychelles,2019,World,Consumer goods,Import,Import Product share(%),64.2162
+Seychelles,2019,World,Capital goods,Import,Import Product share(%),14.7823
+Seychelles,2019,World,Raw materials,Tariff,Weighted Average (%),2.18637784966828
+Seychelles,2019,World,Intermediate goods,Tariff,Weighted Average (%),0.0249646101483465
+Seychelles,2019,World,Consumer goods,Tariff,Weighted Average (%),34.7265598034624
+Seychelles,2019,World,Capital goods,Tariff,Weighted Average (%),0.0243026558060161
+Seychelles,2019,World,All Products,Trade Indicator,World Growth (%),-1.13475826045476
+Seychelles,2019,World,All Products,Trade Indicator,Country Growth (%),1.14648624128357
+Seychelles,2019,World,All Products,Tariff,Simple Average (%),8.90527830277779
+Seychelles,2019,World,All Products,Tariff,Weighted Average (%),20.2819173550479
+Seychelles,2019,World,All Products,Tariff,Maximum Rate (%),3000
+Seychelles,2019,World,All Products,Tariff,Duty Free Tariff Lines Share (%),88.8353106872598
+Seychelles,2019,...,...,Trade Indicator,Index of export market penetration,1.55764365739068
+Seychelles,2019,...,...,Trade Indicator,HH Market concentration index,0.0831104706275567
+Seychelles,2019,...,...,Development,Trade Balance (% of GDP),-11.61861793
+Seychelles,2019,...,...,Development,Trade in services (% of GDP),105.5724414
+Seychelles,2019,...,...,Development,Trade (% of GDP),172.2595368
+Seychelles,2019,...,...,Development,"GNI per capita, Atlas method (current US$)",16900

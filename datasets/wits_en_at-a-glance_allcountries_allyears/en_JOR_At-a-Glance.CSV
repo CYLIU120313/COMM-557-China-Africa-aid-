@@ -1,0 +1,104 @@
+Reporter,Year,Partner,Product categories,Indicator Type,Indicator,Indicator Value
+Jordan,2019,United States,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,1967.15389620082
+Jordan,2019,Free Zones,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,995.739966851827
+Jordan,2019,Saudi Arabia,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,843.37433203815
+Jordan,2019,India,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,701.671716365114
+Jordan,2019,Iraq,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,634.694229060408
+Jordan,2019,Saudi Arabia,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,3106.916360903
+Jordan,2019,China,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,3086.73805525711
+Jordan,2019,United States,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,1599.84995427828
+Jordan,2019,Turkey,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,880.933923024254
+Jordan,2019,India,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,861.742128853134
+Jordan,2019,World,Animal,Export,Export(US$ Mil),264.093261093376
+Jordan,2019,World,Vegetable,Export,Export(US$ Mil),466.063751394494
+Jordan,2019,World,Food Products,Export,Export(US$ Mil),390.07072980216
+Jordan,2019,World,Minerals,Export,Export(US$ Mil),457.084266410211
+Jordan,2019,World,Fuels,Export,Export(US$ Mil),177.358847104505
+Jordan,2019,World,Chemicals,Export,Export(US$ Mil),2391.73426986973
+Jordan,2019,World,Plastic or Rubber,Export,Export(US$ Mil),247.155043451844
+Jordan,2019,World,Hides and Skins,Export,Export(US$ Mil),4.393710781834
+Jordan,2019,World,Wood,Export,Export(US$ Mil),173.911491450983
+Jordan,2019,World,Textiles and Clothing,Export,Export(US$ Mil),2009.9495108217
+Jordan,2019,World,Footwear,Export,Export(US$ Mil),5.186263060946
+Jordan,2019,World,Stone and Glass,Export,Export(US$ Mil),311.362080878981
+Jordan,2019,World,Metals,Export,Export(US$ Mil),357.097873582087
+Jordan,2019,World,Mach and Elec,Export,Export(US$ Mil),568.778319443422
+Jordan,2019,World,Transportation,Export,Export(US$ Mil),332.052655646536
+Jordan,2019,World,Miscellaneous,Export,Export(US$ Mil),156.624486412262
+Jordan,2019,World,Raw materials,Export,Export(US$ Mil),1085.74547448537
+Jordan,2019,World,Intermediate goods,Export,Export(US$ Mil),2436.22447921267
+Jordan,2019,World,Consumer goods,Export,Export(US$ Mil),4098.18609864707
+Jordan,2019,World,Capital goods,Export,Export(US$ Mil),672.992408934011
+Jordan,2019,World,Raw materials,Import,Import(US$ Mil),2980.29863008794
+Jordan,2019,World,Intermediate goods,Import,Import(US$ Mil),4400.78385092497
+Jordan,2019,World,Consumer goods,Import,Import(US$ Mil),7742.53758508749
+Jordan,2019,World,Capital goods,Import,Import(US$ Mil),3392.85638714758
+Jordan,2019,World,All Products,Export,Exports (in US$ Mil),8312.91656120507
+Jordan,2019,World,All Products,Import,Imports (in US$ Mil),19336.7087184545
+Jordan,2017,World,All Products,Tariff,Duty Free Imports (US$ Thousand),13924601.2799403
+Jordan,2019,...,...,Development,Trade Balance (current US$ Mil),-6066.056338
+Jordan,2019,...,...,Development,GDP (current US$ Mil),44502.895862
+Jordan,2017,...,...,Tariff,No. Of Tariff Agreement,23
+Jordan,2019,...,...,Import,No. Of Import partners,144
+Jordan,2019,...,...,Import,No. Of Import products,3726
+Jordan,2019,...,...,Export,No. Of Export partners,149
+Jordan,2019,...,...,Export,No. Of Export products,2156
+Jordan,2019,...,...,Others,Population,10101694
+Jordan,2019,...,...,Others,Ease of Doing Business Rank,75
+Jordan,2019,...,...,Others,Trading Across Borders Rank,75
+Jordan,2019,...,...,Others,CPIA Trade Ratings,
+Jordan,2018,...,...,Others,LPI Rank,84
+Jordan,2018,...,...,Others,LPI Score,2.69
+Jordan,2009,...,...,Others,Overall Trade Restrictiveness Index -  Applied Tariff,0.2234741
+Jordan,2009,...,...,Others,Overall Trade Restrictiveness Index - MFN Tariff,0.2564379
+Jordan,,...,...,Others,Services Trade Restrictions Index - Over All,42.3
+Jordan,2019,United States,All Products,Export,Partner share(%)-Top 5 Export Partner,23.6638
+Jordan,2019,Free Zones,All Products,Export,Partner share(%)-Top 5 Export Partner,11.9782
+Jordan,2019,Saudi Arabia,All Products,Export,Partner share(%)-Top 5 Export Partner,10.1453
+Jordan,2019,India,All Products,Export,Partner share(%)-Top 5 Export Partner,8.4407
+Jordan,2019,Iraq,All Products,Export,Partner share(%)-Top 5 Export Partner,7.635
+Jordan,2019,Saudi Arabia,All Products,Import,Partner share(%)-Top 5 Import Partner,16.0675
+Jordan,2019,China,All Products,Import,Partner share(%)-Top 5 Import Partner,15.9631
+Jordan,2019,United States,All Products,Import,Partner share(%)-Top 5 Import Partner,8.2736
+Jordan,2019,Turkey,All Products,Import,Partner share(%)-Top 5 Import Partner,4.5558
+Jordan,2019,India,All Products,Import,Partner share(%)-Top 5 Import Partner,4.4565
+Jordan,2019,World,Animal,Export,Export Product share(%),3.1769
+Jordan,2019,World,Vegetable,Export,Export Product share(%),5.6065
+Jordan,2019,World,Food Products,Export,Export Product share(%),4.6923
+Jordan,2019,World,Minerals,Export,Export Product share(%),5.4985
+Jordan,2019,World,Fuels,Export,Export Product share(%),2.1335
+Jordan,2019,World,Chemicals,Export,Export Product share(%),28.7713
+Jordan,2019,World,Plastic or Rubber,Export,Export Product share(%),2.9731
+Jordan,2019,World,Hides and Skins,Export,Export Product share(%),0.0529
+Jordan,2019,World,Wood,Export,Export Product share(%),2.0921
+Jordan,2019,World,Textiles and Clothing,Export,Export Product share(%),24.1786
+Jordan,2019,World,Footwear,Export,Export Product share(%),0.0624
+Jordan,2019,World,Stone and Glass,Export,Export Product share(%),3.7455
+Jordan,2019,World,Metals,Export,Export Product share(%),4.2957
+Jordan,2019,World,Mach and Elec,Export,Export Product share(%),6.8421
+Jordan,2019,World,Transportation,Export,Export Product share(%),3.9944
+Jordan,2019,World,Miscellaneous,Export,Export Product share(%),1.8841
+Jordan,2019,World,Raw materials,Export,Export Product share(%),13.0609
+Jordan,2019,World,Intermediate goods,Export,Export Product share(%),29.3065
+Jordan,2019,World,Consumer goods,Export,Export Product share(%),49.299
+Jordan,2019,World,Capital goods,Export,Export Product share(%),8.0957
+Jordan,2019,World,Raw materials,Import,Import Product share(%),15.4126
+Jordan,2019,World,Intermediate goods,Import,Import Product share(%),22.7587
+Jordan,2019,World,Consumer goods,Import,Import Product share(%),40.0406
+Jordan,2019,World,Capital goods,Import,Import Product share(%),17.5462
+Jordan,2017,World,Raw materials,Tariff,Weighted Average (%),3.72192609704149
+Jordan,2017,World,Intermediate goods,Tariff,Weighted Average (%),1.32899030484943
+Jordan,2017,World,Consumer goods,Tariff,Weighted Average (%),7.25113157647047
+Jordan,2017,World,Capital goods,Tariff,Weighted Average (%),2.66284083173444
+Jordan,2019,World,All Products,Trade Indicator,World Growth (%),-1.13475826045476
+Jordan,2019,World,All Products,Trade Indicator,Country Growth (%),5.16795225728774
+Jordan,2017,World,All Products,Tariff,Simple Average (%),4.83873634942198
+Jordan,2017,World,All Products,Tariff,Weighted Average (%),4.40647975209849
+Jordan,2017,World,All Products,Tariff,Maximum Rate (%),654.070617675781
+Jordan,2017,World,All Products,Tariff,Duty Free Tariff Lines Share (%),81.5397624912681
+Jordan,2019,...,...,Trade Indicator,Index of export market penetration,3.45738954212493
+Jordan,2019,...,...,Trade Indicator,HH Market concentration index,0.126322808301594
+Jordan,2019,...,...,Development,Trade Balance (% of GDP),-13.63070025
+Jordan,2019,...,...,Development,Trade in services (% of GDP),28.79394834
+Jordan,2019,...,...,Development,Trade (% of GDP),86.34253757
+Jordan,2019,...,...,Development,"GNI per capita, Atlas method (current US$)",4410

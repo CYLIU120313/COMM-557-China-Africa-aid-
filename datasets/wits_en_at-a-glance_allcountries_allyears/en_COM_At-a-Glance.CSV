@@ -1,0 +1,101 @@
+Reporter,Year,Partner,Product categories,Indicator Type,Indicator,Indicator Value
+Comoros,2019,France,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,22.4346332515672
+Comoros,2019,India,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,9.275355210128
+Comoros,2019,Germany,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,4.89754220840416
+Comoros,2019,Madagascar,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,4.86883163004672
+Comoros,2019,United Arab Emirates,All Products,Export,Trade (US$ Mil)-Top 5 Export Partner,2.6768813505952
+Comoros,2019,United Arab Emirates,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,43.6738294542678
+Comoros,2019,France,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,30.5552061359368
+Comoros,2019,Pakistan,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,30.4508442773518
+Comoros,2019,China,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,19.4371330628128
+Comoros,2019,Turkey,All Products,Import,Trade (US$ Mil)-Top 5 Import Partner,8.80347450413571
+Comoros,2019,World,Animal,Export,Export(US$ Mil),0.001402979082624
+Comoros,2019,World,Vegetable,Export,Export(US$ Mil),21.2652818467394
+Comoros,2019,World,Food Products,Export,Export(US$ Mil),0.07456057390656
+Comoros,2019,World,Minerals,Export,Export(US$ Mil),0.00182889668584
+Comoros,2019,World,Fuels,Export,Export(US$ Mil),0.012281454359104
+Comoros,2019,World,Chemicals,Export,Export(US$ Mil),12.5771375119193
+Comoros,2019,World,Plastic or Rubber,Export,Export(US$ Mil),0.003229103136
+Comoros,2019,World,Hides and Skins,Export,Export(US$ Mil),0.0022736
+Comoros,2019,World,Wood,Export,Export(US$ Mil),0.007647344544
+Comoros,2019,World,Textiles and Clothing,Export,Export(US$ Mil),0.487474215336192
+Comoros,2019,World,Footwear,Export,Export(US$ Mil),0.03835381312
+Comoros,2019,World,Stone and Glass,Export,Export(US$ Mil),0.00102312
+Comoros,2019,World,Metals,Export,Export(US$ Mil),0.620698470267456
+Comoros,2019,World,Mach and Elec,Export,Export(US$ Mil),3.58587970716012
+Comoros,2019,World,Transportation,Export,Export(US$ Mil),0.127867401598272
+Comoros,2019,World,Miscellaneous,Export,Export(US$ Mil),10.2172806806694
+Comoros,2019,World,Raw materials,Export,Export(US$ Mil),0.158973282057744
+Comoros,2019,World,Intermediate goods,Export,Export(US$ Mil),12.6458573768545
+Comoros,2019,World,Consumer goods,Export,Export(US$ Mil),32.4500011752497
+Comoros,2019,World,Capital goods,Export,Export(US$ Mil),3.7693888843623
+Comoros,2019,World,Raw materials,Import,Import(US$ Mil),25.2223504752788
+Comoros,2019,World,Intermediate goods,Import,Import(US$ Mil),60.0109904167569
+Comoros,2019,World,Consumer goods,Import,Import(US$ Mil),96.8417194105248
+Comoros,2019,World,Capital goods,Import,Import(US$ Mil),15.262250044788
+Comoros,2019,World,All Products,Export,Exports (in US$ Mil),49.0242207185244
+Comoros,2019,World,All Products,Import,Imports (in US$ Mil),201.191155516453
+Comoros,2019,World,All Products,Tariff,Duty Free Imports (US$ Thousand),112250.538167633
+Comoros,2019,...,...,Development,Trade Balance (current US$ Mil),-191.8568362
+Comoros,2019,...,...,Development,GDP (current US$ Mil),1165.839927
+Comoros,2019,...,...,Tariff,No. Of Tariff Agreement,4
+Comoros,2019,...,...,Import,No. Of Import partners,97
+Comoros,2019,...,...,Import,No. Of Import products,2350
+Comoros,2019,...,...,Export,No. Of Export partners,38
+Comoros,2019,...,...,Export,No. Of Export products,161
+Comoros,2019,...,...,Others,Population,850886
+Comoros,2019,...,...,Others,Ease of Doing Business Rank,160
+Comoros,2019,...,...,Others,Trading Across Borders Rank,120
+Comoros,2019,...,...,Others,CPIA Trade Ratings,3.5
+Comoros,2018,...,...,Others,LPI Rank,107
+Comoros,2018,...,...,Others,LPI Score,2.56
+Comoros,2019,France,All Products,Export,Partner share(%)-Top 5 Export Partner,45.7623
+Comoros,2019,India,All Products,Export,Partner share(%)-Top 5 Export Partner,18.9199
+Comoros,2019,Germany,All Products,Export,Partner share(%)-Top 5 Export Partner,9.99
+Comoros,2019,Madagascar,All Products,Export,Partner share(%)-Top 5 Export Partner,9.9315
+Comoros,2019,United Arab Emirates,All Products,Export,Partner share(%)-Top 5 Export Partner,5.4603
+Comoros,2019,United Arab Emirates,All Products,Import,Partner share(%)-Top 5 Import Partner,21.7076
+Comoros,2019,France,All Products,Import,Partner share(%)-Top 5 Import Partner,15.1872
+Comoros,2019,Pakistan,All Products,Import,Partner share(%)-Top 5 Import Partner,15.1353
+Comoros,2019,China,All Products,Import,Partner share(%)-Top 5 Import Partner,9.661
+Comoros,2019,Turkey,All Products,Import,Partner share(%)-Top 5 Import Partner,4.3757
+Comoros,2019,World,Animal,Export,Export Product share(%),0.0029
+Comoros,2019,World,Vegetable,Export,Export Product share(%),43.3771
+Comoros,2019,World,Food Products,Export,Export Product share(%),0.1521
+Comoros,2019,World,Minerals,Export,Export Product share(%),0.0037
+Comoros,2019,World,Fuels,Export,Export Product share(%),0.0251
+Comoros,2019,World,Chemicals,Export,Export Product share(%),25.6549
+Comoros,2019,World,Plastic or Rubber,Export,Export Product share(%),0.0066
+Comoros,2019,World,Hides and Skins,Export,Export Product share(%),0.0046
+Comoros,2019,World,Wood,Export,Export Product share(%),0.0156
+Comoros,2019,World,Textiles and Clothing,Export,Export Product share(%),0.9944
+Comoros,2019,World,Footwear,Export,Export Product share(%),0.0782
+Comoros,2019,World,Stone and Glass,Export,Export Product share(%),0.0021
+Comoros,2019,World,Metals,Export,Export Product share(%),1.2661
+Comoros,2019,World,Mach and Elec,Export,Export Product share(%),7.3145
+Comoros,2019,World,Transportation,Export,Export Product share(%),0.2608
+Comoros,2019,World,Miscellaneous,Export,Export Product share(%),20.8413
+Comoros,2019,World,Raw materials,Export,Export Product share(%),0.3243
+Comoros,2019,World,Intermediate goods,Export,Export Product share(%),25.7951
+Comoros,2019,World,Consumer goods,Export,Export Product share(%),66.1918
+Comoros,2019,World,Capital goods,Export,Export Product share(%),7.6888
+Comoros,2019,World,Raw materials,Import,Import Product share(%),12.5365
+Comoros,2019,World,Intermediate goods,Import,Import Product share(%),29.8278
+Comoros,2019,World,Consumer goods,Import,Import Product share(%),48.1342
+Comoros,2019,World,Capital goods,Import,Import Product share(%),7.5859
+Comoros,2019,World,Raw materials,Tariff,Weighted Average (%),0.558973070554122
+Comoros,2019,World,Intermediate goods,Tariff,Weighted Average (%),2.14745884300112
+Comoros,2019,World,Consumer goods,Tariff,Weighted Average (%),5.00070563999948
+Comoros,2019,World,Capital goods,Tariff,Weighted Average (%),12.1942654919707
+Comoros,2019,World,All Products,Trade Indicator,World Growth (%),-1.13475826045476
+Comoros,2019,World,All Products,Trade Indicator,Country Growth (%),-25.0507771119488
+Comoros,2019,World,All Products,Tariff,Simple Average (%),12.4708466065506
+Comoros,2019,World,All Products,Tariff,Weighted Average (%),4.24458225417898
+Comoros,2019,World,All Products,Tariff,Maximum Rate (%),20
+Comoros,2019,World,All Products,Tariff,Duty Free Tariff Lines Share (%),25.6789354914014
+Comoros,2019,...,...,Trade Indicator,Index of export market penetration,1.29083638897646
+Comoros,2019,...,...,Trade Indicator,HH Market concentration index,0.166331819888585
+Comoros,2019,...,...,Development,Trade Balance (% of GDP),-16.45653333
+Comoros,2019,...,...,Development,Trade in services (% of GDP),18.26198726
+Comoros,2019,...,...,Development,Trade (% of GDP),42.07566719
+Comoros,2019,...,...,Development,"GNI per capita, Atlas method (current US$)",1400
