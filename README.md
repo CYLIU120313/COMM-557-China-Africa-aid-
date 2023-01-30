@@ -1,1 +1,1 @@
-# COMM-557-China-Africa-aid-
+# COMM-557-China-Africa-aid
